@@ -1,0 +1,138 @@
+baseURL = "https://afranca.com.br"
+languageCode = "en"
+title = "Andre Franca"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 15
+summarylength = 70
+
+[permalinks]
+  [permalinks.page]
+    posts = "/:slug/"
+    pages = "/:slug/"
+  [permalinks.section]
+    posts = "/posts/"
+
+[params]
+  description = "Welcome to my personal blog, where I share my thoughts and interests"
+  tagline = "I'm Andre, a tech nerd and open source enthusiast"
+  colorScheme = "Auto"            # "Light", "Dark", or "Auto"
+  showReadingTime = true
+  showTagsOnPosts = true
+  showRecentPostsFooter = true
+  contactEmail = "hello@privatemail.slmail.me"
+  webmentionEndpoint = "https://webmention.io/afranca.com.br/webmention"
+  pingbackEndpoint = "https://webmention.io/afranca.com.br/xmlrpc"
+  fediverseCreator = "@abf@mas.to"
+  fediverseURL = "https://mas.to/@abf"
+  privacyAndTerms = "/about#privacy-and-terms"
+  umamiID = "b0cc7576-7b57-4722-b4e7-6a2747429615"
+
+  # rel="me" identity verification links (IndieWeb)
+  [params.relMe]
+    ids = ["https://mas.to/@abf", "https://github.com/andrefcodes", "https://codeberg.org/abf", "https://git.sr.ht/~abf/"]
+
+[params.author]
+  name = "Andre Franca"
+  email = "andre@abf.li"
+  url = "https://afranca.com.br"
+  bio = "I'm Andre, a tech nerd and open source enthusiast"
+  avatar = "/images/avatar/author.png"
+  location = "BR"
+  website = "https://afranca.com.br"
+
+  [params.author.social]
+    twitter = ""
+    facebook = ""
+    linkedin = ""
+    bluesky = ""
+    threads = ""
+    mastodon = "https://mas.to/@abf"
+    tiktok = ""
+    youtube = ""
+    instagram = ""
+    github = "https://github.com/andrefcodes"
+
+[params.footer]
+  badges = true
+
+[menus]
+  [[menus.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menus.main]]
+    name = "Subscribe"
+    url = "/subscribe/"
+    weight = 2
+
+  [[menus.main]]
+    name = "Blogroll"
+    url = "/blogroll/"
+    weight = 3
+
+  [[menus.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+  [[menus.main]]
+    name = "Explore"
+    url = "/explore/"
+    weight = 5
+
+  [[menus.footer]]
+    name = "<<<"
+    url = "https://xn--sr8hvo.ws/previous"
+    weight = 1
+
+  [[menus.footer]]
+    name = "IndieWeb Webring 🕸💍"
+    url = "https://xn--sr8hvo.ws"
+    weight = 2
+
+  [[menus.footer]]
+    name = ">>>"
+    url = "https://xn--sr8hvo.ws/next"
+    weight = 3
+
+[outputs]
+  home = ['html', 'atom', 'blogroll', 'sitemap', 'postssitemap', 'pagessitemap', 'tagssitemap']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html', 'atom']
+  
+[outputFormats]
+  [outputFormats.atom]
+    mediatype = "application/atom+xml"
+    baseName = "feed"
+  [outputFormats.sitemap]
+    mediatype = "application/xml"
+    basename = "sitemap"
+  [outputFormats.postssitemap]
+    mediatype = "application/xml"
+    basename = "posts-sitemap"
+  [outputFormats.pagessitemap]
+    mediatype = "application/xml"
+    basename = "pages-sitemap"
+  [outputFormats.tagssitemap]
+    mediatype = "application/xml"
+    basename = "tags-sitemap"
+  [outputFormats.blogroll]
+    mediatype = "application/opml+xml"
+    basename = "blogroll"
+
+[mediaTypes]
+  [mediaTypes."application/atom+xml"]
+    suffixes = ["xml"]
+  [mediaTypes."application/opml+xml"]
+    suffixes = ["opml"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
