@@ -23,6 +23,9 @@
 # Hugo build lock file
 .hugo_build.lock
 
+# Hugo draft posts
+/content/posts/drafts
+
 # Temporary files
 /tmp
 
