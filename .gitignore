@@ -24,7 +24,7 @@
 .hugo_build.lock
 
 # Hugo draft posts
-/content/posts/drafts
+/content/drafts
 
 # Temporary files
 /tmp
