@@ -1,0 +1,15 @@
+{{ $blogroll := sort site.Data.blogroll "name" }}
+{{ $.Scratch.Set "currentLetter" "" }}
+{{ range $blogroll }}
+    {{ $name := .name | default "" }}
+    {{ $letter := upper (substr $name 0 1) }}
+    {{ if ne $letter ($.Scratch.Get "currentLetter") }}
+        <h2>{{ $letter }}</h2>
+        {{ $.Scratch.Set "currentLetter" $letter }}
+    {{ end }}
+    <p>
+        <strong><a href="{{ .link }}" rel="noopener noreferrer nofollow" target="_blank">{{ .name }}</a></strong> ~
+        <a href="{{ .rss }}" rel="noopener noreferrer nofollow" target="_blank">RSS</a><br>
+        <em>{{ .description }}</em>
+    </p>
+{{ end }}

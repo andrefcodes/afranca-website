@@ -1,0 +1,13 @@
+{{ $hostingProvider := .Site.Params.hostingProvider | default "Oracle Cloud" }}
+{{ $hostingProviderURL := .Site.Params.hostingProviderUrl | default "https://www.oracle.com/cloud/" }}
+{{ $sourceCodeURL := .Site.Params.author.social.github | default "" }}
+{{ $codeLicense := .Site.Params.codeLicense | default "MIT" }}
+{{ $codeLicenseURL := .Site.Params.codeLicenseUrl | default "/LICENSE" }}
+{{ $contentLicense := .Site.Params.contentLicense | default "CC BY-NC-SA 4.0" }}
+{{ $contentLicenseURL := .Site.Params.contentLicenseUrl | default "https://creativecommons.org/licenses/by-nc-sa/4.0/deed" }}
+
+<p><strong>Built with:</strong> <a href="https://gohugo.io/" rel="noopener noreferrer nofollow" target="_blank">Hugo {{ hugo.Version }}</a><br />
+<strong>Hosted on:</strong> <a href="{{ $hostingProviderURL }}" rel="noopener noreferrer nofollow" target="_blank">{{ $hostingProvider }}</a><br />
+{{ with $sourceCodeURL }}<strong>Source Code:</strong> <a href="{{ . }}" rel="me noopener" target="_blank">{{ . }}</a><br />{{ end }}
+<strong>Code License:</strong> <a href="{{ $codeLicenseURL }}">{{ $codeLicense }}</a><br />
+<strong>Content License:</strong> <a href="{{ $contentLicenseURL }}">{{ $contentLicense }}</a><br />
