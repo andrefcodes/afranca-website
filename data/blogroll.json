@@ -1,0 +1,464 @@
+[
+    {
+        "name": "Adrián Perales",
+        "link": "https://adrianperales.com",
+        "rss": "https://adrianperales.com/feed/",
+        "description": "Spanish-language blog sharing thoughts on technology, decentralization, and personal reflections."
+    },
+    {
+        "name": "Ana Rodrigues",
+        "link": "https://ohhelloana.blog",
+        "rss": "https://ohhelloana.blog/feed.xml",
+        "description": "A front-end developer in London, Ana shares personal notes, web development insights, and bookmarks."
+    },
+    {
+        "name": "Andreas (82MHz)",
+        "link": "https://82mhz.net",
+        "rss": "https://82mhz.net/index.xml",
+        "description": "A personal blog covering books, music, retro tech, and musings on society, philosophy, and psychology."
+    },
+    {
+        "name": "Andreas Gohr",
+        "link": "https://www.splitbrain.org",
+        "rss": "https://www.splitbrain.org/feed/blog",
+        "description": "Personal website of Andreas Gohr, web developer, featuring blog posts on web development, open source, 3D printing, and personal projects."
+    },
+    {
+        "name": "Austin White",
+        "link": "https://austinwhite.org",
+        "rss": "https://austinwhite.org/feed.rss",
+        "description": "\"White Noise\" is Austin's blog about marketing technology, design, Apple fandom, and personal stories."
+    },
+    {
+        "name": "Barry Hess",
+        "link": "https://bjhess.pika.page",
+        "rss": "https://bjhess.pika.page/posts_feed",
+        "description": "Barry writes about the internet, woodworking, and personal projects, and encourages others to blog."
+    },
+    {
+        "name": "Ben Cartwright-Cox",
+        "link": "https://blog.benjojo.co.uk",
+        "rss": "https://blog.benjojo.co.uk/rss.xml",
+        "description": "A technical blog with deep dives into networking, internet protocols, and sysadmin topics."
+    },
+    {
+        "name": "Bix Dot Blog",
+        "link": "https://bix.blog",
+        "rss": "https://bix.blog/feed/",
+        "description": "Personal reflections and essays from Bix Frankonis, focusing on life, neurodiversity, and social commentary."
+    },
+    {
+        "name": "Bodo Tasche",
+        "link": "https://bitboxer.de",
+        "rss": "https://bitboxer.de/atom.xml",
+        "description": "Covers tech, open source, and personal projects, with a focus on software, podcasts, and activism."
+    },
+    {
+        "name": "Bradley Taunt",
+        "link": "https://btxx.org",
+        "rss": "https://btxx.org/index.rss",
+        "description": "A blog about software, design, and life, with a focus on open source, web development, and minimalism."
+    },
+    {
+        "name": "Bryce Wray",
+        "link": "https://www.brycewray.com",
+        "rss": "https://www.brycewray.com/index.xml",
+        "description": "Observations, opinions, and tech geekery since 2018, with a focus on web development and personal insights."
+    },
+    {
+        "name": "Chamline",
+        "link": "https://www.chamline.net",
+        "rss": "https://www.chamline.net/rss/",
+        "description": "A digital repository for thoughts, perspectives, and interests on tech, society, and personal growth."
+    },
+    {
+        "name": "Chris Coyier",
+        "link": "https://chriscoyier.net",
+        "rss": "https://chriscoyier.net/feed/",
+        "description": "Web designer, developer, and educator, Chris shares insights on web development, business, and personal projects."
+    },
+    {
+        "name": "Chris Hannah",
+        "link": "https://chrishannah.me",
+        "rss": "https://chrishannah.me/feed",
+        "description": "A personal blog with weeknotes, tech experiments, and reflections on work, life, and hobbies."
+    },
+    {
+        "name": "Chris McLeod",
+        "link": "https://chrismcleod.dev",
+        "rss": "https://chrismcleod.dev/feed.xml",
+        "description": "A software developer's blog sharing experiences, programming tips, and reflections on technology."
+    },
+    {
+        "name": "Chris Wiegman",
+        "link": "https://chriswiegman.com",
+        "rss": "https://chriswiegman.com/index.xml",
+        "description": "VP of Engineering, developer, and teacher, Chris writes about software, leadership, and personal growth."
+    },
+    {
+        "name": "Clayton Errington",
+        "link": "https://claytonerrington.com",
+        "rss": "https://claytonerrington.com/feed.xml",
+        "description": "Specialized web designer and software developer sharing tips on PowerShell, Python, Linux, and automation."
+    },
+    {
+        "name": "Cory Dransfeldt",
+        "link": "https://coryd.dev",
+        "rss": "https://coryd.dev/feeds/posts.xml",
+        "description": "A software developer's blog about technology, automation, music, and personal interests."
+    },
+    {
+        "name": "Devon Dundee",
+        "link": "https://devondundee.com",
+        "rss": "https://devondundee.com/blog?format=rss",
+        "description": "Personal blog writing about technology, music, parenting, and things that matter to the author."
+    },
+    {
+      "name": "Drew DeVault",
+      "link": "https://drewdevault.com/blog/index.xml",
+      "rss": "https://drewdevault.com/blog/index.xml",
+      "description": "Founder of sourcehut, Drew shares insights on software development, industry trends, community building, and free and open-source software."
+    },
+    {
+        "name": "eapl.mx",
+        "link": "https://text.eapl.mx",
+        "rss": "https://text.eapl.mx/atom.xml",
+        "description": "A bilingual (Spanish/English) blog sharing texts, thoughts, and ideas, inviting conversation."
+    },
+    {
+        "name": "Gray W",
+        "link": "https://grayw.co.uk",
+        "rss": "https://grayw.co.uk/rss",
+        "description": "A collection of thoughts on tech, fitness, hobbies, and daily inspirations."
+    },
+    {
+        "name": "Gregory Hammond",
+        "link": "https://gregoryhammond.ca",
+        "rss": "https://gregoryhammond.ca/feed/",
+        "description": "Web developer focused on accessibility, performance, and privacy, offering services and sharing expertise."
+    },
+    {
+        "name": "James Doc",
+        "link": "https://jamesdoc.com",
+        "rss": "https://jamesdoc.com/blog/feed.xml",
+        "description": "Exploring the intersection of Christianity and technology, with projects and thoughts by James Doc."
+    },
+    {
+        "name": "Jan-Lukas Else",
+        "link": "https://jlelse.blog",
+        "rss": "https://jlelse.blog/.rss",
+        "description": "Personal blog of an IT expert sharing thoughts on technology, travel, and daily life."
+    },
+    {
+        "name": "Jason Fry",
+        "link": "https://jasonfry.co.uk",
+        "rss": "https://jasonfry.co.uk/rss.xml",
+        "description": "Personal site of a developer sharing thoughts on coding, technology, and life, with a focus on making things."
+    },
+    {
+        "name": "Jason V",
+        "link": "https://www.fromjason.xyz",
+        "rss": "https://www.fromjason.xyz/p/notebook/feed/feed.json",
+        "description": "A digital garden by Jason Velazquez, featuring odes, satires, and essays on technology, design, and the web."
+    },
+    {
+        "name": "Johan Bleuzen",
+        "link": "https://www.johanbleuzen.fr",
+        "rss": "https://www.johanbleuzen.fr/feed.xml",
+        "description": "Front-end developer from France sharing blog posts on web development and personal interests."
+    },
+    {
+        "name": "Jose Munoz",
+        "link": "https://www.josemunozmatos.com",
+        "rss": "https://www.josemunozmatos.com/blog/rss.xml",
+        "description": "Product designer from Puerto Rico sharing thoughts on tech, design, Lego, and digital tools."
+    },
+    {
+        "name": "Juan (Clever Laziness)",
+        "link": "https://cleverlaziness.xyz",
+        "rss": "https://cleverlaziness.xyz/posts/index.xml",
+        "description": "Full-stack engineer and amateur archivist blogging about automation, web development, and digital archiving."
+    },
+    {
+        "name": "Julia Evans",
+        "link": "https://jvns.ca/",
+        "rss": "https://jvns.ca/atom.xml",
+        "description": "Julia shares approachable, illustrated guides and blog posts about programming, Linux, debugging, and computer science."
+    },
+    {
+        "name": "Keenan",
+        "link": "https://gkeenan.co",
+        "rss": "https://gkeenan.co/avgb?format=rss",
+        "description": "A visual and verbal artist's site featuring writing, photography, voice acting, and creative projects."
+    },
+    {
+        "name": "Kevin C. Tofel",
+        "link": "https://myconscious.stream",
+        "rss": "https://myconscious.stream/feed.xml",
+        "description": "Irregularly updated thoughts on programming, minimalism, Linux, and general computing."
+    },
+    {
+        "name": "Kevin Lawver",
+        "link": "https://lawver.net",
+        "rss": "https://lawver.net/feed/",
+        "description": "Personal blog with essays on programming, life, music, and social commentary, written by Kevin Lawver."
+    },
+    {
+        "name": "Kev Quirk",
+        "link": "https://kevquirk.com",
+        "rss": "https://kevquirk.com/feed.rss",
+        "description": "Personal blog about technology, blogging, and reflections on digital life and hardware. Kev is also co-founder of Fosstodon.org"
+    },
+    {
+        "name": "Lewis Dale",
+        "link": "https://lewisdale.dev",
+        "rss": "https://lewisdale.dev/feed/",
+        "description": "A software engineer's blog about web development, cycling, and occasional posts on movies and tech."
+    },
+    {
+        "name": "ldstephens",
+        "link": "https://ldstephens.net",
+        "rss": "https://ldstephens.net/feed",
+        "description": "A blog focused on productivity, Apple devices, web tools, and personal tech experiments."
+    },
+    {
+        "name": "Luke Harris",
+        "link": "https://www.lkhrs.com",
+        "rss": "https://www.lkhrs.com/blog/index.xml",
+        "description": "Personal website of a developer and designer, featuring a blog, notes, and favorite resources."
+    },
+    {
+        "name": "Maarten van Gompel",
+        "link": "https://proycon.anaproy.nl",
+        "rss": "https://proycon.anaproy.nl/rss.xml",
+        "description": "Homepage of a research software engineer passionate about languages, open source, and privacy."
+    },
+    {
+        "name": "Manuel Moreale",
+        "link": "https://manuelmoreale.com",
+        "rss": "https://manuelmoreale.com/feed/rss",
+        "description": "Personal blog with essays on technology, design, and reflections on digital culture."
+    },
+    {
+        "name": "Marcel Kapfer",
+        "link": "https://mmk2410.org",
+        "rss": "https://mmk2410.org/feed",
+        "description": "Creative blog focused on photography, music, Linux, software development, and personal projects."
+    },
+    {
+        "name": "Mario Villalobos",
+        "link": "https://mariovillalobos.com",
+        "rss": "https://mariovillalobos.com/journal/feed.xml",
+        "description": "Personal reflections on coaching, teaching, photography, and living a purposeful life."
+    },
+    {
+        "name": "Matt",
+        "link": "https://canyoudownloadrice.com",
+        "rss": "https://canyoudownloadrice.com/feed/",
+        "description": "Matt's blog about software engineering, open source, veganism, philosophy, and personal interests."
+    },
+    {
+        "name": "Matt Cool",
+        "link": "https://mattcool.tech",
+        "rss": "https://mattcool.tech/rss.xml",
+        "description": "Covers web development, open source, spatial computing, community, and personal projects, with a friendly, accessible tone."
+    },
+    {
+        "name": "Matt Stein",
+        "link": "https://mattstein.com",
+        "rss": "https://mattstein.com/rss.xml",
+        "description": "Web designer, developer, and writer sharing field notes on technology, design, and personal growth."
+    },
+    {
+        "name": "Matt Webb",
+        "link": "https://interconnected.org",
+        "rss": "https://interconnected.org/home/feed",
+        "description": "Long-running blog speculating on the future of technology, design, and society, with personal and professional insights."
+    },
+    {
+        "name": "Matthew Ernisse",
+        "link": "https://www.going-flying.com",
+        "rss": "https://www.going-flying.com/blog/feed.xml",
+        "description": "Personal blog covering technology, gaming, electronics, and personal projects."
+    },
+    {
+        "name": "Max Böck",
+        "link": "https://mxb.dev/",
+        "rss": "https://mxb.dev/feed.xml",
+        "description": "Front-end developer's blog about web development, CSS, IndieWeb, and modern approaches to building for the web."
+    },
+    {
+        "name": "Melanie Richards",
+        "link": "https://melanie-richards.com",
+        "rss": "https://melanie-richards.com/feed.xml",
+        "description": "Product manager and designer sharing thoughts on web development, design systems, and personal projects."
+    },
+    {
+        "name": "MereCivilian",
+        "link": "https://merecivilian.com",
+        "rss": "https://merecivilian.com/rss/",
+        "description": "A personal blog reflecting on technology, happiness, and life improvement, with a focus on digital minimalism and thoughtful living."
+    },
+    {
+        "name": "Mike Stone",
+        "link": "https://mikestone.me",
+        "rss": "https://mikestone.me/feed.xml",
+        "description": "Personal blog featuring musings on technology, daily life, reading lists, and reflections on work and family. Mike is also co-founder of Fosstodon.org"
+    },
+    {
+        "name": "Nate",
+        "link": "https://nate.mecca1.net",
+        "rss": "https://nate.mecca1.net/index.xml",
+        "description": "Covers topics like AI, tech reviews, gaming, and personal projects, with in-depth technical explorations."
+    },
+    {
+        "name": "Naz Hamid",
+        "link": "https://nazhamid.com",
+        "rss": "https://nazhamid.com/feed.xml",
+        "description": "A journal and newsletter about design, development, personal growth, and reflections on life and work."
+    },
+    {
+        "name": "Nicky's Blog",
+        "link": "https://nicky.bearblog.dev",
+        "rss": "https://nicky.bearblog.dev/feed/",
+        "description": "Personal blog by Nicky sharing reflections on mental health, weight loss, personal growth, writing, and life experiences."
+    },
+    {
+        "name": "Nicolas Cropp",
+        "link": "https://cropp.blog",
+        "rss": "https://cropp.blog/rss.xml",
+        "description": "Personal blog of Nico Cropp, sharing thoughts and updates on various interests."
+    },
+    {
+        "name": "Nicolas Magand",
+        "link": "https://thejollyteapot.com",
+        "rss": "https://thejollyteapot.com/feed.rss",
+        "description": "A personal blog exploring technology, software quality, design, web culture, and thoughtful observations on modern digital life with a focus on minimalism and reliability."
+    },
+    {
+        "name": "Niko Kultalahti",
+        "link": "https://nikokultalahti.com",
+        "rss": "https://nikokultalahti.com/rss/",
+        "description": "Personal blog of a RevOps professional and aspiring cloud engineer, sharing notes on tech, family, and daily life."
+    },
+    {
+        "name": "Pluralistic: Daily links from Cory Doctorow",
+        "link": "https://pluralistic.net",
+        "rss": "https://pluralistic.net/feed/",
+        "description": "Cory Doctorow's daily blog sharing links, essays, and commentary on technology, policy, and digital rights."
+    },
+    {
+        "name": "R.J. Faas",
+        "link": "https://rjfaas.com",
+        "rss": "https://rjfaas.com/feed/",
+        "description": "Personal site of R.J. Faas, a freelance tech journalist and author, sharing articles on technology, pop culture, and curated content."
+    },
+    {
+        "name": "Rach Smith",
+        "link": "https://rachsmith.com",
+        "rss": "https://rachsmith.com/rss/",
+        "description": "Digital garden and blog by Rach Smith, covering web development, personal reflections, motherhood, and creative projects."
+    },
+    {
+        "name": "Robb Knight",
+        "link": "https://rknight.me",
+        "rss": "https://rknight.me/subscribe/posts/rss.xml",
+        "description": "Personal site of Robb Knight, web developer, blogger, podcaster, and maker, sharing blog posts, projects, and links."
+    },
+    {
+        "name": "Robin Opletal",
+        "link": "https://robinopletal.com",
+        "rss": "https://robinopletal.com/rss.xml",
+        "description": "Personal website of Robin Opletal, platform engineer, sharing insights on software infrastructure, sports, and personal interests."
+    },
+    {
+        "name": "Rodrigo Ghedin",
+        "link": "https://notes.ghed.in",
+        "rss": "https://notes.ghed.in/feed.xml",
+        "description": "A Brazilian journalist's blog sharing essays and commentary on consumer tech, digital culture, and the impact of technology on society."
+    },
+    {
+        "name": "Scott Willsey",
+        "link": "https://scottwillsey.com",
+        "rss": "https://scottwillsey.com/rss.xml",
+        "description": "Blog by Scott Willsey focusing on computing topics, especially Mac and web-related subjects, with reviews and personal updates."
+    },
+    {
+        "name": "Silvia Maggi",
+        "link": "https://silviamaggidesign.com",
+        "rss": "https://silviamaggidesign.com/feed.xml",
+        "description": "Portfolio and blog of Silvia Maggi, accessibility specialist and designer, focused on inclusive, ethical, and sustainable interface design."
+    },
+    {
+        "name": "Simone Silvestroni",
+        "link": "https://minutestomidnight.co.uk/blog/",
+        "rss": "https://minutestomidnight.co.uk/feed.xml",
+        "description": "Simone's blog about music, sound design, and personal reflections, with a background in audio and web development."
+    },
+    {
+        "name": "Sixian Lim",
+        "link": "https://www.softlandings.world",
+        "rss": "https://www.softlandings.world/feed.rss",
+        "description": "Personal blog by Sixian Lim, sharing reflections, poetry, and notes on learning, life, and personal growth."
+    },
+    {
+        "name": "Sophie Koonin",
+        "link": "https://localghost.dev",
+        "rss": "https://localghost.dev/feed.xml",
+        "description": "Personal site and blog by Sophie Koonin, web developer and speaker, writing about tech, mental health, and creative coding projects."
+    },
+    {
+        "name": "Steve Ledlow",
+        "link": "https://tangiblelife.net",
+        "rss": "https://tangiblelife.net/feed.rss",
+        "description": "Personal blog by Steve Ledlow, sharing reflections on career, creativity, productivity, and experiments in living intentionally."
+    },
+    {
+        "name": "The New Oil",
+        "link": "https://blog.thenewoil.org",
+        "rss": "https://blog.thenewoil.org/feed/",
+        "description": "Privacy and security blog offering guides, reviews, and commentary on digital privacy, secure tools, and online safety for everyone."
+    },
+    {
+        "name": "Thord D. Hedengren",
+        "link": "https://bored.horse",
+        "rss": "https://bored.horse/feed.xml",
+        "description": "Personal site of Thord D. Hedengren, writer, publisher, and web developer, sharing essays on tech, culture, and digital balance."
+    },
+    {
+        "name": "Tim Bornholdt",
+        "link": "https://timbornholdt.com",
+        "rss": "https://timbornholdt.com/blog/feed.rss",
+        "description": "Personal website of Tim Bornholdt, sharing quotes, personal challenges, and updates on fitness and daily life."
+    },
+    {
+        "name": "Tim Nahumck",
+        "link": "https://nahumck.me",
+        "rss": "https://nahumck.me/feed.xml",
+        "description": "Personal blog by Tim Nahumck, focusing on Apple devices, productivity, home automation, and personal tech projects."
+    },
+    {
+        "name": "Tommy Palmer",
+        "link": "https://www.tommyp.org",
+        "rss": "https://www.tommyp.org/rss.xml",
+        "description": "Personal site and blog of Tommy Palmer, creative web developer, sharing blog posts on tech, TV, and personal projects."
+    },
+    {
+        "name": "Tyler Sticka",
+        "link": "https://tylersticka.com",
+        "rss": "https://tylersticka.com/journal/feed.xml",
+        "description": "Portfolio and journal of Tyler Sticka, creative director, designer, and artist, sharing thoughts on design, web standards, and personal interests."
+    },
+    {
+        "name": "Wouter Groeneveld",
+        "link": "https://brainbaking.com",
+        "rss": "https://brainbaking.com/index.xml",
+        "description": "Wouter Groeneveld's blog about teaching, writing, programming, and baking, aiming to inspire learning and reflection."
+    },
+    {
+        "name": "Yury Molodtsov",
+        "link": "https://molodtsov.me",
+        "rss": "https://molodtsov.me/blog/index.xml",
+        "description": "Blog by Yury Molodtsov, COO and partner at MA Family, writing about tech, startups, communications, and personal insights on technology and business."
+    }
+]
