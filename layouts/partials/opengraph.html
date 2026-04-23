@@ -1,0 +1,88 @@
+{{"<!-- Open Graph integration -->" | safeHTML}}
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.General.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+{{ if eq .Section "posts" }}
+{{- $featured := partial "get-og-image.html" . }}
+{{- with $featured -}}<meta property="og:image" content="{{ $featured.Permalink }}">{{- end -}}
+{{- else -}}<meta property="og:image" content="{{ .Site.Params.General.Seo.featureImage | absURL }}">{{ end }}
+<meta property="og:locale" content="{{ .Site.LanguageCode }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+<meta property="og:logo" content="{{ .Site.Params.General.Seo.logo | absURL }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+{{- if .IsPage }}
+{{- $iso8601 := "2006-01-02T15:04:05-03:00" -}}
+<meta property="article:section" content="{{ .Section }}">
+{{ with .PublishDate }}<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>{{ end }}
+{{ with .Lastmod }}<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>{{ end }}{{ end }}
+{{- range .GetTerms "tags" | first 6 }}
+<meta property="article:tag" content="{{ .Page.Title | plainify }}">
+{{- end }}
+
+{{"<!-- Twitter integration -->" | safeHTML }}
+{{ if eq .Section "posts" }}
+{{- $featured := partial "get-og-image.html" . }}
+{{- with $featured -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ $featured.Permalink }}">{{- end -}}
+{{- else -}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ .Site.Params.General.Seo.featureImage | absURL }}">
+{{- end }}
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.General.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta name="twitter:url" content="{{ .Permalink }}">
+
+{{"<!-- JSON Linked Data -->" | safeHTML }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "{{ if .IsPage }}article{{ else }}website{{ end }}",
+    "name": "{{ .Title }}",
+    "headline": "{{ .Title }}",
+    "description": "{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.General.description }}{{ . }}{{ end }}{{ end }}{{ end }}",
+    "url": "{{ .Permalink }}",
+    {{- $iso8601 := "2006-01-02T15:04:05-03:00" }}
+    {{ with .PublishDate }}"datePublished": {{ .Format $iso8601 }},{{ end }}
+    "image": {
+        "@type": "ImageObject",
+        {{ if eq .Section "posts" }}
+        {{- $featured := partial "get-og-image.html" . }}
+        {{- with $featured -}}"url": "{{ $featured.Permalink }}",{{- end -}}
+        {{- else -}}"url": "{{ .Site.Params.General.Seo.featureImage | absURL }}",{{ end }}
+        "width": {{ .Site.Params.General.Seo.featureWidth }},
+        "height": {{ .Site.Params.General.Seo.featureHeight }}
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ .Site.Title }}",
+        "url": "{{ .Site.BaseURL }}",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "{{ .Site.Params.General.Seo.logo | absURL }}",
+            "width": {{ .Site.Params.General.Seo.logoWidth }},
+            "height": {{ .Site.Params.General.Seo.logoHeight }}
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "{{ .Site.Params.User.name }}",
+        "url": "{{ .Site.BaseURL }}",
+        "sameAs": [
+          {{ .Site.Params.User.fediverseUrl }},
+          {{ .Site.Params.User.gitProfileUrl }},
+          {{ .Site.Params.User.keyoxideProfile }},
+        ],
+        "image": {
+            "@type": "ImageObject",
+            "url": "{{ .Site.Params.User.Avatar.picture | absURL }}",
+            "width": {{ .Site.Params.User.Avatar.pictureWidth }},
+            "height": {{ .Site.Params.User.Avatar.pictureHeight }}
+        }
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ .Site.BaseURL }}"
+    }
+}
+</script>

@@ -1,0 +1,35 @@
+{{ $base := resources.Get "opengraph/base.png" }}
+{{ $descFont := resources.Get "opengraph/DMSans-Regular.ttf"}}
+{{ $titleFont := resources.Get "opengraph/Kollektif-Regular.ttf"}}
+{{ $fediverseHandle := default "" .Site.Params.fediverseCreator }}
+
+{{ $og_img := $base.Filter (images.Text "Blog Post" (dict
+    "color" "#48cfae"
+    "size" 50
+    "linespacing" 2
+    "x" 95
+    "y" 270
+    "font" $descFont
+    ))
+}}
+{{ $og_img = $og_img.Filter (images.Text .Page.Title (dict
+    "color" "#d6d5cf"
+    "size" 70
+    "linespacing" 10
+    "x" 95
+    "y" 340
+    "font" $titleFont
+    ))
+}}
+{{ $og_img = $og_img.Filter (images.Text $fediverseHandle (dict
+    "color" "#ffca42"
+    "size" 45
+    "linespacing" 2
+    "x" 235
+    "y" 100
+    "font" $descFont
+    ))
+}}
+
+{{ $og_img = resources.Copy (path.Join .Page.RelPermalink "og-image.png") $og_img }}
+{{ return $og_img }}

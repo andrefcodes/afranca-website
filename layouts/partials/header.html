@@ -1,0 +1,27 @@
+{{/* Header bar: title left, actions right */}}
+<div class="gh-head-brand h-card">
+    <p class="site-title p-name">
+        <a class="u-url u-uid" href="{{ "/" | absURL }}" rel="me">{{ site.Title }}</a>
+    </p>
+    {{ with site.Params.author.avatar }}
+        <img class="u-photo site-icon hidden" src="{{ . }}" alt="{{ site.Title }}" />
+    {{ end }}
+    {{ with site.Params.tagline }}
+        <p class="p-note hidden">{{ . }}.</p>
+    {{ end }}
+    <div class="gh-head-actions">
+        <a href="{{ "/index.xml" | relURL }}" title="RSS Feed" target="_blank" class="nav-rss">{{ partial "icons/rss.html" }}</a>
+        <button class="gh-burger" aria-label="Main Menu"></button>
+    </div>
+</div>
+
+{{/* Navigation */}}
+<nav class="gh-head-menu">
+    <ul class="nav">
+        {{ range site.Menus.main }}
+            <li class="nav-{{ .Name | urlize }}{{ if $.IsMenuCurrent "main" . }} nav-current{{ end }}">
+                <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+        {{ end }}
+    </ul>
+</nav>

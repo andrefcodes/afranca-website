@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.Lang | default "en" }}"{{ with site.Params.colorScheme }}{{ if eq . "Dark" }} class="dark-mode"{{ else if eq . "Auto" }} class="auto-color"{{ end }}{{ end }}>
+{{- partial "head.html" . -}}
+<body class="{{ with .Section }}{{ . }}{{ end }}{{ if .IsHome }} home{{ end }}">
+    <header>
+        {{- partial "header.html" . -}}
+    </header>
+
+    <main>
+        {{- block "main" . }}{{ end -}}
+    </main>
+
+    {{ if or .IsPage (eq .Kind "page") }}
+        {{- partial "lightbox.html" . -}}
+    {{ end }}
+
+    <footer>
+        {{- partial "footer.html" . -}}
+    </footer>
+
+    <script src="{{ "js/main.js" | relURL }}"></script>
+    <script>
+    document.addEventListener('DOMContentLoaded', function () {
+        // Mobile Menu Trigger
+        var burger = document.querySelector('.gh-burger');
+        if (burger) {
+            burger.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.body.classList.toggle('gh-head-open');
+            });
+        }
+
+        // Close menu when clicking a nav link
+        document.querySelectorAll('.gh-head-menu a').forEach(function(link) {
+            link.addEventListener('click', function () {
+                document.body.classList.remove('gh-head-open');
+            });
+        });
+    });
+    </script>
+</body>
+</html>

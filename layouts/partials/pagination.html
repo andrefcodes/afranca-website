@@ -1,0 +1,19 @@
+{{/* Pagination */}}
+{{ $pag := .Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<nav class="pagination" role="navigation">
+    <div class="pagination-prev">
+        {{ if $pag.HasPrev }}
+            <a href="{{ $pag.Prev.URL }}">← Newer Posts</a>
+        {{ end }}
+    </div>
+
+    <span class="pagination-info">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
+
+    <div class="pagination-next">
+        {{ if $pag.HasNext }}
+            <a href="{{ $pag.Next.URL }}">Older Posts →</a>
+        {{ end }}
+    </div>
+</nav>
+{{ end }}

@@ -1,0 +1,32 @@
+{{ define "main" }}
+<div class="content h-feed">
+    <h1 class="p-name">{{ .Title | default "Posts" }}</h1>
+
+    <table class="post-list-table">
+        <thead>
+            <tr>
+                <th>Content</th>
+                <th class="th-date">Published</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ $paginator := .Paginate .Pages }}
+            {{ range $paginator.Pages }}
+            <tr class="h-entry">
+                <td>
+                    <a class="p-name u-url" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    {{ if .Params.featured }}
+                        <span class="featured-badge">★</span>
+                    {{ end }}
+                </td>
+                <td class="td-date">
+                    <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+                </td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+
+    {{ partial "pagination.html" . }}
+</div>
+{{ end }}

@@ -1,0 +1,17 @@
+{{ define "main" }}
+<article class="article page h-entry">
+    <a class="u-url u-uid hidden" href="{{ .Permalink }}">{{ .Title }}</a>
+
+    {{ if ne (.Params.hideTitle | default false) true }}
+        <h1 class="p-name">{{ .Title }}</h1>
+    {{ end }}
+
+    {{ with .Summary }}
+        <p class="p-summary hidden">{{ . | plainify }}</p>
+    {{ end }}
+
+    <div class="content e-content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }}
