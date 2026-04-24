@@ -15,11 +15,11 @@ I would like to announce that this blog has migrated from Hugo to WriteFreely! T
 
 ## What's Changed
 
-The blog is now powered by WriteFreely, a minimalist, federated blogging platform. The new setup offers a cleaner reading experience and out of the box ActivityPub integration, so people can follow this blog to get my updates directly in their social stream.
+The blog is now powered by WriteFreely, a minimalist, federated blogging platform. The new setup offers a cleaner reading experience and out-of-the-box ActivityPub integration, so people can follow this blog to get my updates directly in their social stream.
 
 ## Redirects
 
-I have not set up redirects to old links, but RSS feed.
+I have not set up redirects for old links, except for the RSS feed.
 
 RSS feed now ends in /feed/ instead of the old /feed.xml.
 
