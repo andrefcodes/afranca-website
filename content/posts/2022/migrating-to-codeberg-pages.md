@@ -6,18 +6,18 @@ slug: "migrating-to-codeberg-pages"
 description: "Migrating a Jekyll blog from GitHub to Codeberg: setup process, DNS configuration, and considerations for static site hosting."
 image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGdpdHxlbnwwfHx8fDE3NjQ3MjQ1ODh8MA&ixlib=rb-4.1.0&q=80&w=2000"
 imageCaption: "Photo by Roman Synkevych / Unsplash"
-tags: ["Technology", "Static Site Generator", "IndieWeb", "Blogging", "Codeberg", "Github"]
+tags: ["Technology", "Static Site Generator", "IndieWeb", "Blogging", "Codeberg", "GitHub"]
 draft: false
 featured: false
 ---
 
 I've been really busy these days and haven't made any posts. Despite having plenty of drafts for the blog, I couldn't find time to sit down and write.
 
-Fortunately, unlike any algorithm-based platform, this blog allows me to write at my own pace and as I wish. After all, there's no financial support or, with all respect, any kind of obligations to readers. The dynamics of this blog is quite simple: I write what I want and like, while people who are interested in what I have to say, read it, and when they want, they interact with me by email or on fediverse. And this has been working very well.
+Fortunately, unlike any algorithm-based platform, this blog allows me to write at my own pace and as I wish. After all, there's no financial support or, with all respect, any kind of obligation to readers. The dynamics of this blog are quite simple: I write what I want and like, while people who are interested in what I have to say read it and, when they want, interact with me by email or on the fediverse. And this has been working very well.
 
-Okay, back to the point that I've been 26 days without posting. I believe that one of the reasons that makes me post less - besides the time factor - it's my publishing workflow. This blog is powered by Jekyll, where I write everything in a `.md` file, then I push the modifications to my git repository. If I want to add some picture, this process becomes even annoying, as I convert the image to lightweight and web-friendly format, strip the metadata, and upload it to my s3 storage.
+Okay, back to the point that I've been 26 days without posting. I believe that one reason I post less, besides the time factor, is my publishing workflow. This blog is powered by Jekyll, where I write everything in a `.md` file, then push the modifications to my git repository. If I want to add pictures, this process becomes even more annoying, as I convert each image to a lightweight and web-friendly format, strip the metadata, and upload it to my S3 storage.
 
-Over the last week, I tried to improve this process by migrating to an opensource blog publishing platform called [Writefreely](https://writefreely.org/). It is
+Over the last week, I tried to improve this process by migrating to an open-source blog publishing platform called [WriteFreely](https://writefreely.org/). It is
 
 > a distraction-free writing environment, it federates via ActivityPub, so any ActivityPub-enabled service can follow your blog, bookmark your posts, and share them with their followers.
 
@@ -25,27 +25,27 @@ At first glance, it looked amazing. In fact I could focus on my writing, but it 
 
 - I couldn't migrate my posts to another git platform easily (as I did - and will explain further in this post - moving to Codeberg);
 - Customizations are way more complex;
-- There would be a monthly cost (not only financial) to maintain a vps for hobby project.
+- There would be a monthly cost (not only financial) to maintain a VPS for a hobby project.
 
-Accepting that I'd continue with the same workflow for the present moment, I dedicated myself to my next task: migrate this static blog from github to codeberg.
+Accepting that I'd continue with the same workflow for the moment, I dedicated myself to my next task: migrating this static blog from GitHub to Codeberg.
 
-Why to migrate? You might be questioning yourself.
+Why migrate? You might be asking yourself.
 
-There have been many discussions about Github this month, mainly because of Copilot. For those who don't know, Copilot is a proprietary service built on top of the hard work of the open source community with Artifical Intelligence (AI). It raises a number of important questions on which I will not be writing about in this post, but it certainly raises some flags for me.
+There have been many discussions about GitHub this month, mainly because of Copilot. For those who don't know, Copilot is a proprietary service built on top of the hard work of the open source community with Artificial Intelligence (AI). It raises a number of important questions that I will not be writing about in this post, but it certainly raises some flags for me.
 
-I try when possible to use software and services from companies that I trust or that are closest to my values. That's why I decided to migrate. Github, obviously, is a great tool, and I will keep using it in situations where I cannot opt-out, for instance, due to the lack of federation with git.
+I try, when possible, to use software and services from companies that I trust or that are closest to my values. That's why I decided to migrate. GitHub, obviously, is a great tool, and I will keep using it in situations where I cannot opt out, for instance due to the lack of federation with git.
 
 Okay, after this introduction, let's talk about the migration itself.
 
-Moving the repository was pretty straight forward. I created a new repo on Coderberg and pushed my local files.
+Moving the repository was pretty straightforward. I created a new repo on Codeberg and pushed my local files.
 
 If you want to migrate metadata like issues, releases and a wiki, you can use the Codeberg's migration tool. This process is well documented on [Codeberg's Docs](https://docs.codeberg.org/advanced/migrating-repos/).
 
 There have been many discussions...
 
-I use Jekyll to generate this website's static files, and the publishing was easy, as Vercel simplified the CI building process. Altough, there's no integration between Vercel and Codeberg.
+I use Jekyll to generate this website's static files, and publishing was easy, as Vercel simplified the CI building process. Although, there's no integration between Vercel and Codeberg.
 
-At this point I thought about giving up and moving my repository back to Github, but fortunately Codeberg Pages allows us to easily publish my static files generated by Jekyll via Git on Codeberg.org. The process is not automatized, yet is not complicated. You just have to get used to it.
+At this point I thought about giving up and moving my repository back to GitHub, but fortunately Codeberg Pages allows us to easily publish my static files generated by Jekyll via Git on Codeberg.org. The process is not automated, yet it is not complicated. You just have to get used to it.
 
 The first thing I did was to create a new branch called **pages**.
 
@@ -57,14 +57,14 @@ git switch --orphan pages
 git rm --cached -r .
 ```
 
-Then I generate the static files to be added to the **pages** branch:
+Then I generated the static files to be added to the **pages** branch:
 
 ```
 cd /path/to/your/repository/where/MAIN/branch/is
 bundle exec jekyll build --destination /path/to/your/repository/where/PAGES/branch/is
 ```
 
-then I pushed the new files to the new branch:
+Then I pushed the new files to the new branch:
 
 ```
 git add .
@@ -74,7 +74,7 @@ git push origin pages
 
 From this point, the website was working and accessible at `https://username.codeberg.page/reponame/` and `https://username.codeberg.page/reponame/@pages`.
 
-However, due to some hardcoded links in my static files, this messed up with basically all content, as well as the style.css file.
+However, due to some hardcoded links in my static files, this messed up basically all content, as well as the style.css file.
 
 To fix this, I needed to configure my custom domain.
 
@@ -92,7 +92,7 @@ If CNAME is supported, you can just add this DNS record, instead of the entries 
 
 **CNAME repo.user.codeberg.page**
 
-In a short matter of time the blog was up again. Codeberg Pages took care of generating the certificate with Let's Encrypt, and everything was working as before.
+In a short time, the blog was up again. Codeberg Pages took care of generating the certificate with Let's Encrypt, and everything was working as before.
 
 ### Considerations
 

@@ -19,9 +19,9 @@ That choice came with some drawbacks. Like everything in life, when you make a c
 
 For the fourth time, I decided it was time to go static again. I still don't post frequently, so I can't justify my wish to manage content I don't produce in a more "powerful" way. Also, I found out that I can simply write using any editor I like and push it to the web when I'm at my computer and have time available. And that is okay after all.
 
-Moving back to Jekyll was a bit of a headache because there was no way to export my previous posts in a format that I could easily work with. Jekyll, Ruby and my MacOS were also playing tricks on me. Let me explain myself: On a beautiful day, I ran a `brew update` command and my Jekyll installation broke. I came to find that I wasn't running a proper compatible version of Ruby.
+Moving back to Jekyll was a bit of a headache because there was no way to export my previous posts in a format that I could easily work with. Jekyll, Ruby, and my macOS were also playing tricks on me. Let me explain myself: On a beautiful day, I ran a `brew update` command and my Jekyll installation broke. I came to find that I wasn't running a properly compatible version of Ruby.
 
-I followed the exact instructions (from Jekyll website) to set up the environment again, installed chruby, and then more errors when trying to install ruby. After hours of troubleshooting1, I realized I had some `CFLAGS` set in my **.zshrc** file that were somehow breaking the build. Once I unset the `CFLAGS`, `LDFLAGS`, and `LDLIBS` everything went ok. I created a **.ruby-version** file in my working directory to make sure I won't run into update issues again.
+I followed the exact instructions (from Jekyll website) to set up the environment again, installed chruby, and then hit more errors when trying to install Ruby. After hours of troubleshooting1, I realized I had some `CFLAGS` set in my **.zshrc** file that were somehow breaking the build. Once I unset the `CFLAGS`, `LDFLAGS`, and `LDLIBS`, everything went okay. I created a **.ruby-version** file in my working directory to make sure I won't run into update issues again.
 
 In the meantime, while trying to fix ruby, I installed Hugo and 11ty to see whether any of them would fit better than Jekyll.  
   
@@ -29,9 +29,9 @@ I didn't have a good time with Hugo, as it turned out to be overcomplicated (com
   
 11ty seemed to work well. I liked the idea of being able to use different template languages and the fact that it has more similarities with Jekyll, however, I have zero experience with JavaScript, and customizing its settings wasn't friendly to me.  
   
-It meant Jekyll would be the way to go, or to stay with ghost in case I couldn't fix my Jekyll installation.
+It meant Jekyll would be the way to go, or to stay with Ghost in case I couldn't fix my Jekyll installation.
 
-It took me some time to fully migrate. Since I was doing things patiently and tried to improve my Jekyll setup with as few plugins as possible for future-proof. One good example is that I have a custom `.html` for SEO, a custom RSS and JSON feed file, and a sitemap file, all rendered by Jekyll at build without an additional plugin.
+It took me some time to fully migrate. I was doing things patiently and trying to improve my Jekyll setup with as few plugins as possible for future-proofing. One good example is that I have a custom `.html` for SEO, a custom RSS and JSON feed file, and a sitemap file, all rendered by Jekyll at build time without an additional plugin.
 
 Differently from using Ghost, I regained control of what's going on under the hood, and now I have a minimal and much faster website2.
 

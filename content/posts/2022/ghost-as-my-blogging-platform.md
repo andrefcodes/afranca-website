@@ -11,14 +11,14 @@ draft: false
 featured: false
 ---
 
-Recently, I posted about how I successfully migrated my jekyll static blog from Github to Codeberg Pages, also explaining my attempt to use Writefreely as my blogging platform.
+Recently, I posted about how I successfully migrated my Jekyll static blog from GitHub to Codeberg Pages, also explaining my attempt to use WriteFreely as my blogging platform.
 
-I really want to make writing a habit, but I've been struggling with the lack of a true editor in Jekyll, which makes it a pain to work on the build of this habit. Well, I still think that static websites are great for a number of reasons, but not ideal for producing a lot of content.
+I really want to make writing a habit, but I've been struggling with the lack of a true editor in Jekyll, which makes it a pain to build this habit. Well, I still think that static websites are great for a number of reasons, but not ideal for producing a lot of content.
 
 Here I go again, tinkering with my blog... I took a deep breath, then listed three features that are indispensable to me, before getting started looking around for platforms:
 
 - Minimally easy to manage (content, updates, integrations, etc);
-- Be allowed to custom themes;
+- Allow custom themes;
 - Useful editor UI.
 
 Among all the options in my brief research, I liked [Ghost CMS](https://ghost.org/) the most. Problem is, their managed hosting is more than I’d like to pay, so I self-hosted it. As of this writing, their starter plan is $9/mo billed yearly (or $11 billed monthly).
@@ -29,7 +29,7 @@ Among all the options in my brief research, I liked [Ghost CMS](https://ghost.or
 
 **Pros:**
 
-- Editor UI is pretty clean (so you can focus on writing) and has several features, such as a markdown and html editor;
+- Editor UI is pretty clean (so you can focus on writing) and has several features, such as a Markdown and HTML editor;
 - You can inject code (styles or scripts, for instance) into some specific page or the entire website;
 - The project seems to be well maintained, and the backup/update process is straightforward;
 - I can schedule posts.
@@ -37,7 +37,7 @@ Among all the options in my brief research, I liked [Ghost CMS](https://ghost.or
 **Cons:**
 
 - Themes are usually bloated, however we can get around it by creating our own;
-- The excess of .js bothers me a bit, and there are some penalties in performance compared to only serving html and css files (I got an optimal balance in performance with some cache optimizations as well setting up a CDN in front of my VPS).
+- The excess of .js bothers me a bit, and there are some penalties in performance compared to only serving HTML and CSS files (I got an optimal balance in performance with some cache optimizations, as well as setting up a CDN in front of my VPS).
 
 The newsletter/membership thing does not bother me at all, since I was able to disable it completely. I'm actually glad that if I ever want to work on it, there's such a possibility.
 
