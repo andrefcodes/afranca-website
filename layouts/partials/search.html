@@ -51,19 +51,10 @@
     }
 </script>
 
-<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);" style="padding-bottom: 0.5em;">
-    <p><input type="text" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type your search here..." /></p>
+<form class="search-form" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <p><input class="search-input" type="text" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type your search here..." /></p>
 </form>
 <div id="lunrsearchresults">
-    <ul></ul>
+   
 </div>
-
-<style>
-    /* =============================================================================
-    Lunr Search
-    ========================================================================== */
-    .lunrsearchresult{ padding-bottom: 2rem;}
-    .lunrsearchresult .title{ font-weight: bold;}
-    input#lunrsearch{ font-size: 100%; padding: 1rem; width: 95%; margin-bottom: 1em;}
-</style>
 <!-- End of Search Block -->
