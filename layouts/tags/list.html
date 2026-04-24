@@ -5,6 +5,28 @@
         <p class="tag-description p-summary hidden">{{ . }}</p>
     {{ end }}
 
+    {{ if eq .Kind "taxonomy" }}
+    <table class="post-list-table">
+        <thead>
+            <tr>
+                <th>Tag</th>
+                <th class="th-date">Posts</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ $paginator := .Paginate .Pages.ByTitle }}
+            {{ range $paginator.Pages }}
+            <tr class="h-entry">
+                <td>
+                    <a class="p-name u-url" href="{{ .RelPermalink }}">#{{ .Title }}</a>
+                </td>
+                <td class="td-date">{{ len .Pages }}</td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+    {{ partial "pagination.html" . }}
+    {{ else }}
     <table class="post-list-table">
         <thead>
             <tr>
@@ -31,5 +53,6 @@
     </table>
 
     {{ partial "pagination.html" . }}
+    {{ end }}
 </div>
 {{ end }}
