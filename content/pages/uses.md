@@ -1,16 +1,16 @@
 ---
 title: "Things I Use"
 date: 2024-10-22T13:35:00+00:00
-lastmod: 2026-02-02T12:11:59+00:00
+lastmod: 2026-04-24T14:39:59-03:00
 slug: "uses"
 description: "Overview of my current hardware and software setup, from laptops and audio gear to productivity tools, open-source apps, and daily-use services. "
 image: "https://images.unsplash.com/photo-1619644213422-44a8c6f01d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxkZXZpY2VzfGVufDB8fHx8MTc2NzA0OTU0OHww&ixlib=rb-4.1.0&q=80&w=2000"
 imageCaption: "Photo by Roberto Nickson / Unsplash"
 ---
 
-This page is a collection of hardware and software I currently use.
+This page is a collection of the hardware and software I currently use.
 
-Some people on my blogroll have a similar page, and I think it's really useful and interesting to see how people optimize their workflow with the devices and apps they have.
+Some people on my blogroll have similar pages, and I find it useful and interesting to see how they optimize their workflows with the devices and apps they use.
 
 ## Hardware
 
@@ -111,14 +111,14 @@ Some people on my blogroll have a similar page, and I think it's really useful a
 
 ### Personal Knowledge & Writing
 
-- **Notes:** [Standard Notes](https://standardnotes.com/)
+- **Notes:** [Notesnook](https://notesnook.com/)
 - **Writing:** [Obsidian](https://obsidian.md/)
 
 ---
 
 ### Tasks, Planning & Scheduling
 
-- **To-Do / Task Management:** [Standard Notes](https://standardnotes.com/), [Nextcloud Tasks](https://apps.nextcloud.com/apps/tasks)
+- **To-Do / Task Management:** [Nextcloud Tasks](https://apps.nextcloud.com/apps/tasks)
 - **Calendar:** [Proton Calendar](https://proton.me/calendar)
 
 ---
@@ -164,7 +164,7 @@ Some people on my blogroll have a similar page, and I think it's really useful a
 
 - **Code Editor:** [Zed](https://zed.dev/), [VS Code](https://code.visualstudio.com/), [NeoVim](https://neovim.io/)
 - **Terminal Emulator:** [Kitty](https://sw.kovidgoyal.net/kitty)
-- **Code Repositories:** [SourceHut](https://sr.ht/), [Github](https://github.com/), [Codeberg](https://codeberg.org/)
+- **Code Repositories:** [SourceHut](https://sr.ht/), [GitHub](https://github.com/), [Codeberg](https://codeberg.org/)
 - **Server Provisioning:** [Oracle](https://www.oracle.com/cloud), [Vercel](https://vercel.com/)
 - **Web Analytics:** [Umami](https://umami.is/)
 
@@ -189,7 +189,7 @@ Some people on my blogroll have a similar page, and I think it's really useful a
 
 ### Social & Publishing
 
-- **Social Media:** [Mastodon](https://joinmastodon.org/), [Ghost CMS](https://ghost.org/)
+- **Social Media:** [Mastodon](https://joinmastodon.org/)
 - **Mastodon Client:** [Moshidon](https://github.com/LucasGGamerM/moshidon)
 
 ---
