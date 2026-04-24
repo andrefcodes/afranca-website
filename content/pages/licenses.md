@@ -1,8 +1,8 @@
 +++
 title = "Licenses"
-description = "Breaking down the licenses used in this website"
+description = "Breaking down the licenses used on this website"
 date = 2024-12-02T18:25:13-03:00
-lastmod = 2024-12-02T18:25:13-03:00
+lastmod = 2026-04-24T14:36:45-03:00
 slug = "licenses"
 image = ""
 imageCaption = ""
