@@ -29,6 +29,13 @@ summarylength = 70
   fediverseURL = "https://mas.to/@abf"
   privacyAndTerms = "/about#privacy-and-terms"
   umamiID = "b0cc7576-7b57-4722-b4e7-6a2747429615"
+  hostingProvider = "Cloudflare"
+  hostingProviderUrl = "https://workers.cloudflare.com/"
+  codeLicense = "MIT"
+  codeLicenseURL = "/licenses#code-license"
+  contentLicense = "CC BY-NC-SA"
+  contentLicenseURL = "/licenses#content-license"
+  sourceCode = "https://github.com/andrefcodes/afranca-website"
 
   # rel="me" identity verification links (IndieWeb)
   [params.relMe]
@@ -45,14 +52,8 @@ summarylength = 70
 
   [params.author.social]
     twitter = ""
-    facebook = ""
-    linkedin = ""
     bluesky = ""
-    threads = ""
     mastodon = "https://mas.to/@abf"
-    tiktok = ""
-    youtube = ""
-    instagram = ""
     github = "https://github.com/andrefcodes"
 
 [params.footer]
@@ -65,8 +66,8 @@ summarylength = 70
     weight = 1
 
   [[menus.main]]
-    name = "Subscribe"
-    url = "/subscribe/"
+    name = "Contact"
+    url = "/contact/"
     weight = 2
 
   [[menus.main]]
@@ -75,14 +76,9 @@ summarylength = 70
     weight = 3
 
   [[menus.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
-
-  [[menus.main]]
     name = "Explore"
     url = "/explore/"
-    weight = 5
+    weight = 4
 
   [[menus.footer]]
     name = "<<<"
