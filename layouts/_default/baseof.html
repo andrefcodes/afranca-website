@@ -18,7 +18,8 @@
         {{- partial "footer.html" . -}}
     </footer>
 
-    <script src="{{ "js/main.js" | relURL }}"></script>
+    {{ $js := resources.Get "js/main.js" | minify | fingerprint }}
+    <script src="{{ $js.RelPermalink }}"></script>
     <script>
     document.addEventListener('DOMContentLoaded', function () {
         // Mobile Menu Trigger
