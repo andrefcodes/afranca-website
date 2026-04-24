@@ -763,7 +763,7 @@ tr:nth-child(2n) {
 
 /* Outdated content warning notice */
 .notice-outdated {
-    margin: 0 0 2rem;
+    margin: 2.5rem 0 0 0;
     padding: 1rem 1.5rem;
     font-size: 0.9rem;
     border: 1px solid var(--warning-color);
