@@ -1,4 +1,4 @@
-{{ $blogroll := sort site.Data.blogroll "name" }}
+{{ $blogroll := sort hugo.Data.blogroll "name" }}
 {{ $.Scratch.Set "currentLetter" "" }}
 {{ range $blogroll }}
     {{ $name := .name | default "" }}
