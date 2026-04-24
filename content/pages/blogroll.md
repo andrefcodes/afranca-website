@@ -1,7 +1,7 @@
 ---
 title: "Blogroll"
 date: 2025-12-02T18:43:18+00:00
-lastmod: 2025-12-30T19:05:03+00:00
+lastmod: 2026-04-24T14:54:07-03:00
 slug: "blogroll"
 description: "List of my favorite blogs from around the web that inspire and interest me. "
 image: ""
