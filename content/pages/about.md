@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About this Website"
 date: 2026-02-14T10:00:00Z
-lastmod: 2026-02-14T10:00:00Z
+lastmod: 2026-04-24T14:55:07-03:00
 slug: "about"
-description: ""
+description: "This blog is mostly a collection of my thoughts, notes, and technical content."
 image: ""
 imageCaption: ""
 ---
@@ -12,7 +12,7 @@ Hi, I'm Andre! Welcome to my personal blog.
 
 This blog is mostly a collection of my thoughts, notes, and technical content.
 
-I really see that personal spaces like this - simple, accessible, and decentralized personal blogs - are great for the internet, especially in times of deceptive and algorithmically curated content and data surveillance.
+I believe personal spaces like this, simple, accessible, and decentralized blogs, are great for the internet, especially in times of deceptive, algorithmically curated content and data surveillance.
 
 ## Website Facts
 
@@ -60,4 +60,4 @@ No personally identifiable information is stored and no cookies are set. Traffic
 
 ## Disclaimer
 
-Technical content on this site is provided "as-is", without warranty of any kind. And in no event I shall be liable for any claim, damages or other liability.
+Technical content on this site is provided "as is," without warranty of any kind. In no event shall I be liable for any claim, damages, or other liability.
