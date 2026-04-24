@@ -1975,3 +1975,12 @@ details[open] > *:last-child {
 #lunrsearchresults ul li.lunrsearchresult:last-child {
     border-bottom: 0 !important;
 }
+
+.blogroll-download-wrap {
+    text-align: center;
+    margin: 1rem 0 1.5rem;
+}
+
+.blogroll-download-wrap .gh-head-button:hover {
+    color: var(--notice-text-color) !important;
+}
