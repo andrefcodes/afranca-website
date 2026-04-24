@@ -1301,115 +1301,6 @@ footer a:hover {
 }
 
 /* ========================================
-   Author Page
-   ======================================== */
-.author-content {
-    padding: 0.5em 0;
-}
-
-.author-profile {
-    margin-bottom: 2rem;
-}
-
-.author-profile-card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    padding: 2rem;
-    background: var(--accent-background-color);
-    border-radius: 12px;
-    border: 1px solid var(--main-text-color);
-}
-
-.author-profile-pic {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-bottom: 1rem;
-    border: 3px solid var(--main-background-color);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-}
-
-.author-profile-name {
-    margin: 0 0 0.5rem;
-    font-size: 1.75rem;
-}
-
-.author-profile-bio {
-    max-width: 28rem;
-    margin: 0 auto 1rem;
-    line-height: 1.5;
-    opacity: 0.9;
-}
-
-.author-profile-stats {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
-    margin-bottom: 1rem;
-    font-size: 0.9rem;
-    opacity: 0.8;
-}
-
-.author-profile-stats span {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-}
-
-.author-profile-links {
-    margin-bottom: 1rem;
-}
-
-.author-profile-website {
-    display: inline-block;
-    font-size: 0.9rem;
-    color: var(--link-color);
-    text-decoration: none;
-    word-break: break-all;
-}
-
-.author-profile-website:hover {
-    text-decoration: underline;
-}
-
-.author-profile-social {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.author-profile-social-link {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 40px;
-    height: 40px;
-    color: var(--main-text-color);
-    background: var(--main-background-color);
-    border-radius: 50%;
-    text-decoration: none;
-    transition: all 0.2s ease;
-}
-
-.author-profile-social-link:hover {
-    color: var(--notice-text-color);
-    background: var(--link-color);
-    transform: translateY(-2px);
-}
-
-.author-profile-social-link svg {
-    width: 20px;
-    height: 20px;
-    fill: currentColor;
-}
-
-/* ========================================
    Error Pages
    ======================================== */
 .error-page main {
@@ -1748,7 +1639,10 @@ details[open] > *:last-child {
     text-decoration: underline;
 }
 
-/* Buttons - using Unicode symbols instead of images */
+/* ========================================
+   Buttons - using Unicode symbols instead of images
+   ======================================== */
+
 .pswp__button {
     position: relative;
     display: block;
