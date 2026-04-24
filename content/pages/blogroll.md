@@ -8,14 +8,14 @@ image: ""
 imageCaption: ""
 ---
 
-This is a list of my favorite blogs around the world wide web.
+This is a list of my favorite blogs from around the World Wide Web.
 
 Subscribe to all blogs below by downloading this OPML file and importing it into your newsreader.
 
-<p><a href="/blogroll.opml" download="blogroll.opml" type="application/opml+xml" title="Download blogroll OPML">Download blogroll.opml</a></p>
+<p class="blogroll-download-wrap"><a class="gh-head-button" href="/blogroll.opml" download="blogroll.opml" type="application/opml+xml" title="Download blogroll OPML">Download blogroll.opml</a></p>
 
-{{< blogroll >}}
+{{< blogroll >}}  
 
-💡
+--- 
 
-Check out [blogroll.org](https://blogroll.org/) for more blogs to follow.
+💡 Check out [blogroll.org](https://blogroll.org/) for more blogs to discover.
