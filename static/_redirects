@@ -1,0 +1,11 @@
+/index.xml /feed.xml 301
+/notes.xml /feed.xml 301
+/posts+notes.xml /feed.xml 301
+/feed /feed.xml 301
+/rss /feed.xml 301
+/rss/ /feed.xml 301
+/tag:* /tag/:splat/ 301
+/posts/page/* /posts/page/:splat 200
+/posts/* /:splat 301
+/things-i-use /uses/ 301
+/archive /posts/ 301
