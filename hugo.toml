@@ -2,6 +2,7 @@ baseURL = "https://afranca.com.br"
 languageCode = "en"
 title = "Andre Franca"
 enableRobotsTXT = true
+disableKinds = ["sitemap"]
 
 [pagination]
   pagerSize = 15
@@ -113,13 +114,13 @@ summarylength = 70
     basename = "sitemap"
   [outputFormats.postssitemap]
     mediatype = "application/xml"
-    basename = "posts-sitemap"
+    basename = "posts"
   [outputFormats.pagessitemap]
     mediatype = "application/xml"
-    basename = "pages-sitemap"
+    basename = "pages"
   [outputFormats.tagssitemap]
     mediatype = "application/xml"
-    basename = "tags-sitemap"
+    basename = "tags"
   [outputFormats.blogroll]
     mediatype = "application/opml+xml"
     basename = "blogroll"
