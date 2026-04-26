@@ -45,11 +45,9 @@ summarylength = 70
 [params.author]
   name = "Andre Franca"
   email = "andre@abf.li"
-  url = "https://afranca.com.br"
   bio = "I'm Andre, a tech nerd and open source enthusiast"
   avatar = "/images/avatar/author.png"
   location = "BR"
-  website = "https://afranca.com.br"
 
   [params.author.social]
     twitter = ""
