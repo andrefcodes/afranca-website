@@ -1,88 +1,118 @@
-{{"<!-- Open Graph integration -->" | safeHTML}}
+{{- $fallbackImage := "images/feature/brutal-feature-image.png" | absURL -}}
+{{- $logoURL := "images/feature/brutal-logo.png" | absURL -}}
+{{- $avatarURL := "images/avatar/author.png" | absURL -}}
+
+{{- $pageDesc := site.Params.description | default site.Title -}}
+{{- with .Description -}}
+    {{- $pageDesc = . | plainify -}}
+{{- else -}}
+    {{- if .IsPage -}}
+        {{- with .Summary -}}
+            {{- $pageDesc = . | plainify -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $imageURL := $fallbackImage -}}
+{{- with .Params.image -}}
+    {{- $imageURL = . | absURL -}}
+{{- else -}}
+    {{- if eq .Section "posts" -}}
+        {{- $ogTry := try (partial "get-og-image.html" .) -}}
+        {{- if not $ogTry.Err -}}
+            {{- with $ogTry.Value -}}
+                {{- $imageURL = .Permalink -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $keywords := "" -}}
+{{- with .GetTerms "tags" -}}
+    {{- $keywordList := slice -}}
+    {{- range . -}}
+        {{- $keywordList = $keywordList | append (.Page.Title | plainify) -}}
+    {{- end -}}
+    {{- $keywords = delimit $keywordList ", " -}}
+{{- else -}}
+    {{- with .Params.tags -}}
+        {{- $keywordList := slice -}}
+        {{- range . -}}
+            {{- $keywordList = $keywordList | append (. | plainify) -}}
+        {{- end -}}
+        {{- $keywords = delimit $keywordList ", " -}}
+    {{- end -}}
+{{- end -}}
+
+{{- $ogType := "website" -}}
+{{- $schemaType := "WebPage" -}}
+{{- if and .IsPage (eq .Section "posts") -}}
+    {{- $ogType = "article" -}}
+    {{- $schemaType = "Article" -}}
+{{- end -}}
+
+{{- "<!-- Open Graph integration -->" | safeHTML -}}
 <meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.General.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
-{{ if eq .Section "posts" }}
-{{- $featured := partial "get-og-image.html" . }}
-{{- with $featured -}}<meta property="og:image" content="{{ $featured.Permalink }}">{{- end -}}
-{{- else -}}<meta property="og:image" content="{{ .Site.Params.General.Seo.featureImage | absURL }}">{{ end }}
+<meta property="og:description" content="{{ $pageDesc }}">
+<meta property="og:image" content="{{ $imageURL }}">
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:logo" content="{{ .Site.Params.General.Seo.logo | absURL }}">
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
-{{- if .IsPage }}
-{{- $iso8601 := "2006-01-02T15:04:05-03:00" -}}
+<meta property="og:type" content="{{ $ogType }}">
+{{- if and .IsPage (eq .Section "posts") -}}
+{{- $iso8601 := "2006-01-02T15:04:05Z07:00" -}}
 <meta property="article:section" content="{{ .Section }}">
-{{ with .PublishDate }}<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>{{ end }}
-{{ with .Lastmod }}<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>{{ end }}{{ end }}
-{{- range .GetTerms "tags" | first 6 }}
+{{- with .PublishDate }}
+<meta property="article:published_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>
+{{- end }}
+{{- with .Lastmod }}
+<meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>
+{{- end }}
+{{- range .GetTerms "tags" | first 6 -}}
 <meta property="article:tag" content="{{ .Page.Title | plainify }}">
-{{- end }}
+{{- end -}}
+{{- end -}}
 
-{{"<!-- Twitter integration -->" | safeHTML }}
-{{ if eq .Section "posts" }}
-{{- $featured := partial "get-og-image.html" . }}
-{{- with $featured -}}
+{{- "<!-- Twitter integration -->" | safeHTML -}}
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ $featured.Permalink }}">{{- end -}}
-{{- else -}}
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="{{ .Site.Params.General.Seo.featureImage | absURL }}">
-{{- end }}
+<meta name="twitter:image" content="{{ $imageURL }}">
 <meta name="twitter:title" content="{{ .Title }}">
-<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.General.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+<meta name="twitter:description" content="{{ $pageDesc }}">
 <meta name="twitter:url" content="{{ .Permalink }}">
 
-{{"<!-- JSON Linked Data -->" | safeHTML }}
-<script type="application/ld+json">
-{
-    "@context": "https://schema.org",
-    "@type": "{{ if .IsPage }}article{{ else }}website{{ end }}",
-    "name": "{{ .Title }}",
-    "headline": "{{ .Title }}",
-    "description": "{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.General.description }}{{ . }}{{ end }}{{ end }}{{ end }}",
-    "url": "{{ .Permalink }}",
-    {{- $iso8601 := "2006-01-02T15:04:05-03:00" }}
-    {{ with .PublishDate }}"datePublished": {{ .Format $iso8601 }},{{ end }}
-    "image": {
-        "@type": "ImageObject",
-        {{ if eq .Section "posts" }}
-        {{- $featured := partial "get-og-image.html" . }}
-        {{- with $featured -}}"url": "{{ $featured.Permalink }}",{{- end -}}
-        {{- else -}}"url": "{{ .Site.Params.General.Seo.featureImage | absURL }}",{{ end }}
-        "width": {{ .Site.Params.General.Seo.featureWidth }},
-        "height": {{ .Site.Params.General.Seo.featureHeight }}
-    },
-    "publisher": {
-        "@type": "Organization",
-        "name": "{{ .Site.Title }}",
-        "url": "{{ .Site.BaseURL }}",
-        "logo": {
-            "@type": "ImageObject",
-            "url": "{{ .Site.Params.General.Seo.logo | absURL }}",
-            "width": {{ .Site.Params.General.Seo.logoWidth }},
-            "height": {{ .Site.Params.General.Seo.logoHeight }}
-        }
-    },
-    "author": {
-        "@type": "Person",
-        "name": "{{ .Site.Params.User.name }}",
-        "url": "{{ .Site.BaseURL }}",
-        "sameAs": [
-          {{ .Site.Params.User.fediverseUrl }},
-          {{ .Site.Params.User.gitProfileUrl }},
-          {{ .Site.Params.User.keyoxideProfile }},
-        ],
-        "image": {
-            "@type": "ImageObject",
-            "url": "{{ .Site.Params.User.Avatar.picture | absURL }}",
-            "width": {{ .Site.Params.User.Avatar.pictureWidth }},
-            "height": {{ .Site.Params.User.Avatar.pictureHeight }}
-        }
-    },
-    "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ .Site.BaseURL }}"
-    }
-}
-</script>
+{{- "<!-- JSON Linked Data -->" | safeHTML -}}
+{{- $publisher := dict
+    "@type" "Organization"
+    "name" site.Title
+    "url" site.BaseURL
+    "logo" (dict "@type" "ImageObject" "url" $logoURL)
+-}}
+{{- $author := dict
+    "@type" "Person"
+    "name" (site.Params.author.name | default site.Title)
+    "url" (site.Params.author.url | default site.BaseURL)
+    "sameAs" (site.Params.relMe.ids | default (slice))
+    "image" (dict "@type" "ImageObject" "url" $avatarURL)
+-}}
+{{- $jsonld := dict
+    "@context" "https://schema.org"
+    "@type" $schemaType
+    "name" .Title
+    "headline" .Title
+    "description" $pageDesc
+    "url" .Permalink
+    "image" (dict "@type" "ImageObject" "url" $imageURL)
+    "publisher" $publisher
+    "author" $author
+    "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+-}}
+{{- with .PublishDate -}}
+    {{- $jsonld = merge $jsonld (dict "datePublished" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+{{- end -}}
+{{- with .Lastmod -}}
+    {{- $jsonld = merge $jsonld (dict "dateModified" (.Format "2006-01-02T15:04:05Z07:00")) -}}
+{{- end -}}
+{{- if ne $keywords "" -}}
+    {{- $jsonld = merge $jsonld (dict "keywords" $keywords) -}}
+{{- end -}}
+<script type="application/ld+json">{{ $jsonld | jsonify | safeJS }}</script>
