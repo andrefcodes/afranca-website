@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-S ince I created this website I missed the ability to search my posts on-site. With the help of [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/), [this guide](https://kevquirk.com/how-to-add-search-jekyll/) written by Kev, and some minor tweaks, I've managed to add this feature.
+Since I created this website I missed the ability to search my posts on-site. With the help of [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/), [this guide](https://kevquirk.com/how-to-add-search-jekyll/) written by Kev, and some minor tweaks, I've managed to add this feature.
 <!--more-->
 
 I'm still getting used to have a personal blog, and this one doesn't have a lot of content as of today, what could justify not to add a search tool in it. But thinking long term, the content will eventually grow, and it'll come in handy, not only for the site's visitors, but myself.
@@ -19,7 +19,7 @@ With that in mind, I started looking for a tool capable of performing this funct
 
 For a number of reasons, it turned out that Simple Jekyll Search would fit my blog better, as long as I gave up the idea of not using JavaScript.
 
-It is worth mentioning that you will always have the option to access my posts in the [archive](/archive), which lists them chronologically.
+It is worth mentioning that you will always have the option to access my posts in the [archive](/posts/), which lists them chronologically.
 
 Kev's guide or the Simple jekyll search's repository are pretty straight forward if you want to go over the details on how to set it up yourself on your own website. I liked Kev's approach of specifying a search page, so we don't have to deal with `.js` in the whole site.
 
@@ -83,6 +83,5 @@ and the **search.json** file after rendered, like this:
 
 Finally, this is a screenshot of a fully working lightweight searching tool.
 
-![Website Screenshot](https://cdn.afranca.com.br/A6F3D3B5-BF82-46C5-B978-FBF241C1FA99.webp)
-
+![Website Screenshot](/uploads/A6F3D3B5-BF82-46C5-B978-FBF241C1FA99.webp)
 *Website Screenshot*

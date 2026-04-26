@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-W ith elections in Brazil around the corner, my concerns about how the current President will behave in relation to the results becomes more latent.
+With elections in Brazil around the corner, my concerns about how the current President will behave in relation to the results becomes more latent.
 <!--more-->
 
 Jair Bolsonaro commits several atrocities daily, such as attacking the country's institutions, offending women, and accusing the same electoral system that elected him in 2018 as fraudulent, threatening with the use of military force not to surrender office in the event of defeat next Sunday.
@@ -26,3 +26,5 @@ Some are even democratically elected, but then use the state machine to try to m
 Known names for authoritarism today are Viktor Orbán, in Hungary; Recep Erdogan, in Turkey; Vladimir Putin, in Russia; Xi Jinping, in China; Nicolás Maduro, in Venezuela; Donald Trump, in the USA; and Jair Bolsonaro, in Brazil.
 
 Again, John Oliver nailed it with a video about the Brazilian president.
+
+{{< youtube uySgklnlX3Y >}}

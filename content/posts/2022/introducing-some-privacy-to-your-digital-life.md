@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-S ome time ago, searching for some more privacy-respecting softwares to replace the bad ones I used to have installed, I was introduced to the Privacy Guides website, recommended by the folks from the [Techlore Channel](https://odysee.com/@techlore:3).
+Some time ago, searching for some more privacy-respecting softwares to replace the bad ones I used to have installed, I was introduced to the Privacy Guides website, recommended by the folks from the [Techlore Channel](https://odysee.com/@techlore:3).
 <!--more-->
 
 Many may wonder the reasons why we should care about our online privacy. I could list a few, but this is not the topic of this post. For now, let's just say that I'd like to use products and services that respect me as an individual, and that come from the open source community or companies that don't have obscure terms and conditions to profit tons of money from our personal data.

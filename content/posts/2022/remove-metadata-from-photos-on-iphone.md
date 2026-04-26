@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-W e often need to share a photo with someone special, but what usually goes unnoticed is the amount of metadata that is embedded in every pic we shoot.
+We often need to share a photo with someone special, but what usually goes unnoticed is the amount of metadata that is embedded in every pic we shoot.
 <!--more-->
 
 Even worse is the fact that many apps that we have on our phone work against us and steal these little pieces of information (the metadata) to generate a profile about us and how we interact with things without us even knowing it.
@@ -38,7 +38,7 @@ That's why this tip comes in hand.
 
 ### When you're done, your shortcut settings should look like this:
 
-![](/content/images/2025/12/FDFF0A0A-EEF5-408C-A766-80B2547B7A57.webp)
+![](/uploads/FDFF0A0A-EEF5-408C-A766-80B2547B7A57.webp)
 
 ## Using the Shortcut
 
@@ -46,7 +46,7 @@ That's why this tip comes in hand.
 - Select the photo you want to remove the metadata, click "Remove Metadata" using the Share Sheet menu, and you'll be able to save a new version of the photo on your library.
 - Now, just share the new created file.
 
-![](/content/images/2025/12/F5FEFED3-595F-47A5-A222-6698067B29EE.webp)
+![](/uploads/F5FEFED3-595F-47A5-A222-6698067B29EE.webp)
 
 This is a quick method you can use to share your photos with a little more privacy from your phone.
 

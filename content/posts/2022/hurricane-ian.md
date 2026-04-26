@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T his is one of those moments where we have to embrace ourselves and wish for hope for our fellows from Cuba and Florida.
+This is one of those moments where we have to embrace ourselves and wish for hope for our fellows from Cuba and Florida.
 <!--more-->
 
 Last year we've been hit hard by Hurricane Ida, and I experienced it first-hand. That was the first time that I feared for myself and my family.

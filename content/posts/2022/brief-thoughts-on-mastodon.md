@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-S ome claim this is a copy of Twitter, but in fact this social network goes far beyond that. I had the chance to break many of the prejudices I had with social media after interacting in the Fediverse and see what it was really all about.
+Some claim this is a copy of Twitter, but in fact this social network goes far beyond that. I had the chance to break many of the prejudices I had with social media after interacting in the Fediverse and see what it was really all about.
 <!--more-->
 
 Mastodon describes itself as a social network:
@@ -44,4 +44,4 @@ Most importantly, you can communicate between instances regardless of where thei
 
 Lately, I've been in a movement to limit my access to Mastodon, so I can focus on my family, or things like reading and studying. Although I don't toot much, my account is active and I try to catch up monthly on what's going on there.
 
-Follow me on the Fediverse: **@andre@afranca.com.br**
+Follow me on the Fediverse: **{{< fediverseHandle >}}**

@@ -15,4 +15,6 @@ I got this video as a suggestion from [Hacker newsletter](https://hackernewslett
 
 In this video, Kate Bellingham, a television presenter, reports an exciting new interconnected world in 1994.
 
+{{< youtube XpZ5STahhPE >}}
+
 Really cool, isn't it?

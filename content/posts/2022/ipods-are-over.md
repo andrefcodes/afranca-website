@@ -10,12 +10,12 @@ draft: false
 featured: false
 ---
 
-I 'm definitely feeling a little nostalgic with Apple's last month announcement that the days of the iPod Touch are over.
+I'm definitely feeling a little nostalgic with Apple's last month announcement that the days of the iPod Touch are over.
 <!--more-->
 
 The first iPod was announced in October 2001, and most people agree that it revolutionized the way we listen to music nowadays. By that time, there were other music players, but no manufacturer was able to bring together an easy way for us to buy music - with some decent quality - and offer a well designed product. Obviously, some audiophile may disagree with my "decent quality" statement, but it really was for the average user that didn't want (or need) to go deeper in all technicality in this regard.
 
-Recently, I wrote a post on how [Technology is evolving too fast](/technology-is-evolving-too-fast) and some concerns that I have. This can be a good example of it, I mean, the iPod has been made less relevant, and all of its feature available on our phones. So no need to keep producing it.
+Recently, I wrote a post on how [Technology is evolving too fast]({{< ref "posts/2022/technology-is-evolving-too-fast.md" >}}) and some concerns that I have. This can be a good example of it, I mean, the iPod has been made less relevant, and all of its feature available on our phones. So no need to keep producing it.
 
 Greg Joswiak, Apple’s senior VP of Worldwide Marketing, affirmed that music has
 

@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-H ow many opportunities do we let go when we're passively using our phones?
+How many opportunities do we let go when we're passively using our phones?
 <!--more-->
 
 Not long ago, my wife started calling my attention about me staying hours on the phone. At first, I disagreed – I think most people would do the same, because in an unaware state, we tend to do things like this. After some insistence from her, I decided to check if that was true. I'm an iPhone user, so I set up Screen Time. For those who don't know what this app is, it basically maps how many hours we spend with our phones and which apps consume most of our time.

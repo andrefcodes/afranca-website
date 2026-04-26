@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-W hat a joy I felt when Real Madrid was crowned the Champions League champion of 2022. Especially for the Brazilians who play in the team, as is the case of the striker Vinicius Jr.
+What a joy I felt when Real Madrid was crowned the Champions League champion of 2022. Especially for the Brazilians who play in the team, as is the case of the striker Vinicius Jr.
 <!--more-->
 
 Vinicius Jr. is undoubtedly the best Brazilian of the 2022 season to play in one of the great European soccer leagues. And this fact draws a lot of attention for some aspects, such as the excessive criticism he suffered (both from the Brazilian and the Spanish press), as well as the episodes of racism he constantly experiences, but mostly by the way he shows with his dedication that he can evolve more every day. This last characteristic becomes even more valuable in times when Brazilian soccer is represented by bad personalities such as Neymar and a style of soccer that gives us disgust.

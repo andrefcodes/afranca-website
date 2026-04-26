@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-L ittle happened last month (actually, the last two months).
+Little happened last month (actually, the last two months).
 <!--more-->
 
 I tried to catch up with my personal goal of 4 posts each month and managed to successfully migrate my static Jekyll site to Ghost.
@@ -19,7 +19,7 @@ Apart from that, I am concerned about Brazil's elections. My mood may change thi
 
 ## 📝 Blogging
 
-- [Ghost as my blogging platform](/ghost-as-my-blogging-platform)
-- [How to self-host Vaultwarden with Podman on a VPS](/how-to-self-host-vaultwarden-with-podman-on-a-vps)
-- [Hurricane Ian](/hurricane-ian)
-- [Brazilian elections](/brazilian-elections)
+- [Ghost as my blogging platform]({{< ref "posts/2022/ghost-as-my-blogging-platform.md" >}})
+- [How to self-host Vaultwarden with Podman on a VPS]({{< ref "posts/2022/how-to-self-host-vaultwarden-with-podman-on-a-vps.md" >}})
+- [Hurricane Ian]({{< ref "posts/2022/hurricane-ian.md" >}})
+- [Brazilian elections]({{< ref "posts/2022/brazilian-elections.md" >}})

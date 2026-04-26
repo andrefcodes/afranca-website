@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T his is an update on what happened in the previous month.
+This is an update on what happened in the previous month.
 <!--more-->
 
 ## 📝 Blogging
@@ -31,10 +31,10 @@ Also, I noticed that in the last few days I've been receiving emails with commen
 
 ## Posts from the previous month:
 
-- [Simple Jekyll Search](/simple-jekyll-search)
-- [Vinicius Jr.: an example of determination](/vinicius-jr-an-example-of-determination)
-- [USB-C now!](/usb-c-now)
-- [iPods are over](/ipods-are-over)
+- [Simple Jekyll Search]({{< ref "posts/2022/simple-jekyll-search.md" >}})
+- [Vinicius Jr.: an example of determination]({{< ref "posts/2022/vinicius-jr-an-example-of-determination.md" >}})
+- [USB-C now!]({{< ref "posts/2022/usb-c-now.md" >}})
+- [iPods are over]({{< ref "posts/2022/ipods-are-over.md" >}})
 
 ## 📖 Reading
 
@@ -47,3 +47,5 @@ I've picked these three articles that I read in the past month.
 ## 😎 Other
 
 John Oliver came up with another cool video explaining the modus operandi of big techs.
+
+{{< youtube jXf04bhcjbg >}}

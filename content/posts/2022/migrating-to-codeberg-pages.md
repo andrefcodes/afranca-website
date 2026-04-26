@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I 've been really busy these days and haven't made any posts. Despite having plenty of drafts for the blog, I couldn't find time to sit down and write.
+I've been really busy these days and haven't made any posts. Despite having plenty of drafts for the blog, I couldn't find time to sit down and write.
 <!--more-->
 
 Fortunately, unlike any algorithm-based platform, this blog allows me to write at my own pace and as I wish. After all, there's no financial support or, with all respect, any kind of obligation to readers. The dynamics of this blog are quite simple: I write what I want and like, while people who are interested in what I have to say read it and, when they want, interact with me by email or on the fediverse. And this has been working very well.

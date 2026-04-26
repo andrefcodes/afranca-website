@@ -13,7 +13,7 @@ featured: false
 I would say that one of the most important things in our digital life is to have good passwords, then to have a proper way to secure and manage those passwords. Thankfully, we have different solutions.
 <!--more-->
 
-Today I'm going to show you how to self-host Vaultwarden with Podman1.
+Today I'm going to show you how to self-host Vaultwarden with Podman [^1].
 
 [Vaultwarden](https://github.com/dani-garcia/vaultwarden) is described by its creator as an
 
@@ -22,7 +22,7 @@ Today I'm going to show you how to self-host Vaultwarden with Podman1.
 ## Considerations
 
 - It is strongly recommended to set up an SSL certificate and make sure your server's firewall, ssh and any other security measures are already done (which I'm not covering in this post).
-- For the SSL certificate, make sure you have registered a domain name (for instance, example.com) and pointed both A and/or AAAA DNS records to the public IPv4 and/or IPv6 addresses of your VPS.2
+- For the SSL certificate, make sure you have registered a domain name (for instance, example.com) and pointed both A and/or AAAA DNS records to the public IPv4 and/or IPv6 addresses of your VPS [^2].
 
 If you're setting up locally, let's say on a Raspberry Pi, I wouldn't mess with port forwarding, unless you know what you're doing.  
 I'd instead look into a tool like [Tailscale](https://tailscale.com/) (which is great, free and will allow you to access your passwords even when you're not at home).
@@ -84,7 +84,7 @@ Now, we need to create a volume to mount our container, so we can make sure our 
 podman volume create vaultwarden
 ```
 
-Let's create a podman container for Vaultwarden3:
+Let's create a podman container for Vaultwarden [^3]:
 
 ```
 podman run --detach --name vaultwarden --volume vaultwarden:/data/ --restart always --memory 256m --publish 8080:80 --publish 3012:3012 --env WEBSOCKET_ENABLED=true docker.io/vaultwarden/server:latest
@@ -211,23 +211,18 @@ If you need additional help, check out the [Bitwarden Help Center](https://bitwa
 
 ## Additional Tip
 
-If you want to learn about password manager4 alternatives, for instance local-based password managers, the page bellow is great:
+If you want to learn about password manager [^4] alternatives, for instance local-based password managers, the page bellow is great:
 
 <https://www.privacyguides.org/passwords/>
 
----
-
-[1] - Why Podman instead of Docker?  
-  
+[^1]: Why Podman instead of Docker?  
 I have run into trouble running docker on low-end hardware (like a Raspberry Pi), while Podman works seamlessly.  
-  
 In terms of capabilities, as of today I haven't found any missing features on my use cases.
 
-[2] - You can try to get a certificate using other methods like [acme.sh](https://github.com/acmesh-official/acme.sh).
+[^2]: You can try to get a certificate using other methods like [acme.sh](https://github.com/acmesh-official/acme.sh).
 
-[3] - Flags explained:  
-  
---**detach** - daemonizes the container to run in the background;  
+[^3]: Flags explained:<br>
+--**detach** - daemonizes the container to run in the background;<br>
 --**name** - defines a name for the container;  
 --**volume** - uses the persisted volume vaultwarden created in the step before;  
 --**restart** - this flag ensures that our container will try to stay up in case something goes wrong;  
@@ -235,8 +230,6 @@ In terms of capabilities, as of today I haven't found any missing features on my
 --**publish** - defines which host ports will be exposed to the container ports respectively:  
 --**env WEBSOCKET\_ENABLED=true** environment variable enables the websocket server for our container.
 
-[4] - Password managers basically allow you to securely store and manage passwords and other credentials.  
-  
+[^4]: Password managers basically allow you to securely store and manage passwords and other credentials.  
 A **cloud-based** password manager allows you to sync all your passwords on a cloud server for easy accessibility and safety against device loss, as I'm going to demonstrate in this post.  
-  
 A **local-based** password manager allows you to manage an encrypted password database locally.

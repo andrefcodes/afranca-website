@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I nspired by what I saw on [Luke Harris' blog](https://www.lkhrs.com/), I decided to create a short summary of interesting things that I did or happened in the past month, e.g., this blog. Yep, it's a newborn blog, and I'm very proud of it.
+Inspired by what I saw on [Luke Harris' blog](https://www.lkhrs.com/), I decided to create a short summary of interesting things that I did or happened in the past month, e.g., this blog. Yep, it's a newborn blog, and I'm very proud of it.
 <!--more-->
 
 I'll try to separate things here by topics. These can be static (included in all updates, i.e., "blogging", "reading", and "music and podcasts") or dynamic (any additional content or comment that I may find useful, for example, "games" or "other" (if I'm not feeling creative)).
@@ -23,10 +23,10 @@ I set a goal of making at least four posts per month (not counting the monthly "
 
 Below are the posts from the previous month:
 
-- [Introducing some privacy to your digital life](/introducing-some-privacy-to-your-digital-life)
-- [Things I use](/things-i-use)
-- [What is Wrong with the Linux Community](/what-is-wrong-with-the-linux-community)
-- [Disconnecting is becoming increasingly difficult](/disconnecting-is-becoming-increasingly-difficult)
+- [Introducing some privacy to your digital life]({{< ref "posts/2022/introducing-some-privacy-to-your-digital-life.md" >}})
+- [Things I use]({{< ref "pages/uses.md" >}})
+- [What is Wrong with the Linux Community]({{< ref "posts/2022/what-is-wrong-with-the-linux-community.md" >}})
+- [Disconnecting is becoming increasingly difficult]({{< ref "posts/2022/disconnecting-is-becoming-increasingly-difficult.md" >}})
 
 ## 📖 Reading
 

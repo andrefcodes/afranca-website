@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-W hy are there so many different keyboard sizes and layouts? Is it possible to find the perfect keyboard? Will we type better or faster with a "high-end" keyboard?
+Why are there so many different keyboard sizes and layouts? Is it possible to find the perfect keyboard? Will we type better or faster with a "high-end" keyboard?
 <!--more-->
 
 Here's my take:
@@ -31,7 +31,7 @@ In fact, most people suffer from using a keyboard because of bad habits and perh
 
 Well, what are the most common keyboard layout types?
 
-![](/content/images/2025/12/6E55DD91-45EA-4D00-B869-BB5679934C12.webp)
+![](/uploads/6E55DD91-45EA-4D00-B869-BB5679934C12.webp)
 
 **Keyboard Layout Comparison**
 
@@ -49,7 +49,7 @@ For this reason, and also because the number keys are so little used, there was 
 
 The third type of layout, 75% keyboards, is perhaps the most popular type of keyboard out there, due to the fact that many people who have ever used a laptop, used one whose keys had this shape. For example, if you've ever used an apple macbook, you've used a keyboard 75%. Basically this keyboard is a tenkeyless keyboard but slightly reduced and with the navigation keys together the shift and ctrl keys on the right side.
 
-![](/content/images/2025/12/EF18B218-AE83-4255-8281-2F7BBD20E65F.webp)
+![](/uploads/EF18B218-AE83-4255-8281-2F7BBD20E65F.webp)
 
 **Akko Black & Pink 3084B / 75% Keyboard Layout**
 

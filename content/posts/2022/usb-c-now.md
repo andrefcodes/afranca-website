@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-R ecently, The European Commission announced plans to require a universal charging port for all mobile devices by mid-2024.
+Recently, The European Commission announced plans to require a universal charging port for all mobile devices by mid-2024.
 <!--more-->
 
 As reported in many newspapers, their goal is to limit toxic waste, in addition to help consumers, who are mostly require to accumulate lots of cables and chargers.

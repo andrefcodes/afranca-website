@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I t's not recent that I've read people positioning themselves, sometimes aggressively, about Canonical's decisions and the direction they are going in relation to, for instance, funding the company or the snap thing.
+It's not recent that I've read people positioning themselves, sometimes aggressively, about Canonical's decisions and the direction they are going in relation to, for instance, funding the company or the snap thing.
 <!--more-->
 
 I have an analogy:

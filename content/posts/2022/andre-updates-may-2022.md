@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T his is an update of what happened in the previous month.
+This is an update of what happened in the previous month.
 <!--more-->
 
 ## 📝 Blogging
@@ -20,9 +20,9 @@ Even though I don't keep any track about how many viewers my posts are hitting, 
 
 Below are the posts from the previous month:
 
-- [Technology is evolving too fast](/technology-is-evolving-too-fast)
-- [Remove metadata from photos on iPhone](/remove-metadata-from-photos-on-iphone)
-- [Is there a perfect keyboard?](/is-there-a-perfect-keyboard)
+- [Technology is evolving too fast]({{< ref "posts/2022/technology-is-evolving-too-fast.md" >}})
+- [Remove metadata from photos on iPhone]({{< ref "posts/2022/remove-metadata-from-photos-on-iphone.md" >}})
+- [Is there a perfect keyboard?]({{< ref "posts/2022/is-there-a-perfect-keyboard.md" >}})
 
 ## 📖 Reading
 

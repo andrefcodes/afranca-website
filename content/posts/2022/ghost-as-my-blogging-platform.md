@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-R ecently, I posted about how I successfully migrated my Jekyll static blog from GitHub to Codeberg Pages, also explaining my attempt to use WriteFreely as my blogging platform.
+Recently, I posted about how I successfully migrated my Jekyll static blog from GitHub to Codeberg Pages, also explaining my attempt to use WriteFreely as my blogging platform.
 <!--more-->
 
 I really want to make writing a habit, but I've been struggling with the lack of a true editor in Jekyll, which makes it a pain to build this habit. Well, I still think that static websites are great for a number of reasons, but not ideal for producing a lot of content.
@@ -23,7 +23,7 @@ Here I go again, tinkering with my blog... I took a deep breath, then listed thr
 
 Among all the options in my brief research, I liked [Ghost CMS](https://ghost.org/) the most. Problem is, their managed hosting is more than I’d like to pay, so I self-hosted it. As of this writing, their starter plan is $9/mo billed yearly (or $11 billed monthly).
 
-![](/content/images/2025/12/E1A56524-B127-436C-87D7-5F5395C325F2-1995104443.webp)
+![](/uploads/E1A56524-B127-436C-87D7-5F5395C325F2-1995104443.webp)
 
 **Image from** [**Ghost Website**](https://ghost.org/images/home/posts.png) **/ Ghost CMS Screenshot**
 
