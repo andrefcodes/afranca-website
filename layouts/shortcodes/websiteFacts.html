@@ -8,14 +8,14 @@
 
 <p>
 <strong>Built with:</strong>
-<a href="https://gohugo.io/" target="_blank">Hugo {{ hugo.Version }}</a>
+<a href="https://gohugo.io/" rel="noopener" target="_blank">Hugo {{ hugo.Version }}</a>
 <br />
 <strong>Hosted on:</strong>
-<a href="{{ $hostingProviderURL }}" target="_blank">{{ $hostingProvider }}</a>
+<a href="{{ $hostingProviderURL }}" rel="noopener" target="_blank">{{ $hostingProvider }}</a>
 <br />
 {{ with $sourceCodeURL }}
 <strong>Source Code:</strong>
-<a href="{{ . }}" rel="me noopener" target="_blank">{{ . }}</a>
+<a href="{{ . }}" rel="noopener" target="_blank">{{ . }}</a>
 <br />
 {{ end }}
 <strong>Code License:</strong>
