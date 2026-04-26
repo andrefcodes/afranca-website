@@ -51,7 +51,7 @@
     {{- $schemaType = "Article" -}}
 {{- end -}}
 
-{{- "<!-- Open Graph integration -->" | safeHTML -}}
+{{/* Open Graph integration */}}
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ $pageDesc }}">
 <meta property="og:image" content="{{ $imageURL }}">
@@ -59,7 +59,7 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="{{ .Site.Title }}">
 <meta property="og:type" content="{{ $ogType }}">
-{{- if and .IsPage (eq .Section "posts") -}}
+{{ if and .IsPage (eq .Section "posts") }}
 {{- $iso8601 := "2006-01-02T15:04:05Z07:00" -}}
 <meta property="article:section" content="{{ .Section }}">
 {{- with .PublishDate }}
@@ -68,19 +68,17 @@
 {{- with .Lastmod }}
 <meta property="article:modified_time" {{ .Format $iso8601 | printf "content=%q" | safeHTMLAttr }}>
 {{- end }}
-{{- range .GetTerms "tags" | first 6 -}}
+{{- range .GetTerms "tags" | first 6 }}
 <meta property="article:tag" content="{{ .Page.Title | plainify }}">
-{{- end -}}
-{{- end -}}
-
-{{- "<!-- Twitter integration -->" | safeHTML -}}
+{{- end }}
+{{ end }}
+{{/* Twitter integration */}}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="{{ $imageURL }}">
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ $pageDesc }}">
 <meta name="twitter:url" content="{{ .Permalink }}">
-
-{{- "<!-- JSON Linked Data -->" | safeHTML -}}
+{{/* JSON Linked Data */}}
 {{- $publisher := dict
     "@type" "Organization"
     "name" site.Title

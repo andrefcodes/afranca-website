@@ -2,20 +2,20 @@
 <script src="/js/lunr-min.js"></script>
 
 <script>
-    {{- $counter := 0 -}}
+    {{ $counter := 0 }}
     var documents = [
-        {{- $pages := where .Site.RegularPages "Section" "posts" -}}
-        {{- $total := len $pages -}}
-        {{- range $index, $page := $pages -}}
+        {{ $pages := where .Site.RegularPages "Section" "posts" }}
+        {{ $total := len $pages }}
+        {{ range $index, $page := $pages }}
         {
             "id": {{ $counter }},
             "url": "{{ .Permalink }}",
             "title": "{{ .Title }}",
             "body": "{{ .Summary | plainify }}"
         }
-        {{- $counter = add $counter 1 -}}
-        {{- if lt (add $index 1) $total }},{{ end -}}
-        {{- end -}}
+        {{ $counter = add $counter 1 }}
+        {{ if lt (add $index 1) $total }},{{ end }}
+        {{ end }}
     ];
 
     var idx = lunr(function () {
@@ -51,10 +51,20 @@
     }
 </script>
 
-<form class="search-form" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <p><input class="search-input" type="text" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type your search here..." /></p>
+<form class="search-form" onsubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <label class="hidden" for="lunrsearch">Search posts</label>
+    <p>
+        <input
+            class="search-input"
+            type="text"
+            id="lunrsearch"
+            name="q"
+            maxlength="255"
+            value=""
+            placeholder="Type your search here..."
+        />
+    </p>
 </form>
 <div id="lunrsearchresults">
-   
 </div>
 <!-- End of Search Block -->

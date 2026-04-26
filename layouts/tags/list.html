@@ -1,11 +1,11 @@
-{{- define "main" -}}
+{{ define "main" }}
 <div class="tag-content h-feed">
     <h1 class="p-name">#{{ .Title }}</h1>
-    {{- with .Description -}}
+    {{ with .Description }}
         <p class="tag-description p-summary hidden">{{ . }}</p>
-    {{- end -}}
+    {{ end }}
 
-    {{- if eq .Kind "taxonomy" -}}
+    {{ if eq .Kind "taxonomy" }}
     <table class="post-list-table">
         <thead>
             <tr>
@@ -14,19 +14,19 @@
             </tr>
         </thead>
         <tbody>
-            {{- $paginator := .Paginate .Pages.ByTitle -}}
-            {{- range $paginator.Pages -}}
+            {{ $paginator := .Paginate .Pages.ByTitle }}
+            {{ range $paginator.Pages }}
             <tr class="h-entry">
                 <td>
                     <a class="p-name u-url" href="{{ .RelPermalink }}">#{{ .Title }}</a>
                 </td>
                 <td class="td-date">{{ len .Pages }}</td>
             </tr>
-            {{- end -}}
+            {{ end }}
         </tbody>
     </table>
-    {{- partial "pagination.html" . -}}
-    {{- else -}}
+    {{ partial "pagination.html" . }}
+    {{ else }}
     <table class="post-list-table">
         <thead>
             <tr>
@@ -35,24 +35,24 @@
             </tr>
         </thead>
         <tbody>
-            {{- $paginator := .Paginate .Pages -}}
-            {{- range $paginator.Pages -}}
+            {{ $paginator := .Paginate .Pages }}
+            {{ range $paginator.Pages }}
             <tr class="h-entry">
                 <td>
                     <a class="p-name u-url" href="{{ .RelPermalink }}">{{ .Title }}</a>
-                    {{- if .Params.featured -}}
+                    {{ if .Params.featured }}
                         <span class="featured-badge">★</span>
-                    {{- end -}}
+                    {{ end }}
                 </td>
                 <td class="td-date">
                     <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
                 </td>
             </tr>
-            {{- end -}}
+            {{ end }}
         </tbody>
     </table>
 
-    {{- partial "pagination.html" . -}}
-    {{- end -}}
+    {{ partial "pagination.html" . }}
+    {{ end }}
 </div>
-{{- end -}}
+{{ end }}

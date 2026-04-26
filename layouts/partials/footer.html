@@ -1,40 +1,88 @@
-{{- /* Footer content */ -}}
+{{/* Footer content */}}
 <div class="footer-content">
     <section class="copyright">
         <a href="{{ "/" | absURL }}">{{ site.Title }}</a> &copy; {{ now.Format "2006" }}
     </section>
     <nav class="footer-nav">
         <ul class="nav">
-            {{- range site.Menus.footer -}}
-                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-            {{- end -}}
+            {{ range site.Menus.footer }}
+                <li>
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                </li>
+            {{ end }}
         </ul>
     </nav>
 </div>
 
-{{- /* Footer badges */ -}}
-{{- if site.Params.footer.badges -}}
+{{/* Footer badges */}}
+{{ if site.Params.footer.badges }}
 <div class="footer-badges">
-    <div><a rel="noopener" target="_blank" href="https://gohugo.io/"><img src="{{ "images/badges/hugo.png" | relURL }}" alt="Built with Hugo"></a></div>
-    <div><a rel="noopener" target="_blank" href="https://ko-fi.com/s/4662b19f61"><img src="{{ "images/badges/made-by-a-human.png" | relURL }}" alt="Human made content badge pack"></a></div>
-    {{- with site.Params.fediverseURL -}}
-    <div><a rel="noopener" target="_blank" href="{{ . }}"><img src="{{ "images/badges/follow-on-mastodon.png" | relURL }}" alt="Follow me on Mastodon"></a></div>
-    {{- end -}}
-    <div><a rel="noopener" target="_blank" href="https://fediverse.party/"><img src="{{ "images/badges/join-the-fediverse.png" | relURL }}" alt="Join Fediverse"></a></div>
-    {{- with site.Params.privacyAndTerms -}}
-    <div><a href="{{ . }}"><img src="{{ "images/badges/cc-nc-sa.png" | relURL }}" alt="Content licensed under CC-BY-NC-SA"></a></div>
-    {{- end -}}
-    <div><a rel="noopener" target="_blank" href="https://anybrowser.org/campaign/"><img src="{{ "images/badges/any-browser.png" | relURL }}" alt="Viewable With Any Browser"></a></div>
-    <div><a href="{{ "/feed.xml" | relURL }}" rel="alternate"><img src="{{ "images/badges/valid-atom.png" | relURL }}" alt="Site Feed"></a></div>
-    <div><img src="{{ "images/badges/upallnight.gif" | relURL }}" alt="Up All Night Gif"></div>
-    <div><a rel="noopener" target="_blank" href="https://indieweb.org/"><img src="{{ "images/badges/indieweb.png" | relURL }}" alt="People-focused alternative to the corporate web."></a></div>
-    <div><a rel="noopener" target="_blank" href="https://people.pledge.party/"><img src="{{ "images/badges/people-pledge.png" | relURL }}" alt="People Pledge"></a></div>
-    <div><a rel="noopener" target="_blank" href="https://thewebisfucked.kevquirk.com/"><img src="{{ "images/badges/web-is-f.gif" | relURL }}" alt="The Web Is Fucked"></a></div>
-    <div><a rel="noopener" target="_blank" href="https://indieweb.org/Webmention"><img src="{{ "images/badges/webmention.png" | relURL }}" alt="Webmention is an open web standard"></a></div>
+    <div>
+        <a rel="noopener" target="_blank" href="https://gohugo.io/">
+            <img src="{{ "images/badges/hugo.png" | relURL }}" alt="Built with Hugo" />
+        </a>
+    </div>
+    <div>
+        <a rel="noopener" target="_blank" href="https://ko-fi.com/s/4662b19f61">
+            <img src="{{ "images/badges/made-by-a-human.png" | relURL }}" alt="Human made content badge pack" />
+        </a>
+    </div>
+    {{ with site.Params.fediverseURL }}
+    <div>
+        <a rel="noopener" target="_blank" href="{{ . }}">
+            <img src="{{ "images/badges/follow-on-mastodon.png" | relURL }}" alt="Follow me on Mastodon" />
+        </a>
+    </div>
+    {{ end }}
+    <div>
+        <a rel="noopener" target="_blank" href="https://fediverse.party/">
+            <img src="{{ "images/badges/join-the-fediverse.png" | relURL }}" alt="Join Fediverse" />
+        </a>
+    </div>
+    {{ with site.Params.privacyAndTerms }}
+    <div>
+        <a href="{{ . }}">
+            <img src="{{ "images/badges/cc-nc-sa.png" | relURL }}" alt="Content licensed under CC-BY-NC-SA" />
+        </a>
+    </div>
+    {{ end }}
+    <div>
+        <a rel="noopener" target="_blank" href="https://anybrowser.org/campaign/">
+            <img src="{{ "images/badges/any-browser.png" | relURL }}" alt="Viewable With Any Browser" />
+        </a>
+    </div>
+    <div>
+        <a href="{{ "/feed.xml" | relURL }}" rel="alternate">
+            <img src="{{ "images/badges/valid-atom.png" | relURL }}" alt="Site Feed" />
+        </a>
+    </div>
+    <div>
+        <img src="{{ "images/badges/upallnight.gif" | relURL }}" alt="Up All Night Gif" />
+    </div>
+    <div>
+        <a rel="noopener" target="_blank" href="https://indieweb.org/">
+            <img src="{{ "images/badges/indieweb.png" | relURL }}" alt="People-focused alternative to the corporate web." />
+        </a>
+    </div>
+    <div>
+        <a rel="noopener" target="_blank" href="https://people.pledge.party/">
+            <img src="{{ "images/badges/people-pledge.png" | relURL }}" alt="People Pledge" />
+        </a>
+    </div>
+    <div>
+        <a rel="noopener" target="_blank" href="https://thewebisfucked.kevquirk.com/">
+            <img src="{{ "images/badges/web-is-f.gif" | relURL }}" alt="The Web Is Fucked" />
+        </a>
+    </div>
+    <div>
+        <a rel="noopener" target="_blank" href="https://indieweb.org/Webmention">
+            <img src="{{ "images/badges/webmention.png" | relURL }}" alt="Webmention is an open web standard" />
+        </a>
+    </div>
 </div>
-{{- end -}}
+{{ end }}
 
-{{- /* Social rel-me links for IndieWeb verification */ -}}
-{{- range site.Params.relMe.ids -}}
-    <link href="{{ . }}" rel="me">
-{{- end -}}
+{{/* Social rel-me links for IndieWeb verification */}}
+{{ range site.Params.relMe.ids }}
+    <a href="{{ . }}" rel="me" class="hidden" aria-hidden="true" tabindex="-1">{{ . }}</a>
+{{ end }}
