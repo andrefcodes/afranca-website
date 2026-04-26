@@ -1,5 +1,6 @@
 <!-- Search Block -->
-<script src="/js/lunr-min.js"></script>
+{{ $lunr := resources.Get "js/lunr-min.js" | fingerprint }}
+<script src="{{ $lunr.RelPermalink }}"></script>
 
 <script>
     {{ $counter := 0 }}
