@@ -5,7 +5,6 @@ lastmod: 2026-04-24T14:54:07-03:00
 slug: "blogroll"
 description: "List of my favorite blogs from around the web that inspire and interest me. "
 image: ""
-imageCaption: ""
 ---
 
 This is a list of my favorite blogs from around the World Wide Web.

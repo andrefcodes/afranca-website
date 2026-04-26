@@ -5,7 +5,6 @@ date = 2025-06-08T21:40:16-03:00
 lastmod = 2026-04-24T14:34:29-03:00
 slug = "explore"
 image = ""
-imageCaption = ""
 +++
 
 Use this page as a quick map of the site.

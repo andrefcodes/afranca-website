@@ -5,7 +5,6 @@ date = 2024-12-02T18:25:13-03:00
 lastmod = 2026-04-24T14:36:45-03:00
 slug = "licenses"
 image = ""
-imageCaption = ""
 +++
 
 ## Code License:

@@ -5,7 +5,6 @@ lastmod: 2026-04-24T14:55:07-03:00
 slug: "about"
 description: "This blog is mostly a collection of my thoughts, notes, and technical content."
 image: ""
-imageCaption: ""
 ---
 
 Hi, I'm Andre! Welcome to my personal blog.

@@ -5,7 +5,6 @@ lastmod: 2026-04-24T14:42:07-03:00
 slug: "contact"
 description: "Contact me via Mastodon, email, or Webmention for post responses. "
 image: ""
-imageCaption: ""
 ---
 
 Do you have questions, comments, or concerns? The quickest way to reach me is by messaging **@abf@mas.to** on Mastodon, or by sending me an email at **hello** [at] **privatemail** [dot] **slmail** [dot] **me**.
