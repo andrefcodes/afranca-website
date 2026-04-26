@@ -6,6 +6,7 @@ disableKinds = ["sitemap"]
 
 [pagination]
   pagerSize = 15
+
 summarylength = 70
 
 [permalinks]
