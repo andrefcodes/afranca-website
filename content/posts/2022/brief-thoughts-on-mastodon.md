@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:35:32+00:00
 slug: "brief-thoughts-on-mastodon"
 description: "Mastodon: decentralized, open-source social network on Fediverse without ads, algorithms, or verified accounts."
 image: "https://images.unsplash.com/photo-1698210806453-5ec74b8e08be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG1hc3RvZG9ufGVufDB8fHx8MTc2NDcyNTIzNnww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Chethan / Unsplash"
 tags: ["Blogging", "Social Media", "Mastodon", "Fediverse"]
 draft: false
 featured: false
 ---
 
-Some claim this is a copy of Twitter, but in fact this social network goes far beyond that. I had the chance to break many of the prejudices I had with social media after interacting in the Fediverse and see what it was really all about.
+S ome claim this is a copy of Twitter, but in fact this social network goes far beyond that. I had the chance to break many of the prejudices I had with social media after interacting in the Fediverse and see what it was really all about.
+<!--more-->
 
 Mastodon describes itself as a social network:
 

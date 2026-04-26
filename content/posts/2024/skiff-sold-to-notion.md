@@ -5,13 +5,13 @@ lastmod: 2025-12-30T02:12:39+00:00
 slug: "skiff-sold-to-notion"
 description: "Skiff sold to Notion: users must migrate data within 6 months; switched back to Zoho Mail for reliability. "
 image: "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGVtYWlsfGVufDB8fHx8MTc2NDcwNjA4MXww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Brett Jordan / Unsplash"
 tags: ["Privacy", "Fediverse", "Email"]
 draft: false
 featured: false
 ---
 
-Yesterday, when I went to the website of my email provider, Skiff (a privacy-focused productivity platform), I came across the announcement that the company had been sold to Notion.
+Y esterday, when I went to the website of my email provider, Skiff (a privacy-focused productivity platform), I came across the announcement that the company had been sold to Notion.
+<!--more-->
 
 ![](/content/images/2025/12/bc05c5c8-3f77-4d21-8a77-bcfd11ce2c1e.webp)
 

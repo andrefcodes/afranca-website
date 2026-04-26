@@ -5,13 +5,13 @@ lastmod: 2026-01-08T23:40:25+00:00
 slug: "your-content-should-be-easy-to-find"
 description: "If I can’t easily find your posts or feed, I probably won’t come back."
 image: "https://images.unsplash.com/photo-1657639028182-24e11504c7c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQwfHxibG9nfGVufDB8fHx8MTc2NzgwNDEwMHww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by DaryaDarya LiveJournal / Unsplash"
 featured: true
 tags: ["IndieWeb", "Blogging", "Small Web"]
 draft: false
 ---
 
-One of the things I enjoy most is discovering new IndieWeb sites. I love seeing how bloggers like me experiment with their themes. Some go very old-school, using plain HTML, while others are highly polished - a masterclass in CSS usage.
+O ne of the things I enjoy most is discovering new IndieWeb sites. I love seeing how bloggers like me experiment with their themes. Some go very old-school, using plain HTML, while others are highly polished - a masterclass in CSS usage.
+<!--more-->
 
 What often frustrates me, though, is how many sites obscure their primary entry points. Posts, archives, or feeds are frequently hidden behind minimal navigation, visual abstraction, or missing links altogether. In some cases, RSS or other syndication endpoints are not exposed at all.
 

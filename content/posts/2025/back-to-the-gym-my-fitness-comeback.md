@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:50:57+00:00
 slug: "back-to-the-gym-my-fitness-comeback"
 description: "Returning to the gym after 18 years, I reclaim health, strength, and balance while reflecting on fitness, obesity, and steroid culture."
 image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHdvcmslMjBvdXR8ZW58MHx8fHwxNzY0NzAyMjU0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Karsten Winegeart / Unsplash"
 tags: ["Blogging", "Wellness"]
 draft: false
 featured: false
 ---
 
-After 18 years away from the gym, I finally decided to return. It wasn’t an easy decision, but it became inevitable as I faced the consequences of years of a sedentary lifestyle. My body was heavier, my energy levels were low, and simple daily activities started to feel like strenuous tasks.
+A fter 18 years away from the gym, I finally decided to return. It wasn’t an easy decision, but it became inevitable as I faced the consequences of years of a sedentary lifestyle. My body was heavier, my energy levels were low, and simple daily activities started to feel like strenuous tasks.
+<!--more-->
 
 The first day back was intimidating. Stepping into a somewhat familiar but at the same time foreign environment, surrounded by individuals lifting weights and pushing their limits, brought back memories of my younger, fitter self. This time, however, my goals were not just about aesthetics but reclaiming my health, strength, and vitality.
 

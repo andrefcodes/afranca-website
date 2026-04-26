@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:46:18+00:00
 slug: "curating-the-web"
 description: "Maintaining a blogroll today is digital gardening: curating links by choice, not algorithms, valuing quality, connection, and intentional discovery. "
 image: "https://images.unsplash.com/photo-1516382799247-87df95d790b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHNlYXJjaHxlbnwwfHx8fDE3NjQ2OTY0Nzl8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Agence Olloweb / Unsplash"
 featured: true
 tags: ["Blogging", "Blogroll", "Digital Gardening", "IndieWeb"]
 draft: false
 ---
 
-There's something curiously nostalgic about maintaining a blogroll these days. It's like tending a garden in a world where everyone consumes ultra-processed food delivered by algorithmic drones. While Twitter, Instagram, or TikTok feeds push content at you based on what you theoretically want to see, a blogroll is a deliberate statement about what you actually value. It's slow, quiet, and deeply personal.
+T here's something curiously nostalgic about maintaining a blogroll these days. It's like tending a garden in a world where everyone consumes ultra-processed food delivered by algorithmic drones. While Twitter, Instagram, or TikTok feeds push content at you based on what you theoretically want to see, a blogroll is a deliberate statement about what you actually value. It's slow, quiet, and deeply personal.
+<!--more-->
 
 I've spent the last few months revisiting my own blogroll at afranca.com.br/blogroll, and the process has made me think about how the web has changed and how, paradoxically, some of its oldest features are coming back with renewed force. The blogroll, that humble list of links to other sites and blogs, seemed like a relic until recently. Now it returns as active resistance against the centralized, algorithmic web that was sold to us as progress.
 

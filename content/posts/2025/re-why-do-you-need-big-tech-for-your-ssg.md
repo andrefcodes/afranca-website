@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:38:10+00:00
 slug: "re-why-do-you-need-big-tech-for-your-ssg"
 description: "Cloudflare’s outage shows centralization risks. Self-hosting gives control; managed platforms give ease. Know the trade-offs. "
 image: "https://images.unsplash.com/photo-1737737351943-82e01f866e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN0YXRpYyUyMHNpdGV8ZW58MHx8fHwxNzY0Njc0NTE4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Maik Winnecke / Unsplash"
 tags: ["Blogging", "Self-hosting", "Static Site Generator"]
 draft: false
 featured: false
 ---
 
-The recent Cloudflare outage sparked an interesting talk in the small web community. I wrote about [the fragile architecture we've built](/the-fragile-web-we-built), where a single configuration file brought down half the internet. Kev Quirk responded with a compelling argument: [why rely on big tech at all](https://kevquirk.com/blog/why-do-you-need-big-tech-for-your-ssg/)? Just spin up a VPS, build locally, and rsync your way to independence. Meanwhile, Loren Stephens offered [a more pragmatic perspective](https://ldstephens.net/blog/re-why-do-you-need-big-tech-for-your-ssg-kev-quirk/), pointing out that not everyone wants to become a sysadmin for their personal blog.
+T he recent Cloudflare outage sparked an interesting talk in the small web community. I wrote about [the fragile architecture we've built](/the-fragile-web-we-built), where a single configuration file brought down half the internet. Kev Quirk responded with a compelling argument: [why rely on big tech at all](https://kevquirk.com/blog/why-do-you-need-big-tech-for-your-ssg/)? Just spin up a VPS, build locally, and rsync your way to independence. Meanwhile, Loren Stephens offered [a more pragmatic perspective](https://ldstephens.net/blog/re-why-do-you-need-big-tech-for-your-ssg-kev-quirk/), pointing out that not everyone wants to become a sysadmin for their personal blog.
+<!--more-->
 
 I get both sides because I've lived through both approaches. When I launched the [first version of my blog](/website-version-4-0/#version-1-0), I used GitHub and Vercel - and [Simple.css](https://simplecss.org/) (Thanks Kev, btw). Push to main, watch it deploy, done. It was perfect for someone who just wanted to write without thinking about server configurations.
 

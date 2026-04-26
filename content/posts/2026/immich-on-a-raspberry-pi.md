@@ -5,13 +5,13 @@ lastmod: 2026-01-04T09:59:41+00:00
 slug: "immich-on-a-raspberry-pi"
 description: "Migrating to Immich worked well, but required a few tweaks and patience."
 image: "https://images.unsplash.com/photo-1533158307587-828f0a76ef46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBob3Rvc3xlbnwwfHx8fDE3NjUyMDQyNjl8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Jon Tyson / Unsplash"
 tags: ["Technology", "Apple", "Samsung", "Photo Management"]
 draft: false
 featured: false
 ---
 
-âœ…
+â œ…
+<!--more-->
 
 This post is not a tutorial, but rather my account of the process of migrating my photos from iCloud to Immich and how my Raspberry Pi has been able to run it without many issues.
 

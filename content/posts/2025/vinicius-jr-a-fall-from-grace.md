@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:54:19+00:00
 slug: "vinicius-jr-a-fall-from-grace"
 description: "Vinícius Júnior disappoints fans with on-field conflicts and endorsing criminal-linked content, raising doubts about his judgment and character. "
 image: "https://images.unsplash.com/photo-1635710064268-69aa5d9355c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fHJlYWwlMjBtYWRyaWR8ZW58MHx8fHwxNzY0NzAyOTAwfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Simon Reza / Unsplash"
 tags: ["Blogging", "Sports"]
 draft: false
 featured: false
 ---
 
-Vinícius Júnior, recently declared as one of Brazil's most promising soccer talents and elected FIFA's Best Player of the season, has become a figure of disappointment for many fans, including myself - [who have always been a fan of his playing style](/vinicius-jr-an-example-of-determination). His journey from a celebrated athlete to a controversial figure has been marked by a series of incidents that have tarnished his reputation, leaving not only supporters but many people questioning his character and choices.
+V inícius Júnior, recently declared as one of Brazil's most promising soccer talents and elected FIFA's Best Player of the season, has become a figure of disappointment for many fans, including myself - [who have always been a fan of his playing style](/vinicius-jr-an-example-of-determination). His journey from a celebrated athlete to a controversial figure has been marked by a series of incidents that have tarnished his reputation, leaving not only supporters but many people questioning his character and choices.
+<!--more-->
 
 The controversies surrounding Vinícius began to gain significant attention after the racist abuse and offenses he has experienced on several occasions. For example, during a match against Valencia at the Mestalla Stadium, Vinícius was subjected to persistent insults from the crowd, leading to a temporary halt in the game as officials addressed the situation.
 

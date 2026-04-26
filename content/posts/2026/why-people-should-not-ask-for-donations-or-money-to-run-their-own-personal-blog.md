@@ -5,13 +5,13 @@ lastmod: 2026-01-08T12:15:29+00:00
 slug: "why-people-should-not-ask-for-donations-or-money-to-run-their-own-personal-blog"
 description: "Personal blogs don‚Äôt need donations to have value."
 image: "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGRvbmF0ZXxlbnwwfHx8fDE3Njc4MzM1NDZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Katt Yukawa / Unsplash"
 draft: false
 featured: false
 tags: []
 ---
 
-üëç
+ üëç
+<!--more-->
 
 This post ****is not**** meant as a subtle jab, nor is it intended to offend anyone who had (or still has) this kind of behavior.
 

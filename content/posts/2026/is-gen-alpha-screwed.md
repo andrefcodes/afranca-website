@@ -5,13 +5,13 @@ lastmod: 2026-01-18T14:07:43+00:00
 slug: "is-gen-alpha-screwed"
 description: "As a dad of 2, I choose books over screens. Subscriptions like Leiturinha help us prioritize presence over algorithms."
 image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDY5fHxSRUFESU5HfGVufDB8fHx8MTc2ODYwOTgwN3ww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Iana Dmytrenko / Unsplash"
 tags: ["Link Posts"]
 draft: false
 featured: false
 ---
 
 > "Companies are literally designing everything for addiction these days. Trying to get you hooked on whatever they can profit off of as early in your development as possible... Limiting screen time, curating the entertainment so it’s not just an algorithm determining what our kids watch, hell just BEING present with your kid is like 99% of the battle." ***by Absurd Pirate***
+<!--more-->
 
 [Read post](https://blog.absurdpirate.com/is-gen-alpha-screwed/)
 

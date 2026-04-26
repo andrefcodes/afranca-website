@@ -5,13 +5,13 @@ lastmod: 2025-12-07T23:45:00+00:00
 slug: "as-universades-publicas-estao-dominadas-por-idiotas"
 description: "Crítica à ideologização, corrupção e decadência moral nas universidades públicas brasileiras e a urgência por reforma e mérito."
 image: "https://images.unsplash.com/photo-1487893667092-772cdd6fe0ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM4fHxzJUMzJUEzbyUyMHBhdWxvfGVufDB8fHx8MTc2NTA3MTU3MHww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Denys Argyriou / Unsplash"
 tags: ["Education", "Politics"]
 draft: false
 featured: false
 ---
 
-É difícil falar sobre as universidades públicas no Brasil sem um sentimento de frustração e, francamente, de raiva. Essas instituições, que deveriam ser a espinha dorsal do desenvolvimento intelectual e profissional da nossa nação, tornaram-se algo completamente diferente. Elas se transformaram em criadouros ideológicos onde a desonestidade, a corrupção e a completa falta de decência moral criaram - e criam - raízes. E tudo isso às custas do dinheiro pago por nossos impostos. Essas universidades há muito tempo não são mais lugares de pensamento livre, debate rigoroso e excelência acadêmica. Em vez disso, tornaram-se redutos de uma agenda radical de esquerda, onde a dissidência não apenas é indesejada, mas ativamente perseguida.
+� � difícil falar sobre as universidades públicas no Brasil sem um sentimento de frustração e, francamente, de raiva. Essas instituições, que deveriam ser a espinha dorsal do desenvolvimento intelectual e profissional da nossa nação, tornaram-se algo completamente diferente. Elas se transformaram em criadouros ideológicos onde a desonestidade, a corrupção e a completa falta de decência moral criaram - e criam - raízes. E tudo isso às custas do dinheiro pago por nossos impostos. Essas universidades há muito tempo não são mais lugares de pensamento livre, debate rigoroso e excelência acadêmica. Em vez disso, tornaram-se redutos de uma agenda radical de esquerda, onde a dissidência não apenas é indesejada, mas ativamente perseguida.
+<!--more-->
 
 Um exemplo perfeito que exemplifica a decadência moral e intelectual que assola essas instituições é o infame episódio conhecido como "Educando pelo Cu", um suposto evento acadêmico conduzido por Tertuliana Lustosa. Essa grotesca exibição de absurdidade não foi um incidente isolado, mas sim um sintoma de um problema muito mais profundo e preocupante.
 

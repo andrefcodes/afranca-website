@@ -5,13 +5,13 @@ lastmod: 2025-12-07T23:48:40+00:00
 slug: "linux-freedom-and-philosophy"
 description: "Choosing Linux as a commitment to software freedom, user autonomy, and rejecting closed, corporate-controlled technology. "
 image: "https://images.unsplash.com/photo-1599153066743-08810dc8a419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fHVidW50dXxlbnwwfHx8fDE3NjQ4NTY3MDV8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Alex Kulikov / Unsplash"
 tags: ["Linux", "OpenSource", "Technology", "Privacy"]
 draft: false
 featured: false
 ---
 
-When I first switched to Linux years ago, I was drawn in by the typical reasons: it was free, it was fast, and I felt like joining some kind of club of people who actually understood computers - poor me. But the more time I spent in this world, the more I realized that choosing Linux isn't just a technical preference, but a statement about what you value. It's about rejecting the idea that your computer should be a black box controlled by someone else, running software you can't inspect - and most people probably won't -, collecting data you can't see, making decisions you didn't consent to.
+W hen I first switched to Linux years ago, I was drawn in by the typical reasons: it was free, it was fast, and I felt like joining some kind of club of people who actually understood computers - poor me. But the more time I spent in this world, the more I realized that choosing Linux isn't just a technical preference, but a statement about what you value. It's about rejecting the idea that your computer should be a black box controlled by someone else, running software you can't inspect - and most people probably won't -, collecting data you can't see, making decisions you didn't consent to.
+<!--more-->
 
 [Drew DeVault](https://drewdevault.com/) writes extensively about software freedom and the importance of user autonomy, and reading his work always reminds me why these principles matter. We live in an age where our digital lives are increasingly controlled by corporations that don't have our best interests at heart. The operating system you choose is the foundation of your digital existence, and if that foundation is built on proprietary software owned by a company whose business model depends on surveilling you, then you've already lost a significant amount of control over your own digital life.
 

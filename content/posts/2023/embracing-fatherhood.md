@@ -5,13 +5,13 @@ lastmod: 2025-12-08T01:04:14+00:00
 slug: "embracing-fatherhood"
 description: "Reflections on modern fatherhood, presence, and breaking norms to build a true bond with a child. "
 image: "https://images.unsplash.com/photo-1542948843-bf19f4f535cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZhdGhlcmhvb2R8ZW58MHx8fHwxNzY0NzA2NjYxfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Mohamed Awwam / Unsplash"
 tags: ["Parenting", "Blogging"]
 draft: false
 featured: false
 ---
 
-The privilege of being present in a child's life is given to few. I'll set aside any politically correct concerns, but I won't refrain from saying that men in general often behave badly, which prevents them from enjoying an incredible experience, which is fatherhood.
+T he privilege of being present in a child's life is given to few. I'll set aside any politically correct concerns, but I won't refrain from saying that men in general often behave badly, which prevents them from enjoying an incredible experience, which is fatherhood.
+<!--more-->
 
 Every man should salute a mother, the one who dedicates herself to her child, who loses many nights of sleep, who educates and feeds them.
 

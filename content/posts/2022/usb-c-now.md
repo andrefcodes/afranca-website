@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:09:53+00:00
 slug: "usb-c-now"
 description: "EU mandates USB-C to cut e-waste and ease charging, sparking debate over consumer benefit vs. tech innovation and company pushback."
 image: "https://images.unsplash.com/photo-1619459072761-496c0812331b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHVzYiUyMGN8ZW58MHx8fHwxNzY0NzI0NDExfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Marcus Urbenz / Unsplash"
 tags: ["Apple", "Technology", "Mobile"]
 draft: false
 featured: false
 ---
 
-Recently, The European Commission announced plans to require a universal charging port for all mobile devices by mid-2024.
+R ecently, The European Commission announced plans to require a universal charging port for all mobile devices by mid-2024.
+<!--more-->
 
 As reported in many newspapers, their goal is to limit toxic waste, in addition to help consumers, who are mostly require to accumulate lots of cables and chargers.
 

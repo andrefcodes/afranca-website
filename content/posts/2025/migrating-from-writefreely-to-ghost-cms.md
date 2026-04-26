@@ -5,13 +5,13 @@ lastmod: 2025-12-07T23:50:07+00:00
 slug: "migrating-from-writefreely-to-ghost-cms"
 description: "Migration from WriteFreely to Ghost driven by better ActivityPub features, despite unexpected manual work and theme adjustments. "
 image: "https://images.unsplash.com/photo-1674027326476-3ea3cbf7b9be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2NXx8d2Vic2l0ZXxlbnwwfHx8fDE3NjUwNjU3OTJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Growtika / Unsplash"
 tags: ["CMS", "GhostCMS", "Writefreely", "Blogging", "ActivityPub"]
 draft: false
 featured: false
 ---
 
-I’m starting to think I’ve become a professional digital nomad, except the "nomad" part is my blog. Last October I proudly announced my escape from Hugo to WriteFreely, bragging about finally finding a platform that let my words breathe.
+I ’m starting to think I’ve become a professional digital nomad, except the "nomad" part is my blog. Last October I proudly announced my escape from Hugo to WriteFreely, bragging about finally finding a platform that let my words breathe.
+<!--more-->
 
 Fast forward a month and a half, and here I am, elbow‑deep in another migration, this time to GhostCMS, because apparently my appetite for new features outweighs my tolerance for learning curves. I imagined the transition would be a swift hop, but instead it turned into a marathon of manual copy‑pastes, theme‑tweaking, and a healthy dose of "why did I think this would be easy?".
 

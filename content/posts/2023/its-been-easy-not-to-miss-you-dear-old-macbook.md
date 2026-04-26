@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:56:38+00:00
 slug: "its-been-easy-not-to-miss-you-dear-old-macbook"
 description: "Switched from failing MacBook to a Lenovo Legion 5i Pro Gen7 - powerful, upgradeable, affordable, and decent Linux support."
 image: "https://images.unsplash.com/photo-1583273501574-6a87a97dc716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3N3x8bWFjYm9vayUyMHRyYWRlfGVufDB8fHx8MTc2NDcyMjIxOXww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Moritz Kindler / Unsplash"
 tags: ["Technology", "Apple", "Lenovo"]
 draft: false
 featured: false
 ---
 
-Recently, I was having a bad time with my macbook, and I wrote a post sharing my experiences.
+R ecently, I was having a bad time with my macbook, and I wrote a post sharing my experiences.
+<!--more-->
 
 Those who know me are aware of my thoughts on technology waste, and how I try to keep and use my devices for as long as they last. There's one exception, though: a product is so horrible that it makes me struggle to get my things done.
 

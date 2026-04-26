@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:07:23+00:00
 slug: "simple-jekyll-search"
 description: "Lightweight on-site search added to my Jekyll blog using Simple Jekyll Search, with custom templates and full-content indexing for better results "
 image: "https://images.unsplash.com/photo-1665470909928-a832ebc923d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHx3ZWIlMjBzZWFyY2h8ZW58MHx8fHwxNzY0NzI0MzE5fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Mediamodifier / Unsplash"
 tags: ["Jekyll", "Static Site Generator"]
 draft: false
 featured: false
 ---
 
-Since I created this website I missed the ability to search my posts on-site. With the help of [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/), [this guide](https://kevquirk.com/how-to-add-search-jekyll/) written by Kev, and some minor tweaks, I've managed to add this feature.
+S ince I created this website I missed the ability to search my posts on-site. With the help of [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/), [this guide](https://kevquirk.com/how-to-add-search-jekyll/) written by Kev, and some minor tweaks, I've managed to add this feature.
+<!--more-->
 
 I'm still getting used to have a personal blog, and this one doesn't have a lot of content as of today, what could justify not to add a search tool in it. But thinking long term, the content will eventually grow, and it'll come in handy, not only for the site's visitors, but myself.
 

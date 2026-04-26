@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:24:46+00:00
 slug: "oops-i-made-a-mistake"
 description: "I've migrated from Jekyll to Ghost. Old posts may appear in your RSS feed. New RSS feed URL available with redirects in place."
 image: "https://images.unsplash.com/photo-1675266873434-5ba73c38ce6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG1pc3Rha2V8ZW58MHx8fHwxNzY0NjY0OTU1fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Francisco De Legarreta C. / Unsplash"
 tags: ["Announcements"]
 draft: false
 featured: false
 ---
 
-Hi there, dear reader.
+H i there, dear reader.
+<!--more-->
 
 Today, you may have received some old posts again on your rss feed app, and this is due to a change on this website, where I migrated from Jekyll to Ghost.
 

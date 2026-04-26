@@ -5,13 +5,13 @@ lastmod: 2025-12-07T23:56:31+00:00
 slug: "andre-updates-april-2022"
 description: "Monthly recap: blog progress, reading picks, music recommendations, and starting an MITx course while exploring new interests and routines. "
 image: "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHVwZGF0ZXN8ZW58MHx8fHwxNzY0NzIzODEzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Markus Winkler / Unsplash"
 tags: ["Monthly Updates"]
 draft: false
 featured: false
 ---
 
-Inspired by what I saw on [Luke Harris' blog](https://www.lkhrs.com/), I decided to create a short summary of interesting things that I did or happened in the past month, e.g., this blog. Yep, it's a newborn blog, and I'm very proud of it.
+I nspired by what I saw on [Luke Harris' blog](https://www.lkhrs.com/), I decided to create a short summary of interesting things that I did or happened in the past month, e.g., this blog. Yep, it's a newborn blog, and I'm very proud of it.
+<!--more-->
 
 I'll try to separate things here by topics. These can be static (included in all updates, i.e., "blogging", "reading", and "music and podcasts") or dynamic (any additional content or comment that I may find useful, for example, "games" or "other" (if I'm not feeling creative)).
 

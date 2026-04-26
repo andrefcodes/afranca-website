@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:57:18+00:00
 slug: "re-de-brand"
 description: "De-branding rejects social-media self-marketing, pushes back on power gaps, and embraces being real."
 image: "https://images.unsplash.com/photo-1663057826282-20a3fdd8efbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDgxfHxnb29nbGV8ZW58MHx8fHwxNzY0NzIxOTY4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Salvino Fidacaro / Unsplash"
 tags: ["Blogging"]
 draft: false
 featured: false
 ---
 
-This is, but not really, a reply to the post “[De-brand](https://minutestomidnight.co.uk/blog/de-brand/)”, written by Simone Silvestroni. Actually, it made me want to share some thoughts on this subject.
+T his is, but not really, a reply to the post “[De-brand](https://minutestomidnight.co.uk/blog/de-brand/)”, written by Simone Silvestroni. Actually, it made me want to share some thoughts on this subject.
+<!--more-->
 
 This “branding ourselves” situation has become a trend for the past couple of years due to many aspects. The way I picture the world, I would name three as the most relevant: the financial disparity between the regular people and the super-rich; the excess of technology development, e.g. artificial intelligence, that urges people to abruptly change their formation and jobs to survive; and the big tech role to promote social media addiction, besides being the scene for dissemination of the, somewhat misleading, digital marketing and personal branding content, of which I consider an abomination.
 

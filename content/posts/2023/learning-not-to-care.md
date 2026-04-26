@@ -5,13 +5,13 @@ lastmod: 2025-12-08T01:00:28+00:00
 slug: "learning-not-to-care"
 description: "Learning to balance empathy and boundaries after a neighbor’s noise complaints reshaped my view of coexistence."
 image: "https://images.unsplash.com/photo-1506057278219-795838d4c2dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQyfHxwZWFjZXxlbnwwfHx8fDE3NjQ3MjE3NjZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Vasilios Muselimis / Unsplash"
 tags: ["Blogging"]
 draft: false
 featured: false
 ---
 
-In my imagination, I've always entertained the idea of trying to be a person whose actions benefited the common good at the expense of my own interests. Far from being a monk or a saint, I try to live my life this way.
+I n my imagination, I've always entertained the idea of trying to be a person whose actions benefited the common good at the expense of my own interests. Far from being a monk or a saint, I try to live my life this way.
+<!--more-->
 
 While thinking about others has become natural to me, I have never understood people with high levels of selfishness, narcissism, and arrogant individuals. That was until my downstairs neighbor began complaining about alleged noise coming from my apartment.
 

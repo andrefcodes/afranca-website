@@ -5,13 +5,13 @@ lastmod: 2025-12-28T00:05:14+00:00
 slug: "why-90s-movies-feel-more-alive-than-anything-on-netflix"
 description: "80s and 90s films feel alive, with rich characters and risks; modern movies favor style, streaming metrics, and algorithms over depth. "
 image: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG5ldGZsaXh8ZW58MHx8fHwxNzY0NjA1MzM3fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Thibault Penin / Unsplash"
 tags: ["Blogging", "Classic Cinema", "Modern Movies", "Netflix", "Streaming"]
 draft: false
 featured: false
 ---
 
 I was rewatching The Silence of the Lambs the other night, and something hit me hard. This movie, made in 1991, feels more alive, more gripping, more *real* than most things coming out today. And it got me thinking: why do 80s and 90s movies seem so much better than what we're getting now?
+<!--more-->
 
 There's something about the way older films were crafted that modern cinema seems to have lost. Take Goodfellas from 1990. Scorsese doesn't just tell you a story about mobsters, he pulls you into their world. The tracking shot through the Copacabana, the narration that feels like a conversation, the way violence erupts suddenly and brutally. You feel the seduction of that lifestyle and the paranoia that comes with it. Every frame has purpose. Every scene builds character. Compare that to The Irishman from 2019, which is actually good but feels bloated, overly long, relying too heavily on "de-aging" technology that never quite convinces you.
 

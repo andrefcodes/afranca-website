@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:27:25+00:00
 slug: "random-thoughts-on-a-saturday-night"
 description: "Reflections on F1, Senna, and football: Norris’s sportsmanship, Netflix’s Senna show, and Botafogo’s historic Copa Libertadores win. "
 image: "https://images.unsplash.com/photo-1576341592370-3151269da47e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE0fHx0aG91Z2h0c3xlbnwwfHx8fDE3NjQ3MDU3NjJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Jem Sahagun / Unsplash"
 tags: ["Blogging"]
 draft: false
 featured: false
 ---
 
-## First: Lando Norris and his Sportsmanship
+# # First: Lando Norris and his Sportsmanship
+<!--more-->
 
 Lando Norris, who is often criticized for not being aggressive enough in his battles against his opponents, often shows a very calm demeanor in his decisions.
 

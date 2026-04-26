@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:41:31+00:00
 slug: "fatherhood-in-the-age-of-screens"
 description: "Reflecting on fatherhood in the digital age: balancing screen use with presence, teaching kids real connection over constant distraction. "
 image: "https://images.unsplash.com/photo-1560328055-e938bb2ed50a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBhcmVudGluZ3xlbnwwfHx8fDE3NjQ2NzY4ODV8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Kelli McClintock / Unsplash"
 tags: ["Blogging", "Parenting"]
 draft: false
 featured: false
 ---
 
-The other day, my son looked up at me while I was scrolling through my phone and asked, "Daddy, are you working or playing?" I froze. The question wasn't accusatory, just curious, but it cut through every rationalization I had been making about my screen time.
+T he other day, my son looked up at me while I was scrolling through my phone and asked, "Daddy, are you working or playing?" I froze. The question wasn't accusatory, just curious, but it cut through every rationalization I had been making about my screen time.
+<!--more-->
 
 Fatherhood in the digital age presents a peculiar paradox. We're constantly connected yet perpetually distracted. We document our children's lives obsessively while sometimes missing the actual moments we're trying to capture. I've caught myself photographing my son's first attempts at riding a bike instead of simply being there.
 

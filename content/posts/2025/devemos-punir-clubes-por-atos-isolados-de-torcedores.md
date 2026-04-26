@@ -5,13 +5,13 @@ lastmod: 2025-12-08T15:02:18+00:00
 slug: "devemos-punir-clubes-por-atos-isolados-de-torcedores"
 description: "Clube não deve ser punido por atos isolados de torcedores; responsabilidade é individual. "
 image: "https://images.unsplash.com/photo-1559930198-26e8d7f0a4f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI4fHxmYW5zfGVufDB8fHx8MTc2NDcwNDA5OHww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Fleur / Unsplash"
 tags: ["Sports", "Blogging", "Politics"]
 draft: false
 featured: false
 ---
 
 O desejo de escrever este texto surgiu do recente episódio envolvendo o atleta Luighi, jogador do Palmeiras sub-20, durante a Copa Libertadores. Por ser um tema sensível, preferi escrevê-lo na minha língua natal, evitando incorrer interpretações errôneas.
+<!--more-->
 
 O caso ganhou grande repercussão após a presidente do clube, Leila Pereira, magnata do setor financeiro, de maneira oportunista, ao meu ver, sugerir a desfiliação da Conmebol, além de reivindicar punições mais severas contra o clube rival, Cerro Porteño do Paraguai. Esse caso reascendeu o debate sobre a validade de penalizar clubes por atos isolados de seus torcedores, tema que merece uma análise aprofundada. Embora a luta contra o racismo seja um objetivo louvável, responsabilizar uma instituição por atitudes individuais levanta uma série de questionamentos sobre justiça, proporcionalidade e o verdadeiro alcance dessas medidas.
 

@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:56:33+00:00
 slug: "f1-rookies-under-pressure"
 description: "F1 rookies face brutal pressure; Bortoleto shines, Lawson struggles, talent needs patience, support, and the right team to thrive. "
 image: "https://images.unsplash.com/photo-1742744652734-d5ec6598b5da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGYxfGVufDB8fHx8MTc2NDcwMzM1OXww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Roy Tsong / Unsplash"
 tags: ["Blogroll", "Sports"]
 draft: false
 featured: false
 ---
 
-For many people like me, Formula 1 is the pinnacle of motorsport, and for the rookies joining the grid, it's a real pressure cooker where every mistake is magnified, and even success is scrutinized. This year - in addition to all the buzz surrounding Lewis Hamilton signing with Ferrari and the McLaren duo - the spotlight is shining on a new generation of young drivers, each with their own unique skills and challenges. Watching Andrea Kimi Antonelli, Liam Lawson, Oliver Bearman, Gabriel Bortoleto, Jack Doohan, and Isack Hadjar navigate their rookie seasons has been really cool. And while some thrive under pressure, others are already feeling the unforgiving nature of the paddock.
+F or many people like me, Formula 1 is the pinnacle of motorsport, and for the rookies joining the grid, it's a real pressure cooker where every mistake is magnified, and even success is scrutinized. This year - in addition to all the buzz surrounding Lewis Hamilton signing with Ferrari and the McLaren duo - the spotlight is shining on a new generation of young drivers, each with their own unique skills and challenges. Watching Andrea Kimi Antonelli, Liam Lawson, Oliver Bearman, Gabriel Bortoleto, Jack Doohan, and Isack Hadjar navigate their rookie seasons has been really cool. And while some thrive under pressure, others are already feeling the unforgiving nature of the paddock.
+<!--more-->
 
 I have to start by saying how impressed I am with Gabriel Bortoleto, my fellow countryman. Against all odds, driving what is undeniably the worst car on the grid, he's managed to deliver performances that are turning heads. It's easy to overlook someone when the car doesn't match their talent, but Bortoleto refuses to go unnoticed. His racecraft is mature for his age, and he has shown a remarkable ability to extract every ounce of performance from his car, consistently outperforming his teammate, Nico Hülkenberg.
 

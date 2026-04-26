@@ -5,13 +5,13 @@ lastmod: 2025-12-08T15:00:00+00:00
 slug: "between-two-languages"
 description: "Struggling between English reach and Portuguese authenticity, I’ll write in both when it fits, keeping focus on sharing thoughts. "
 image: "https://images.unsplash.com/photo-1552417559-f62e53cba705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBvbHlnbG90aHxlbnwwfHx8fDE3NjQ3MDM3Mjd8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Daniel Adesina / Unsplash"
 tags: ["Blogging"]
 draft: false
 featured: false
 ---
 
-Since I created this blog, I have primarily written in English because of the broader reach it provides. English opens the door to a global audience, allowing my ideas to be shared and discovered by people from different countries and backgrounds. Also, the internet is dominated by English content, and writing in this language has always seemed like the most effective way to connect with a larger readership. Yet, despite the advantages, I often find myself wondering if I should write more in Portuguese. It is my native language, after all, and there is something deeply personal and authentic about expressing myself in the language I grew up speaking.
+S ince I created this blog, I have primarily written in English because of the broader reach it provides. English opens the door to a global audience, allowing my ideas to be shared and discovered by people from different countries and backgrounds. Also, the internet is dominated by English content, and writing in this language has always seemed like the most effective way to connect with a larger readership. Yet, despite the advantages, I often find myself wondering if I should write more in Portuguese. It is my native language, after all, and there is something deeply personal and authentic about expressing myself in the language I grew up speaking.
+<!--more-->
 
 The decision to write in English came naturally at first. I wanted my blog to reach as many people as possible. The truth is that if I had started writing solely in Portuguese, my audience would have been far more limited. Few Brazilians read content in English, and even fewer read blogs in Portuguese, and I knew that choosing to write in a globally dominant language would increase my visibility. I've had readers from countries I never imagined reaching, and the feedback I receive often reaffirms my choice. But lately, I cannot shake the feeling that by focusing exclusively on English, I'm neglecting a part of myself and a part of Brazilians who share my language or some of my cultural experiences.
 

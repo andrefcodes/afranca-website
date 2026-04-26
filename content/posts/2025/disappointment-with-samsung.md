@@ -5,13 +5,13 @@ lastmod: 2025-12-08T15:00:23+00:00
 slug: "disappointment-with-samsung"
 description: "Samsung’s slow updates and relentless bloatware ruin an otherwise great device, leaving users frustrated despite powerful hardware. "
 image: "https://images.unsplash.com/photo-1662947995689-ec5165848ad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNhbXN1bmd8ZW58MHx8fHwxNzY0NjM2MjQzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by BoliviaInteligente / Unsplash"
 tags: ["Android", "Mobile", "Technology", "Security", "Samsung", "Privacy"]
 draft: false
 featured: false
 ---
 
-Samsung, a global leader in the technology industry, is often recognized for its cutting-edge devices and innovative features rivaling Apple. From their flagship smartphones to smart home appliances, the brand has built a reputation as a powerhouse in the electronics market worldwide. Yet, despite their impressive hardware capabilities, there is one area where Samsung consistently lets users (including me) down: the delivery of timely software updates and the persistent, unavoidable issue of bloatware. As someone who relies heavily on my devices to stay connected and productive, these shortcomings have become a constant source of frustration.
+S amsung, a global leader in the technology industry, is often recognized for its cutting-edge devices and innovative features rivaling Apple. From their flagship smartphones to smart home appliances, the brand has built a reputation as a powerhouse in the electronics market worldwide. Yet, despite their impressive hardware capabilities, there is one area where Samsung consistently lets users (including me) down: the delivery of timely software updates and the persistent, unavoidable issue of bloatware. As someone who relies heavily on my devices to stay connected and productive, these shortcomings have become a constant source of frustration.
+<!--more-->
 
 What makes it worse is that I switched from an iPhone to Samsung a year or so ago, believing in the company's promises of better customization, cutting-edge technology, and user-centric innovation. I was excited about the freedom that Android supposedly offered - an open ecosystem where I could personalize my experience, the opposite of Apple's iOS. Samsung's marketing made it sound like I would be stepping into a world of better control and innovation, similar to what's offered on Google Pixel devices. But the reality has fallen far short of those promises. Instead of the seamless experience I hoped for, I find myself drowning in delayed updates and an overload of pre-installed apps I neither want nor need.
 

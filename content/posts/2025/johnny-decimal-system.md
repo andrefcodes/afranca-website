@@ -5,7 +5,6 @@ lastmod: 2025-12-12T03:49:07+00:00
 slug: "johnny-decimal-system"
 description: "Trying the Johnny Decimal System showed me what works and what doesn’t. A hybrid of JDS, hierarchy, and creative chaos is what keeps me sane."
 image: "https://images.unsplash.com/photo-1461360228754-6e81c478b882?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGZpbGVzfGVufDB8fHx8MTc2NTUwNzMwMnww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Mr Cup / Fabien Barral / Unsplash"
 tags: ["Organization", "Blogging"]
 draft: false
 featured: false
@@ -13,6 +12,7 @@ featured: false
 
 I discovered the **Johnny Decimal System** a short while ago, thanks to [a great write-up I stumbled across](https://kiko.io/post/Johnny-Decimal-Emerging-from-the-Abyss/) by [Kristof Zerbe](https://indieweb.social/@kiko).  
 The title "Emerging from the Abyss" resonated to me, as my digital life has always been a "Where did I put that?", split across local and cloud drives, and random folders.
+<!--more-->
 
 Johnny describes his system as
 

@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:17:56+00:00
 slug: "hold-on"
 description: "Reflection on a friend's battle with addiction and depression, resilience, and the power of care. "
 image: "https://images.unsplash.com/photo-1583847323635-7ad5b93640ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGdvb2QlMjBjaGFybG90dGV8ZW58MHx8fHwxNzY0NzA1MjU3fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Clay Banks / Unsplash"
 tags: ["Blogging"]
 draft: false
 featured: false
 ---
 
-‚ùó
+‚ ùó
+<!--more-->
 
 ****CW:**** Reports of suicide attempt, depression, and substance abuse.
 

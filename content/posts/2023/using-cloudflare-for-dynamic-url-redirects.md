@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:52:43+00:00
 slug: "using-cloudflare-for-dynamic-url-redirects"
 description: "Dynamic Cloudflare Pages setup lets you redirect an old domain to a new one while preserving permalinks using a simple _redirects file. "
 image: "https://images.unsplash.com/photo-1635850967683-17df1f33e749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZvcndhcmR8ZW58MHx8fHwxNzY0NzIyNjI4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by 愚木混株 Yumu / Unsplash"
 tags: ["HowTo", "Technology"]
 draft: false
 featured: false
 ---
 
 A couple of days ago, a [domain switch](/switching-from-afhub-dev-domain) took place on this website, and I wanted to have a way to dynamically1 forward URLs from the old domain to the new one, preserving the current permalink structure.
+<!--more-->
 
 Searching the web, I came across the ["Using Netlify for Dynamic URL Redirects"](https://btxx.org/posts/netlify-urls/) article, written by Brad Taunt. The problem is, I didn't want to sign up for Netlify just for that.
 

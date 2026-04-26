@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:22:52+00:00
 slug: "goodbye-jekyll-hello-hugo"
 description: "Exploring my switch from Jekyll to Hugo, highlighting faster builds, no dependencies, native taxonomies, and early templating challenges. "
 image: "https://images.unsplash.com/photo-1737737351943-82e01f866e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN0YXRpYyUyMHNpdGV8ZW58MHx8fHwxNzY0Njc0NTE4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Maik Winnecke / Unsplash"
 tags: ["Static Site Generator", "Jekyll", "Hugo", "Blogging"]
 draft: false
 featured: false
 ---
 
-After running into some dependency issues and long build and deployment times on Cloudflare, I decided it was finally time to move away from Jekyll and switch to a different Static Site Generator.
+A fter running into some dependency issues and long build and deployment times on Cloudflare, I decided it was finally time to move away from Jekyll and switch to a different Static Site Generator.
+<!--more-->
 
 I’ve tried other ways of publishing on my blog before, like Ghost and 11ty, but this time I went with Hugo.
 

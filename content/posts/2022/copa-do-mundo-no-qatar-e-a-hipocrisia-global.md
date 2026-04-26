@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:39:47+00:00
 slug: "copa-do-mundo-no-qatar-e-a-hipocrisia-global"
 description: "Crítica à hipocrisia global na Copa 2022: sabemos dos abusos no Catar, mas seguimos assistindo o evento. "
 image: "https://images.unsplash.com/photo-1637203727317-3cc1a557cdbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHdvcmxkJTIwY3VwfGVufDB8fHx8MTc2NDcyNTQyMnww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by My Profit Tutor / Unsplash"
 tags: ["Sports"]
 draft: false
 featured: false
 ---
 
 A cada quatro anos, a entidade máxima do futebol, Fifa, organiza um dos eventos esportivos mais mobilizadores e lucrativos do planeta, a copa do mundo de seleções nacionais.
+<!--more-->
 
 Este evento, tamanho a sua capacidade de arrecadação e visibilidade, é uma vitrine para qualquer país que deseje expandir a sua marca e criar oportunidades de negócio com o mundo. De maneira muito bem articulada, e como quase sempre com muita corrupção entre os envolvidos, a família catari teve sucesso em sediar a copa de 2022.
 

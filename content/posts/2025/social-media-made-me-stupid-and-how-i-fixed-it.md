@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:52:39+00:00
 slug: "social-media-made-me-stupid-and-how-i-fixed-it"
 description: "Social media narrows thinking and fuels division, but intentional use and digital minimalism can restore focus and critical thought. "
 image: "https://images.unsplash.com/photo-1683721003111-070bcc053d8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHNvY2lhbCUyMG1lZGlhfGVufDB8fHx8MTc2NDYyNDI5NHww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Mariia Shalabaieva / Unsplash"
 tags: ["Blogging", "Social Media", "BigTech", "Wellness"]
 draft: false
 featured: false
 ---
 
-Over the past years, social media has completely reshaped how most people communicate, learn, and interact with the world around us. Platforms like Instagram, X (formerly Twitter), Facebook, TikTok, or even the corporate oriented LinkedIn have woven themselves into the fabric of everyday life, offering endless content and constant connectivity. On the surface, they seem like miraculous tools for staying informed and connected. But over time, what I’ve come to see is that these platforms supposedly designed to keep us engaged and informed often do the opposite. They make us intellectually lazier, more vulnerable to manipulation, and less inclined to engage in deep, thoughtful conversations - not to mention the implications for our digital security and privacy. Since then, figuring out how to reverse it has become something personal for me.
+O ver the past years, social media has completely reshaped how most people communicate, learn, and interact with the world around us. Platforms like Instagram, X (formerly Twitter), Facebook, TikTok, or even the corporate oriented LinkedIn have woven themselves into the fabric of everyday life, offering endless content and constant connectivity. On the surface, they seem like miraculous tools for staying informed and connected. But over time, what I’ve come to see is that these platforms supposedly designed to keep us engaged and informed often do the opposite. They make us intellectually lazier, more vulnerable to manipulation, and less inclined to engage in deep, thoughtful conversations - not to mention the implications for our digital security and privacy. Since then, figuring out how to reverse it has become something personal for me.
+<!--more-->
 
 The more I used social media, the more I realized how much of what I saw wasn’t organic or random, but chosen for me by algorithms. These complex systems were meant to analyze our behavior such as what we click on, what we ignore, how long we linger on a post, and then serve us more of the same (along with a bunch of ads). It usually feels helpful at first, like our feed can understand us, but over time, we begin to notice something more troubling. For me, I was being shown only the kinds of content I agreed with, that I found entertaining or emotionally connected. Without even noticing, I’d scroll through my feed and feel validated, but not challenged. The more I thought about it, the more I realized how much this was shrinking my ability to think critically and see other perspectives.
 

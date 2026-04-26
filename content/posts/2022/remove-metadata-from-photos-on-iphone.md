@@ -5,13 +5,13 @@ lastmod: 2025-12-30T01:53:28+00:00
 slug: "remove-metadata-from-photos-on-iphone"
 description: "How to remove photo metadata on iPhone using a custom Shortcut, plus recommended open-source tools for safer, privacy-focused image sharing. "
 image: "https://images.unsplash.com/photo-1590856029826-c7a73142bbf1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHxzcHl8ZW58MHx8fHwxNzY0NzIzOTM5fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Tobias Tullius / Unsplash"
 tags: ["Technology", "Privacy", "Mobile", "Apple", "Metadata", "HowTo"]
 draft: false
 featured: false
 ---
 
-We often need to share a photo with someone special, but what usually goes unnoticed is the amount of metadata that is embedded in every pic we shoot.
+W e often need to share a photo with someone special, but what usually goes unnoticed is the amount of metadata that is embedded in every pic we shoot.
+<!--more-->
 
 Even worse is the fact that many apps that we have on our phone work against us and steal these little pieces of information (the metadata) to generate a profile about us and how we interact with things without us even knowing it.
 

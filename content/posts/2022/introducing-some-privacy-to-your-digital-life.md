@@ -5,13 +5,13 @@ lastmod: 2025-12-07T23:50:56+00:00
 slug: "introducing-some-privacy-to-your-digital-life"
 description: "Overview of Privacy Guides, a volunteer-run site recommending open-source, privacy-respecting tools, services, and operating systems. "
 image: "https://images.unsplash.com/photo-1595666944516-bbb485958fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHByaXZhY3l8ZW58MHx8fHwxNzY0NzIzMzY0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Jason Dent / Unsplash"
 tags: ["Technology", "Privacy", "Security"]
 draft: false
 featured: false
 ---
 
-Some time ago, searching for some more privacy-respecting softwares to replace the bad ones I used to have installed, I was introduced to the Privacy Guides website, recommended by the folks from the [Techlore Channel](https://odysee.com/@techlore:3).
+S ome time ago, searching for some more privacy-respecting softwares to replace the bad ones I used to have installed, I was introduced to the Privacy Guides website, recommended by the folks from the [Techlore Channel](https://odysee.com/@techlore:3).
+<!--more-->
 
 Many may wonder the reasons why we should care about our online privacy. I could list a few, but this is not the topic of this post. For now, let's just say that I'd like to use products and services that respect me as an individual, and that come from the open source community or companies that don't have obscure terms and conditions to profit tons of money from our personal data.
 

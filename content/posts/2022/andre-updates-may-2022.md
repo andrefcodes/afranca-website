@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:05:28+00:00
 slug: "andre-updates-may-2022"
 description: "Monthly update covering blogging progress, recommended reads, music highlights, and personal learning milestones. "
 image: "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHVwZGF0ZXN8ZW58MHx8fHwxNzY0NzIzODEzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Markus Winkler / Unsplash"
 tags: ["Monthly Updates"]
 draft: false
 featured: false
 ---
 
-This is an update of what happened in the previous month.
+T his is an update of what happened in the previous month.
+<!--more-->
 
 ## 📝 Blogging
 

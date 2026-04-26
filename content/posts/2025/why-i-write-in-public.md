@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:39:02+00:00
 slug: "why-i-write-in-public"
 description: "I write in public despite fear. Every post is a mix of courage and risk, but sharing messy, half-formed ideas can connect and grow us all. "
 image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE5fHxibG9nfGVufDB8fHx8MTc2NDY3NDg5Nnww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Christin Hume / Unsplash"
 tags: ["Blogging"]
 draft: false
 featured: false
 ---
 
 I keep writing in public, even when it sometimes feels like standing naked in a crowded room. There's something terrifying about hitting the "publish button", knowing that anyone can read, judge, or misinterpret what I've written. Yet here I am, still doing it.
+<!--more-->
 
 When [I wrote about "the power of writing"](/the-power-of-writing) before, I focused on the personal benefits like the clarity, the thinking process, the way words help me understand myself better. But publishing? That's a different beast entirely. It adds a layer of vulnerability that private journaling never demands. Every post is a tiny act of courage, or maybe foolishness, I'm not always sure which.
 

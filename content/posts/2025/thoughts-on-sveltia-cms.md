@@ -5,13 +5,13 @@ lastmod: 2025-12-09T01:30:25+00:00
 slug: "thoughts-on-sveltia-cms"
 description: "Sveltia-CMS streamlines blogging with GitHub integration and a clean interface, but mobile usability still needs improvement. "
 image: "https://images.unsplash.com/photo-1602265585142-6b221b9b2c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGNtc3xlbnwwfHx8fDE3NjQ3MDI5OTd8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Webstacks / Unsplash"
 tags: ["Technology", "OpenSource", "CMS", "Static Site Generator", "Hugo"]
 draft: false
 featured: false
 ---
 
-Using [Sveltia-CMS](https://github.com/sveltia/sveltia-cms) on my blog has been an interesting experience. Long ago, when I first started exploring content management systems, I switched to Ghost [and posted about it](/ghost-as-my-blogging-platform). For multiple reasons, [which I had explained in another post](/website-version-4-0/), I ditched Ghost, and by that time, I went back to Jekyll - currently I build this site with [Hugo](https://gohugo.io/).
+U sing [Sveltia-CMS](https://github.com/sveltia/sveltia-cms) on my blog has been an interesting experience. Long ago, when I first started exploring content management systems, I switched to Ghost [and posted about it](/ghost-as-my-blogging-platform). For multiple reasons, [which I had explained in another post](/website-version-4-0/), I ditched Ghost, and by that time, I went back to Jekyll - currently I build this site with [Hugo](https://gohugo.io/).
+<!--more-->
 
 One drawback of working with a Static Site Generator is usually the need to deal with content, coding, building, git, and so on, and this can be time-consuming. [I mentioned in a recent post](/between-two-languages) that "my primary goal here has always been to write more, not to get bogged down..." with anything else, but content. My goal was to find a solution that didn’t add unnecessary complexity to my workflow while allowing me to maintain control over my content. Sveltia-CMS has largely delivered on that front, and using it has improved the way I handle my blog. There have been plenty of positives, especially on how it integrates seamlessly with GitHub, and how it simplifies my publishing workflow. But, like any tool, it’s not without its limitations—particularly when it comes to mobile usability.
 

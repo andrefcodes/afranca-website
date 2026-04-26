@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:44:45+00:00
 slug: "cop-30-um-vexame-global"
 description: "COP 30 em Belém mostra hipocrisia: luxo, superfaturamento e eventos grandiosos ofuscam ciência e deixam população e Amazônia à margem. "
 image: "https://images.unsplash.com/photo-1440342359743-84fcb8c21f21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxlbnZpcm9ubWVudHxlbnwwfHx8fDE3NjQ2OTYwNzh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by kazuend / Unsplash"
 tags: ["Blogging", "Politics", "Climate Change"]
 draft: false
 featured: false
 ---
 
 A COP 30 chegou a Belém carregando promessas grandiosas de sustentabilidade e compromisso climático, mas para por aí. Antes mesmo dos líderes mundiais discursarem sobre redução de emissões e proteção da Amazônia, a cidade paraense se transformara num palco de contradições tão gritantes que até o mais otimista dos ambientalistas teria dificuldade em ignorar - com exceção aos apoiadores do governo de turno.
+<!--more-->
 
 Comecemos pelo óbvio: a falta de infraestrutura. Belém, que já sofre com déficit de moradias de qualidade e saneamento básico, viu os preços do setor hoteleiro dispararem de forma absurda. Hotéis medíocres cobrando diárias equivalentes a estabelecimentos cinco estrelas em capitais europeias. O cidadão comum, aquele que realmente vive na cidade, foi praticamente expulso das opções de hospedagem enquanto observava uma especulação desenfreada que beneficiou poucos e prejudicou muitos. A Defensoria Pública do Pará chegou a receber denúncias de preços abusivos, com diárias que ultrapassavam facilmente dezenas de millhares de reais em hotéis que, em condições normais, não valeriam um décimo disso.
 

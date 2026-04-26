@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:39:28+00:00
 slug: "the-fragile-web-we-built"
 description: "Cloudflare went down today, and I felt the fragility of the web: a single config file taking out sites worldwide reminds us centralization is risky. "
 image: "https://images.unsplash.com/photo-1564760290292-23341e4df6ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGludGVybmV0fGVufDB8fHx8MTc2NDY3NTc1OXww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Leon Seibert / Unsplash"
 featured: true
 tags: ["Blogging", "Cloudflare", "Internet", "Infrastructure"]
 draft: false
 ---
 
-Today, I was in the middle of writing a blog post when things suddenly stopped making sense. I refreshed the page for a quick reference, and instead of loading, it just… hung. At first, I assumed I had messed something up as usual, maybe a DNS thing... A couple of minutes later, it became clear the problem wasn't me. [Cloudflare was down](https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/), and with it a ridiculous amount of everything most people depend on daily.
+T oday, I was in the middle of writing a blog post when things suddenly stopped making sense. I refreshed the page for a quick reference, and instead of loading, it just… hung. At first, I assumed I had messed something up as usual, maybe a DNS thing... A couple of minutes later, it became clear the problem wasn't me. [Cloudflare was down](https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/), and with it a ridiculous amount of everything most people depend on daily.
+<!--more-->
 
 My blog, X, ChatGPT, Spotify, Canva, a bunch other sites, and ironically Downdetector. All these sites blinking in and out, gave me that old familiar tightness in the chest that only IT people really understand. And it wasn't even my outage. The root cause, as Cloudflare explained, apparently was an automatically generated configuration file that ballooned beyond what the system could handle, triggering a cascade of failures across their global network.
 

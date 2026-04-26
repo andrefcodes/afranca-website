@@ -5,13 +5,13 @@ lastmod: 2026-01-13T03:17:24+00:00
 slug: "stuck-on-repeat"
 description: "Loving old music and films brings comfort, but also raises a fear of being stuck in time and missing meaningful connections with the present."
 image: "https://images.unsplash.com/photo-1554676212-ebfccb4632d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxub3N0YWxnaWF8ZW58MHx8fHwxNzY4MjcyMjAzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Abe B. Ryokan / Unsplash"
 tags: ["Blogging"]
 draft: false
 featured: false
 ---
 
-I’ve found myself feeling reflective these past few days and wanted to share. It might sound a bit stupid, but who hasn’t had stupid thoughts?
+I ’ve found myself feeling reflective these past few days and wanted to share. It might sound a bit stupid, but who hasn’t had stupid thoughts?
+<!--more-->
 
 Basically, it has to do with my relationship with time. Let me explain. I was listening to a live album I really like called *Ao Vivo em Lisboa by Resistência*, and I started thinking about why I listen to so little current music (by current I mean from the 2000s, maybe even from 2010 onward).
 

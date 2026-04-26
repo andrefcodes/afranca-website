@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:57:11+00:00
 slug: "a-reviravolta-no-caso-daniel-alves"
 description: "Daniel Alves é absolvido de agressão sexual na Espanha; caso evidencia falhas judiciais e impacto da mídia na reputação pública. "
 image: "https://images.unsplash.com/photo-1605866756747-c06a83b3f6c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGphaWx8ZW58MHx8fHwxNzY0NzAzNTA0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Tim Hüfner / Unsplash"
 tags: ["Blogging", "Politics", "Education", "Sports"]
 draft: false
 featured: false
 ---
 
 A vida de Daniel Alves, um dos mais renomados laterais do futebol mundial, tomou um rumo inesperado nos últimos anos. Conhecido por sua habilidade em campo e por uma carreira repleta de títulos em clubes como Barcelona, Juventus e Paris Saint-Germain, além de atuações destacadas pela seleção brasileira e pelo meu time do coração, São Paulo, Daniel viu sua reputação ser abalada por uma acusação grave que acabou por condená-lo por agressão sexual na Espanha.​
+<!--more-->
 
 Basicamente, em dezembro de 2022, surgiram notícias de que uma jovem de 23 anos o acusava de tê-la agredido sexualmente no banheiro de uma boate em Barcelona. A denúncia rapidamente ganhou destaque na mídia internacional, e o jogador foi detido preventivamente em janeiro de 2023. O caso avançou nos tribunais, e, em fevereiro de 2024, o Tribunal de Barcelona condenou Alves a quatro anos e meio de prisão pelo crime de agressão sexual. A sentença baseou-se, em grande parte, no testemunho da vítima, que descreveu detalhes da noite e do suposto abuso. Mesmo com alegações de que a vítima teria se insinuado para ele e o seguido até o banheiro da boate, a condenação foi fundamentada na suposta credibilidade de seu relato. Durante o julgamento, Daniel Alves negou as acusações, admitindo ter consumido bebidas alcoólicas naquela noite, mas refutando qualquer comportamento inadequado.
 

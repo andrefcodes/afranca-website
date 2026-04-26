@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:42:42+00:00
 slug: "minimalismo-digital"
 description: "Exploro minimalismo digital: limpar apps, redes e notificações para proteger atenção, focar no que importa e viver com mais clareza. "
 image: "https://images.unsplash.com/photo-1561991909-35afb1bd1e7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ1fHxkaWdpdGFsJTIwTWluaW1hbGlzbXxlbnwwfHx8fDE3NjQ2NzcwMjF8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Isaac Smith / Unsplash"
 tags: ["Blogging", "Digital Minimalism"]
 draft: false
 featured: false
 ---
 
-Há algum tempo observo e reflito sobre a minha relação com a tecnologia. Na verdade, este foi/é um processo gradual de perceber o quanto certas ferramentas digitais ocupam espaço mental sem oferecer valor proporcional em troca. E essa percepção me levou a explorar o que muitos chamam de minimalismo digital. Para mim, não como uma filosofia rígida, mas como uma abordagem prática para recuperar um pouco de clareza num mundo que insiste em nos sobrecarregar.
+H á algum tempo observo e reflito sobre a minha relação com a tecnologia. Na verdade, este foi/é um processo gradual de perceber o quanto certas ferramentas digitais ocupam espaço mental sem oferecer valor proporcional em troca. E essa percepção me levou a explorar o que muitos chamam de minimalismo digital. Para mim, não como uma filosofia rígida, mas como uma abordagem prática para recuperar um pouco de clareza num mundo que insiste em nos sobrecarregar.
+<!--more-->
 
 A primeira coisa que percebi foi o peso invisível das redes sociais. Durante anos, mantive contas no Twitter, Facebook, Instagram, YouTube, entre outras plataformas, cada uma exigindo sua fatia de atenção. O problema não era necessariamente o tempo gasto - embora considerável - mas a fragmentação constante do foco. A cada notificação, a cada scroll interminável, eu estava alimentando um ciclo de distração que tornava difícil qualquer trabalho que exigisse concentração profunda. Comecei a questionar: o que realmente estou ganhando aqui? As respostas foram decepcionantes. A maior parte do conteúdo era ruído, discussões que me deixavam ansioso sem agregar nada útil, e uma sensação persistente de estar perdendo algo - o famoso FOMO (Fear of missing out) - que nunca se materializava em nada concreto.
 

@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:16:59+00:00
 slug: "i-surrendered-to-google"
 description: "Struggling for online privacy, I reluctantly chose YouTube Premium for ad-free, usable streaming despite sacrificing some privacy. "
 image: "https://images.unsplash.com/photo-1577071835592-d5d55ffef660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxnb29nbGV8ZW58MHx8fHwxNzY0NzA1NTI4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Mitchell Luo / Unsplash"
 tags: ["Privacy", "Social Media", "Blogging"]
 draft: false
 featured: false
 ---
 
-I'm very upset these days. The web is really messed up. Can we really achieve even a little privacy? Some argue that it is a human right, but to me, privacy seems like a discussion for the elite, where only a few can afford this "luxury", given the huge number of products we have to pay a premium price for in order to get a little privacy.
+I 'm very upset these days. The web is really messed up. Can we really achieve even a little privacy? Some argue that it is a human right, but to me, privacy seems like a discussion for the elite, where only a few can afford this "luxury", given the huge number of products we have to pay a premium price for in order to get a little privacy.
+<!--more-->
 
 Some time ago, I tried to de-google myself, but one of the few things I couldn't give up was my dependency on YouTube. I follow a lot of journalistic content on the platform, as many media outlets are moving their content there.
 

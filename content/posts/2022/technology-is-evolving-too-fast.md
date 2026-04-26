@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:03:13+00:00
 slug: "technology-is-evolving-too-fast"
 description: "Reflection on rapid tech evolution, consumerism, and the need for slower, more sustainable, real-cycle-based technological progress. "
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY0NzIzODcwfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Marvin Meyer / Unsplash"
 tags: ["Technology"]
 draft: false
 featured: false
 ---
 
 I recently read the article "Qualcomm sampling Wi-Fi 7 silicon for next-gen access points" on The Register website, and it made me think how fast technology is evolving to the point that we don't even have time to keep up with it. Which leads me to the question: Does technology really need to evolve that fast?
+<!--more-->
 
 Well, I don't want to comment on this post anything related to the article that I've just mentioned, [however you can read it here](https://www.theregister.com/2022/05/04/qualcomm_sampling_wifi_7_silicon/). In fact, I would like to propose a reflection on, not only our relationship with our technological items, but our relationship with consumption.
 

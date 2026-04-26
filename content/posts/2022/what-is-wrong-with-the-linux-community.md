@@ -5,13 +5,13 @@ lastmod: 2025-12-07T23:51:28+00:00
 slug: "what-is-wrong-with-the-linux-community"
 description: "Reflection on entitlement in open-source communities, using Ubuntu as an example, and embracing choice instead of criticizing free software. "
 image: "https://images.unsplash.com/photo-1629654291663-b91ad427698f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI2fHxsaW51eCUyMHVzZXJ8ZW58MHx8fHwxNzY0NzIzNTYyfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Gabriel Heinzer / Unsplash"
 tags: ["Technology", "OpenSource", "Linux"]
 draft: false
 featured: false
 ---
 
-It's not recent that I've read people positioning themselves, sometimes aggressively, about Canonical's decisions and the direction they are going in relation to, for instance, funding the company or the snap thing.
+I t's not recent that I've read people positioning themselves, sometimes aggressively, about Canonical's decisions and the direction they are going in relation to, for instance, funding the company or the snap thing.
+<!--more-->
 
 I have an analogy:
 

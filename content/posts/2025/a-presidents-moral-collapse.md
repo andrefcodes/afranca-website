@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:48:55+00:00
 slug: "a-presidents-moral-collapse"
 description: "Lula calls drug traffickers 'victims,' exposing moral collapse and political failure amid Brazil's escalating crime crisis."
 image: "https://images.unsplash.com/photo-1655071267921-66c47de45771?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGx1bGF8ZW58MHx8fHwxNzY0Njk3MDk0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Tutz Dias / Unsplash"
 tags: ["Blogging", "Politics"]
 draft: false
 featured: false
 ---
 
-I've reached a point where I can no longer stomach the kind of intellectual dishonesty that passes for political discourse in Brazil. When President Lula stood in Jakarta and declared that drug traffickers are "victims of users", he didn't just make a political gaffe or stumble over his words. He revealed something far more sinister: a complete moral collapse at the highest levels of Brazilian leadership, a willingness to excuse the inexcusable, and a contempt for the millions of Brazilians who live in terror of the criminals his words defend.
+I 've reached a point where I can no longer stomach the kind of intellectual dishonesty that passes for political discourse in Brazil. When President Lula stood in Jakarta and declared that drug traffickers are "victims of users", he didn't just make a political gaffe or stumble over his words. He revealed something far more sinister: a complete moral collapse at the highest levels of Brazilian leadership, a willingness to excuse the inexcusable, and a contempt for the millions of Brazilians who live in terror of the criminals his words defend.
+<!--more-->
 
 Let me be brutally clear about what we're dealing with here. Drug traffickers are not misunderstood entrepreneurs. They're not victims of circumstance forced into regrettable choices. They are predators who have chosen violence, chosen to destroy communities, chosen to profit from human misery. When Lula calls these monsters "victims," he spits in the face of every mother who has buried a child caught in crossfire, every shopkeeper forced to pay extortion, every resident of a favela who can't let their kids play outside because armed thugs control the streets.
 

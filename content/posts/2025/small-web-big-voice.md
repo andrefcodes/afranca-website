@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:43:47+00:00
 slug: "small-web-big-voice"
 description: "Why maintain a blog in 2025? Independent spaces let you write freely, without algorithms, likes, or virality metrics."
 image: "https://images.unsplash.com/photo-1516414447565-b14be0adf13e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDg0fHxibG9nfGVufDB8fHx8MTc2NDY3NzM5MHww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Aaron Burden / Unsplash"
 featured: true
 tags: ["Blogging", "Technology", "OpenWeb"]
 draft: false
 ---
 
-Why to maintain a blog in 2025?
+W hy to maintain a blog in 2025?
+<!--more-->
 
 While the digital landscape continues to consolidate around many platforms, each promising reach and engagement and the holy grail of virality, some people still choose to write on their own little corner of the web. They update their domains, fiddle with their CSS, mess around with their static site generators, and publish posts that maybe no one will ever read, or maybe a hundred people will read, if they're lucky. It's not rational by modern metrics, and that's precisely what makes it beautiful.
 

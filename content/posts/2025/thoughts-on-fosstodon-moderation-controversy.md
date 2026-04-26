@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:51:55+00:00
 slug: "thoughts-on-fosstodon-moderation-controversy"
 description: "Fosstodon drama shows how moderation disputes and extreme labeling can fracture communities and harm constructive dialogue. "
 image: "https://images.unsplash.com/photo-1698210806453-5ec74b8e08be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG1hc3RvZG9ufGVufDB8fHx8MTc2NDcwMjU1OXww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Chethan / Unsplash"
 tags: ["Blogging", "Fediverse", "Social Media"]
 draft: false
 featured: false
 ---
 
-In recent days, Fosstodon (a Mastodon instance) has become an example of how even well-intentioned communities can go sideways when communication breaks down and everyone starts shouting past each other. I've been following the drama with a mix of frustration and disappointment.
+I n recent days, Fosstodon (a Mastodon instance) has become an example of how even well-intentioned communities can go sideways when communication breaks down and everyone starts shouting past each other. I've been following the drama with a mix of frustration and disappointment.
+<!--more-->
 
 At the center of the discussion was a moderator known as *carrotcypher*, whose conduct sparked concern among users who reportedly described them as demonstrating hostility toward marginalized people in other public spaces. Instead of addressing these concerns transparently and with care, much of the Fosstodon community's reaction turned toward extremism, labeling the entire moderation team, including co-founders Mike Stone and Kev Quirk, as "fascists".
 

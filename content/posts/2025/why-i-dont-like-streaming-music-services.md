@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:53:15+00:00
 slug: "why-i-dont-like-streaming-music-services"
 description: "Streaming services exploit artists and favor playlists over albums, while buying music directly restores value, control, and deeper listening. "
 image: "https://images.unsplash.com/photo-1634037227397-34c8c46d585c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHxtdXNpYyUyMHN0cmVhbWluZ3xlbnwwfHx8fDE3NjQ3MDI3ODF8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Eyestetix Studio / Unsplash"
 tags: ["Blogging", "Music", "Streaming"]
 draft: false
 featured: false
 ---
 
-In the "modern world", streaming services have become the dominant method of music consumption. Platforms like Spotify, Apple Music, and others offer millions of tracks at the tip of our fingers, promising convenience and endless music. On the surface, this innovation appears to be a blessing for music lovers. However, the more I tried to engage with these platforms, the more I found myself disappointed with the experience they offer. My disappointments are based on several factors: the algorithm-driven playlists that strip away the joy of discovering full albums, the financial exploitation of artists, the manipulation behind chart rankings, and the loss of genuine connection with the music itself. The way music is consumed today feels impersonal and transactional, rather than an experience that truly resonates with listeners and respects the artists who create it.
+I n the "modern world", streaming services have become the dominant method of music consumption. Platforms like Spotify, Apple Music, and others offer millions of tracks at the tip of our fingers, promising convenience and endless music. On the surface, this innovation appears to be a blessing for music lovers. However, the more I tried to engage with these platforms, the more I found myself disappointed with the experience they offer. My disappointments are based on several factors: the algorithm-driven playlists that strip away the joy of discovering full albums, the financial exploitation of artists, the manipulation behind chart rankings, and the loss of genuine connection with the music itself. The way music is consumed today feels impersonal and transactional, rather than an experience that truly resonates with listeners and respects the artists who create it.
+<!--more-->
 
 One of my biggest issues with streaming music services is how they have fundamentally changed the way people engage with music. Before the rise of these platforms, discovering music was a personal, intentional act. You would borrow from a friend or purchase an album, sit down, and listen to it from beginning to end, immersing yourself in the story the artist intended to tell. Albums were cohesive works of art, almost always curated to provide a narrative or emotional journey. I felt like each song had its place and meaning within the larger context of the album. The physicality of buying a record or a CD also added to the experience such as admiring the album artwork.
 

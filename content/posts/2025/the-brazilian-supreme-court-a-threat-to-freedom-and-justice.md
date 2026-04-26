@@ -5,13 +5,13 @@ lastmod: 2025-12-08T15:02:50+00:00
 slug: "the-brazilian-supreme-court-a-threat-to-freedom-and-justice"
 description: "The STF in Brazil risks eroding legal certainty and free speech, with overreach, conflicts of interest, and lavish spending fueling public distrust. "
 image: "https://images.unsplash.com/photo-1593115057322-e94b77572f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHRyaWJ1bmFsfGVufDB8fHx8MTc2NDY5NjI0Nnww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Tingey Injury Law Firm / Unsplash"
 tags: ["Politics", "Blogging"]
 draft: false
 featured: false
 ---
 
-In Brazil, the Supreme Federal Court (STF) has increasingly become a source of concern for the protection of fundamental rights, particularly freedom of expression and legal certainty. The Court's actions, particularly under the leadership of some of its ministers, have raised alarm over the erosion of constitutional guarantees and the growing insecurity in the legal system. Many of these actions not only jeopardize individual freedoms but also amplify the perception of a judicial system that is prone to political bias and arbitrary decision-making.
+I n Brazil, the Supreme Federal Court (STF) has increasingly become a source of concern for the protection of fundamental rights, particularly freedom of expression and legal certainty. The Court's actions, particularly under the leadership of some of its ministers, have raised alarm over the erosion of constitutional guarantees and the growing insecurity in the legal system. Many of these actions not only jeopardize individual freedoms but also amplify the perception of a judicial system that is prone to political bias and arbitrary decision-making.
+<!--more-->
 
 One recent example of the STF's overreach is the case involving Minister Alexandre de Moraes, who ordered the removal of the social media platform X (formerly Twitter) from the internet for Brazillians. This extraordinary decision came after X allegedly failed to provide user data, despite the absence of any clear legal justification for such an action. The court’s intervention in this case raises serious concerns about the limits of judicial power and the dangers of a government entity arbitrarily restricting access to information. It exemplifies how the STF, with its unchecked power, can undermine the principles of free speech and transparency.
 

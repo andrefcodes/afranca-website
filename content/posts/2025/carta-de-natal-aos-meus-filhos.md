@@ -5,13 +5,13 @@ lastmod: 2025-12-25T03:07:32+00:00
 slug: "carta-de-natal-aos-meus-filhos"
 description: "Carta de Natal a meus filhos sobre presença, amor incondicional e a importância de criar memórias simples e significativas juntos. "
 image: "https://images.unsplash.com/photo-1512219279337-9746bab300f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNocmlzdG1hcyUyMGxldHRlcnxlbnwwfHx8fDE3NjQ4NzczODZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Kira auf der Heide / Unsplash"
 tags: ["Parenting", "Blogging"]
 draft: false
 featured: false
 ---
 
-Meus queridos filhos, enquanto escrevo esta carta neste Natal, penso em como o tempo passa rápido e em tudo que aprendi desde que vocês chegaram à minha vida. Não quero falar sobre presentes ou decorações, mas sobre algo muito mais importante que descobri ao longo dessa jornada chamada paternidade.
+M eus queridos filhos, enquanto escrevo esta carta neste Natal, penso em como o tempo passa rápido e em tudo que aprendi desde que vocês chegaram à minha vida. Não quero falar sobre presentes ou decorações, mas sobre algo muito mais importante que descobri ao longo dessa jornada chamada paternidade.
+<!--more-->
 
 Sabe, antes mesmo de vocês nascerem, eu tinha tantas certezas sobre o que seria ser pai. Achava que sabia exatamente como educar, como guiar, como ser um exemplo. A verdade é que vocês me ensinam muito mais do que eu poderia imaginar. Cada sorriso, cada pergunta curiosa, cada abraço apertado me mostra que ser pai não é sobre ter todas as respostas, mas sobre estar presente de verdade.
 

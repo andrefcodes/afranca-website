@@ -5,13 +5,13 @@ lastmod: 2025-12-07T23:52:25+00:00
 slug: "disconnecting-is-becoming-increasingly-difficult"
 description: "Reflection on breaking passive phone use, tracking habits, and rebuilding healthier, intentional routines to regain focus and appreciate real life. "
 image: "https://images.unsplash.com/photo-1592495994946-52ba21a70bdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGRvJTIwbm90JTIwZGlzdHVyYnxlbnwwfHx8fDE3NjQ3MjM2OTd8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Morgan Housel / Unsplash"
 tags: ["Technology", "Social Media"]
 draft: false
 featured: false
 ---
 
-How many opportunities do we let go when we're passively using our phones?
+H ow many opportunities do we let go when we're passively using our phones?
+<!--more-->
 
 Not long ago, my wife started calling my attention about me staying hours on the phone. At first, I disagreed – I think most people would do the same, because in an unaware state, we tend to do things like this. After some insistence from her, I decided to check if that was true. I'm an iPhone user, so I set up Screen Time. For those who don't know what this app is, it basically maps how many hours we spend with our phones and which apps consume most of our time.
 

@@ -5,13 +5,13 @@ lastmod: 2025-12-30T02:17:54+00:00
 slug: "janja-ou-esbanja"
 description: "Janja enfrenta críticas por gastos públicos excessivos e vitimização, levantando debates sobre responsabilidade e transparência. "
 image: "https://images.unsplash.com/photo-1762187547872-f8480b0de362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGN1cnJ1cHRpb258ZW58MHx8fHwxNzY0NzAzNTkzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Mat / Unsplash"
 tags: ["Blogging", "Politics"]
 draft: false
 featured: false
 ---
 
-Desde que Rosângela Lula da Silva assumiu o posto temporário de primeira-dama do Brasil, seu nome nunca deixou de estar em evidência. Para o público, ela é apenas "Janja" - um apelido que sugere intimidade e proximidade, mas que, paradoxalmente, contrasta com a postura distanciada e, em muitos momentos, arrogante, que ela demonstra em relação às críticas que recebe desde que seu marido - que numa controversa decisão jurídica teve suas condenações anuladas - disputou e venceu as eleições de 2022 para Presidente do Brasil. Desde o início do governo, sua presença tem sido marcada por polêmicas que giram em torno do uso indiscriminado de dinheiro público para custear seus caprichos pessoais e suas ambições de protagonismo, como se o cargo de primeira-dama lhe conferisse um passe livre para esbanjar sem prestar satisfações.
+D esde que Rosângela Lula da Silva assumiu o posto temporário de primeira-dama do Brasil, seu nome nunca deixou de estar em evidência. Para o público, ela é apenas "Janja" - um apelido que sugere intimidade e proximidade, mas que, paradoxalmente, contrasta com a postura distanciada e, em muitos momentos, arrogante, que ela demonstra em relação às críticas que recebe desde que seu marido - que numa controversa decisão jurídica teve suas condenações anuladas - disputou e venceu as eleições de 2022 para Presidente do Brasil. Desde o início do governo, sua presença tem sido marcada por polêmicas que giram em torno do uso indiscriminado de dinheiro público para custear seus caprichos pessoais e suas ambições de protagonismo, como se o cargo de primeira-dama lhe conferisse um passe livre para esbanjar sem prestar satisfações.
+<!--more-->
 
 Um exemplo emblemático dessa postura foi o evento apelidado popularmente de "Janjapalooza", uma festa que ultrapassou qualquer limite razoável de bom senso e responsabilidade fiscal. Em um país em que milhões de pessoas enfrentam dificuldades econômicas, é no mínimo desrespeitoso assistir a uma primeira-dama promover um evento de proporções exageradas, financiado com recursos que deveriam ter um destino mais digno. Não há como justificar tamanho descompasso entre o discurso de empatia e justiça social que tanto prega o governo e a prática de gastos ostensivos com eventos privados e viagens que, muitas vezes, carecem de qualquer justificativa plausível em termos de interesse público.
 

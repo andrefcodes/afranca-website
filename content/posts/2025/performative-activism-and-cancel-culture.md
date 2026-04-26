@@ -5,13 +5,13 @@ lastmod: 2025-12-08T15:03:31+00:00
 slug: "performative-activism-and-cancel-culture"
 description: "Performative activism and cancel culture in Brazil often silence dissent, fuel polarization, and threaten free speech and legal certainty. "
 image: "https://images.unsplash.com/photo-1760783720231-4a3418ddd118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM0fHxhY3RpdmlzbXxlbnwwfHx8fDE3NjQ2OTY3MjZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Alex Gruber / Unsplash"
 tags: ["Politics", "Blogging"]
 draft: false
 featured: false
 ---
 
-In recent years, performative activism and cancel culture have become dominant forces in social and political discourse, particularly in countries like Brazil. While these movements claim to advocate for justice and diversity, they often lead to serious consequences that undermine free speech, democracy, and even legal certainty.
+I n recent years, performative activism and cancel culture have become dominant forces in social and political discourse, particularly in countries like Brazil. While these movements claim to advocate for justice and diversity, they often lead to serious consequences that undermine free speech, democracy, and even legal certainty.
+<!--more-->
 
 One of the main issues with performative activism—or "lacração" as it is commonly referred to in Brazil—is its tendency to prioritize emotional outrage over rational debate. Instead of engaging in meaningful discussions, many individuals and organizations opt for superficial gestures, where public displays of indignation take precedence over real solutions. This phenomenon creates a hostile environment where dissenting opinions are not only discouraged but actively punished.
 

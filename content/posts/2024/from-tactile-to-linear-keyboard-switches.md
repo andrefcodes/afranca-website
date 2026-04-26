@@ -5,13 +5,13 @@ lastmod: 2025-12-30T02:15:29+00:00
 slug: "from-tactile-to-linear-keyboard-switches"
 description: "Daily-use Akko 3084B Plus keyboard upgraded from Jelly Purple to Matcha Green Pro switches for smoother, quieter typing. "
 image: "https://images.unsplash.com/photo-1625130694338-4110ba634e59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fG1lY2hhbmljYWwlMjBrZXlib2FyZHxlbnwwfHx8fDE3NjQ3MDUwMzN8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Bryan Natanael / Unsplash"
 tags: ["Mechanical Keyboard", "Technology"]
 draft: false
 featured: false
 ---
 
 I have an Akko 3084B Plus mechanical keyboard, one of the devices I like the most and use on a daily basis. It's a nice-sized tenkeyless keyboard, very comfortable and well built.
+<!--more-->
 
 ![](/content/images/2025/12/EF18B218-AE83-4255-8281-2F7BBD20E65F-1.webp)
 

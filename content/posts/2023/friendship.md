@@ -5,13 +5,13 @@ lastmod: 2025-12-08T01:02:46+00:00
 slug: "friendship"
 description: "A reflection on the value of true friendship, its rarity today, and gratitude for meaningful bonds. "
 image: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGZyaWVuZHNoaXB8ZW58MHx8fHwxNzY0NzIxNjM2fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Hannah Busing / Unsplash"
 tags: ["Blogging"]
 draft: false
 featured: false
 ---
 
-It's funny how we create bonds of friendship. These bonds are often made up of common interests or difficulties, some of family proximity, admiration, or even some random event without explanation.
+I t's funny how we create bonds of friendship. These bonds are often made up of common interests or difficulties, some of family proximity, admiration, or even some random event without explanation.
+<!--more-->
 
 What all friendships have in common, however, besides mutual respect, is, in my view, the freedom to share feelings openly, to be who we are without judgment, and the absence of a predetermined give-and-take relationship or obligation.
 

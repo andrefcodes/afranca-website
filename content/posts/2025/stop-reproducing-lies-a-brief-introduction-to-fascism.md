@@ -5,13 +5,13 @@ lastmod: 2025-12-17T17:16:39+00:00
 slug: "stop-reproducing-lies-a-brief-introduction-to-fascism"
 description: "Using 'fascist' as an insult erases history. Knowing fascism's origins shows how labels replace thinking and enable manipulation."
 image: "https://images.unsplash.com/photo-1475168952107-64cc48a0c2ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDU0fHxJdGFseSUyMHdhcnxlbnwwfHx8fDE3NjU5NzQ3Mzh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Tobias Fischer / Unsplash"
 tags: ["Politics"]
 draft: false
 featured: false
 ---
 
-This blog post is sort of a [part two of my last post](/apprentices-of-goebbels/), where I shared how tired I am of navigating online and seeing people practicing dehumanization through language by using the word "fascist" or "nazi" as an insult against those they disagree with. This technique was initially created by Stalin, but largely used and amplified by Goebbels.
+T his blog post is sort of a [part two of my last post](/apprentices-of-goebbels/), where I shared how tired I am of navigating online and seeing people practicing dehumanization through language by using the word "fascist" or "nazi" as an insult against those they disagree with. This technique was initially created by Stalin, but largely used and amplified by Goebbels.
+<!--more-->
 
 Labels become shortcuts for not reading, not listening, not remembering history, but creating narratives.
 

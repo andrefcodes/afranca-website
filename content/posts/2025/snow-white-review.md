@@ -5,13 +5,13 @@ lastmod: 2025-12-08T15:00:50+00:00
 slug: "snow-white-review"
 description: "Disney’s new Snow White sacrifices magic for political correctness, losing charm, heart, and the story’s timeless emotional core. "
 image: "https://images.unsplash.com/photo-1681934539866-85d47491a4c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHNub3clMjB3aGl0ZXxlbnwwfHx8fDE3NjQ3MDM5MDB8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Steven Beyer / Unsplash"
 tags: ["Movie Review", "Blogging", "Entertainment"]
 draft: false
 featured: false
 ---
 
-This is my first movie review, and it comes with lots of controversies.
+T his is my first movie review, and it comes with lots of controversies.
+<!--more-->
 
 This weekend, with a mix of nostalgia, my wife, our kid, and I decided to watch the latest adaptation of *Snow White*. As someone who grew up surrounded by Disney classics, I was curious to revisit the timeless tale of the princess and the seven dwarfs. However, what unfolded on the screen was not the story I remembered. Instead, it was a misguided attempt to modernize (again) a beloved fairy tale, so drenched in political correctness that it lost the magic and charm that once defined it.
 

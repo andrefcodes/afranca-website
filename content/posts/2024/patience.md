@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:12:22+00:00
 slug: "patience"
 description: "Reflecting on patience, self-awareness, and mindfulness to manage stress, improve behavior, and break negative cycles. "
 image: "https://images.unsplash.com/photo-1481833761820-0509d3217039?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHJlbGF4fGVufDB8fHx8MTc2NDcwNTY4Mnww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Clem Onojeghuo / Unsplash"
 tags: ["Blogging", "Wellness"]
 draft: false
 featured: false
 ---
 
-We rarely notice behavioral changes in ourselves unless someone points them out. One reason is that we often don’t pay enough attention to ourselves.
+W e rarely notice behavioral changes in ourselves unless someone points them out. One reason is that we often don’t pay enough attention to ourselves.
+<!--more-->
 
 We tend to robotize and normalize our daily actions, and before we know it, we may be dealing with a serious problem or addiction, and so on.
 

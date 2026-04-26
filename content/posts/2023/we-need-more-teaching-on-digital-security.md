@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:53:46+00:00
 slug: "we-need-more-teaching-on-digital-security"
 description: "Schools rarely teach digital security, leaving kids and adults exposed. Strong, unique passwords and MFA help, but awareness matters most. "
 image: "https://images.unsplash.com/photo-1666875758381-9e627d24133e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDU2fHxkaWdpdGFsJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzY0NzIyNDY2fDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Growtika / Unsplash"
 tags: ["Technology", "Security"]
 draft: false
 featured: false
 ---
 
-For the second time this month, my wife received two messages where the sender offered some crazy opportunity to make money or asked her for financial help. She became suspicious of both messages.
+F or the second time this month, my wife received two messages where the sender offered some crazy opportunity to make money or asked her for financial help. She became suspicious of both messages.
+<!--more-->
 
 The first message was a blatant fraud; the second drew her attention because it was not from a close contact.
 

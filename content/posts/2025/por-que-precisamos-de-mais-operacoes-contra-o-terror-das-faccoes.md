@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:45:10+00:00
 slug: "por-que-precisamos-de-mais-operacoes-contra-o-terror-das-faccoes"
 description: "Polícia enfrenta facções armadas no RJ: operação letal é necessária para retomar território e proteger civis contra exércitos paralelos. "
 image: "https://images.unsplash.com/photo-1545692770-f0029a91f3ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZhdmVsYXxlbnwwfHx8fDE3NjQ2OTY5Nzh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by DEESID BKK / Unsplash"
 tags: ["Blogging", "Politics", "Security"]
 draft: false
 featured: false
 ---
 
-Vivemos tempos em que as palavras se tornaram mais importantes do que os fatos, tempos em que a narrativa escolhida importa mais do que a realidade vivida por milhões de brasileiros que acordam e dormem ao som de tiros, que calculam rotas para evitar áreas de confronto, que enterram parentes mortos por balas que não escolhem entre inocentes e culpados. A megaoperação realizada no Complexo do Alemão e da Penha, no Rio de Janeiro, com mais de cem mortes, deveria ser analisada a partir de uma pergunta simples e direta: queremos ou não retomar o território nacional das mãos de organizações criminosas armadas que operam como verdadeiros exércitos paralelos?
+V ivemos tempos em que as palavras se tornaram mais importantes do que os fatos, tempos em que a narrativa escolhida importa mais do que a realidade vivida por milhões de brasileiros que acordam e dormem ao som de tiros, que calculam rotas para evitar áreas de confronto, que enterram parentes mortos por balas que não escolhem entre inocentes e culpados. A megaoperação realizada no Complexo do Alemão e da Penha, no Rio de Janeiro, com mais de cem mortes, deveria ser analisada a partir de uma pergunta simples e direta: queremos ou não retomar o território nacional das mãos de organizações criminosas armadas que operam como verdadeiros exércitos paralelos?
+<!--more-->
 
 Confesso que sinto uma satisfação genuína ao ver o Estado do Rio de Janeiro, ao contrário de outros estados da federação, finalmente reagir e demonstrar que não aceitará indefinidamente a existência de territórios sob controle de grupos terroristas disfarçados de traficantes, que impõem sua própria lei, que cobram impostos, que julgam e executam, que compram armamento pesado capaz de derrubar helicópteros e blindados. A operação que tirou a vida de quatro policiais e mais de cem criminosos não é um episódio isolado de violência que surgiu do nada. É uma batalha necessária numa guerra que já existe há décadas, mas que grande parte da sociedade brasileira prefere fingir que não vê.
 

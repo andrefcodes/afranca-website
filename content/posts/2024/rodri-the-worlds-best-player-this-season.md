@@ -5,13 +5,13 @@ lastmod: 2025-12-08T12:27:52+00:00
 slug: "rodri-the-worlds-best-player-this-season"
 description: "Rodri’s Ballon d’Or win highlights his crucial role for Manchester City and Spain, amid injuries, media bias, and Vinícius Jr’s controversial behavior. "
 image: "https://images.unsplash.com/photo-1649198203280-6b1fad44dca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQxfHxiZXN0JTIwcGxheWVyfGVufDB8fHx8MTc2NDcwNTkwNHww&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Darque Kj / Unsplash"
 tags: ["Sports", "Blogging"]
 draft: false
 featured: false
 ---
 
-Manchester City's defeat to Liverpool in the 13th round of the Premier League marks a significant milestone in the Guardiola era: one of the longest, if not the longest, winless streaks for the team.
+M anchester City's defeat to Liverpool in the 13th round of the Premier League marks a significant milestone in the Guardiola era: one of the longest, if not the longest, winless streaks for the team.
+<!--more-->
 
 In my analysis, I see that injury problems are one of the main factors, and among these is the injury to Rodri, recently voted the best player in the world, in the 2024 Ballon d'Or award by *France Football* magazine.
 

@@ -5,13 +5,13 @@ lastmod: 2025-12-08T14:50:23+00:00
 slug: "when-words-fail-the-right-must-rise"
 description: "Tragedies like the murders of Iryna and Charlie reveal rising political violence and the urgent need to defend free speech and safety."
 image: "https://images.unsplash.com/photo-1485309086598-f9d010ad3972?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fG1hZ2F8ZW58MHx8fHwxNzY0NzAyMTUzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Jose M / Unsplash"
 tags: ["Blogging", "Politics"]
 draft: false
 featured: false
 ---
 
-The past few days have delivered shocks that leave anyone who still believes in decency and basic human dignity with a sense of outrage, sorrow, and urgency. When I think about the murder of Iryna Zarutska, a young Ukrainian refugee who came to the United States hoping for safety and a future, only to be brutally stabbed to death on a train. What makes this even more infuriating and heartbreaking is that her killer was free despite multiple arrests and convictions, free under a system that often treats ideology and policy over responsibility and public safety, that had let someone clearly dangerous wander. And then about the assassination of Charlie Kirk while he was speaking publicly on campus.
+T he past few days have delivered shocks that leave anyone who still believes in decency and basic human dignity with a sense of outrage, sorrow, and urgency. When I think about the murder of Iryna Zarutska, a young Ukrainian refugee who came to the United States hoping for safety and a future, only to be brutally stabbed to death on a train. What makes this even more infuriating and heartbreaking is that her killer was free despite multiple arrests and convictions, free under a system that often treats ideology and policy over responsibility and public safety, that had let someone clearly dangerous wander. And then about the assassination of Charlie Kirk while he was speaking publicly on campus.
+<!--more-->
 
 I see not just two tragedies but two clear signs of where our society is heading. These are not isolated crimes that can be brushed aside as bad luck. They are symptoms of a climate that has been deliberately cultivated, where dissenting voices are demonized, where opponents are painted as subhuman, where mobs operate under the conviction that disagreement is not to be debated but to be destroyed. And what chills me most is not only that these deaths happened, but that in our current political environment we all knew, on some level, that something like this was inevitable.
 

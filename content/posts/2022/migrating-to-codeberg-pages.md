@@ -5,13 +5,13 @@ lastmod: 2025-12-08T00:19:47+00:00
 slug: "migrating-to-codeberg-pages"
 description: "Migrating a Jekyll blog from GitHub to Codeberg: setup process, DNS configuration, and considerations for static site hosting."
 image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGdpdHxlbnwwfHx8fDE3NjQ3MjQ1ODh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-imageCaption: "Photo by Roman Synkevych / Unsplash"
 tags: ["Technology", "Static Site Generator", "IndieWeb", "Blogging", "Codeberg", "GitHub"]
 draft: false
 featured: false
 ---
 
-I've been really busy these days and haven't made any posts. Despite having plenty of drafts for the blog, I couldn't find time to sit down and write.
+I 've been really busy these days and haven't made any posts. Despite having plenty of drafts for the blog, I couldn't find time to sit down and write.
+<!--more-->
 
 Fortunately, unlike any algorithm-based platform, this blog allows me to write at my own pace and as I wish. After all, there's no financial support or, with all respect, any kind of obligation to readers. The dynamics of this blog are quite simple: I write what I want and like, while people who are interested in what I have to say read it and, when they want, interact with me by email or on the fediverse. And this has been working very well.
 
