@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-G et-rich scams annoy me more than they should. Not because they exist, but because I keep seeing the same movie on repeat, and some people I like falling for it. Different faces, same promises, same emotional buttons being pressed like clockwork. Every time someone swears they’ve cracked the system, my first thought isn’t curiosity because I already know where this goes. It's exhausting.
+Get-rich scams annoy me more than they should. Not because they exist, but because I keep seeing the same movie on repeat, and some people I like falling for it. Different faces, same promises, same emotional buttons being pressed like clockwork. Every time someone swears they’ve cracked the system, my first thought isn’t curiosity because I already know where this goes. It's exhausting.
 <!--more-->
 
 These schemes aren’t clever anymore. They rely on ancient psychological tricks like urgency, borrowed authority, or the idea that everyone else is already winning and you’re the only dumb one still stuck. That pressure does weird things to the brain, and suddenly a stranger on the internet feels more trustworthy than your own common sense.

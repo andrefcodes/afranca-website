@@ -10,10 +10,8 @@ draft: false
 featured: false
 ---
 
-â œ…
-<!--more-->
-
 This post is not a tutorial, but rather my account of the process of migrating my photos from iCloud to Immich and how my Raspberry Pi has been able to run it without many issues.
+<!--more-->
 
 Before you ask why I made the switch: Iâ€™ve been using Android since 2024, and the only decent solution that would give me easy access to my photos - despite being a privacy nightmare - was Google Photos. I happened to hear about Immich on a podcast, and the quality of the software immediately caught my attention.
 

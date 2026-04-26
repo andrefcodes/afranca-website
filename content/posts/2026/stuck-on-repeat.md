@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I ’ve found myself feeling reflective these past few days and wanted to share. It might sound a bit stupid, but who hasn’t had stupid thoughts?
+I’ve found myself feeling reflective these past few days and wanted to share. It might sound a bit stupid, but who hasn’t had stupid thoughts?
 <!--more-->
 
 Basically, it has to do with my relationship with time. Let me explain. I was listening to a live album I really like called *Ao Vivo em Lisboa by Resistência*, and I started thinking about why I listen to so little current music (by current I mean from the 2000s, maybe even from 2010 onward).
@@ -19,7 +19,7 @@ Basically, it has to do with my relationship with time. Let me explain. I was li
 
 I listen mostly to music from the 70s, 80s, and 90s. The same goes for most of the movies I watch. Often on repeat, I find more comfort in songs, rhythms, and stories that feel familiar or that make me think. There’s something grounding about them, something that feels alive in a way I struggle to find in much of today’s mainstream output.
 
-I don’t feel that this is just nostalgia, but rather as if something important was lost along the way. [I wrote recently about why 90s movies feel more alive than almost anything on Netflix](/why-90s-movies-feel-more-alive-than-anything-on-netflix/), and that reflection came from the same place. I argued that those films took risks, and that they weren’t built purely around algorithms, franchises, or binge metrics. They trusted the audience to pay attention.
+I don’t feel that this is just nostalgia, but rather as if something important was lost along the way. [I wrote recently about why 90s movies feel more alive than almost anything on Netflix]({{< ref "/posts/2025/why-90s-movies-feel-more-alive-than-anything-on-netflix.md" >}}), and that reflection came from the same place. I argued that those films took risks, and that they weren’t built purely around algorithms, franchises, or binge metrics. They trusted the audience to pay attention.
 
 But beneath all that, there’s a discomfort I frequently ignore: the fear of being stuck. I mean, am I choosing older art because it’s genuinely better, or because it’s "safe"? Sometimes I wonder if this habit shields me from disappointment, from engaging with the present and risking the conclusion that much of it feels hollow.
 

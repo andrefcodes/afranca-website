@@ -10,7 +10,7 @@ featured: false
 tags: []
 ---
 
-ğ Ÿ‘
+
 <!--more-->
 
 This post ****is not**** meant as a subtle jab, nor is it intended to offend anyone who had (or still has) this kind of behavior.

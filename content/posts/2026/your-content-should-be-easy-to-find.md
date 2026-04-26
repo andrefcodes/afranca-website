@@ -10,7 +10,7 @@ tags: ["IndieWeb", "Blogging", "Small Web"]
 draft: false
 ---
 
-O ne of the things I enjoy most is discovering new IndieWeb sites. I love seeing how bloggers like me experiment with their themes. Some go very old-school, using plain HTML, while others are highly polished - a masterclass in CSS usage.
+One of the things I enjoy most is discovering new IndieWeb sites. I love seeing how bloggers like me experiment with their themes. Some go very old-school, using plain HTML, while others are highly polished - a masterclass in CSS usage.
 <!--more-->
 
 What often frustrates me, though, is how many sites obscure their primary entry points. Posts, archives, or feeds are frequently hidden behind minimal navigation, visual abstraction, or missing links altogether. In some cases, RSS or other syndication endpoints are not exposed at all.

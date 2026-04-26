@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I t feels like everyone wants to quit their job and become a content creator. Honestly, I get the appeal. More freedom, flexible hours, working from anywhere, and maybe even making a hell of a lot of money. However, is this really a healthy direction for society?
+It feels like everyone wants to quit their job and become a content creator. Honestly, I get the appeal. More freedom, flexible hours, working from anywhere, and maybe even making a hell of a lot of money. However, is this really a healthy direction for society?
 <!--more-->
 
 I don’t want to tell people how to live their lives, what choices they should make, or even how they should earn their money. But this whole thing just feels wrong to me in so many different ways.

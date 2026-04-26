@@ -21,6 +21,6 @@ This quote hits hard because it exposes a fundamental disconnect in our digital 
 
 Manu's plea isn't just about his series IMO; it's a commentary on the ecosystem of independent creation, bacause building something worthwhile takes immense energy, and when that energy isn't reciprocated in some form, even passionate people can burn out.
 
-As consumers of independent blogs, podcasts, newsletters, and art, we have a collective responsibility. Sometimes, [it's not just about financial support](/why-people-should-not-ask-for-donations-or-money-to-run-their-own-personal-blog/) (though that's often crucial), but about the human connection. I love, for example, when people find time to write me a quick email, a thoughtful comment, or a share.
+As consumers of independent blogs, podcasts, newsletters, and art, we have a collective responsibility. Sometimes, [it's not just about financial support]({{< ref "/posts/2026/why-people-should-not-ask-for-donations-or-money-to-run-their-own-personal-blog.md" >}}) (though that's often crucial), but about the human connection. I love, for example, when people find time to write me a quick email, a thoughtful comment, or a share.
 
 So, thank you, Manu, for articulating this challenge so honestly.

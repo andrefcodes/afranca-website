@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-S ome days I imagined the time when I could actually buy software. Pay once, install it, use it for years, done. It looks like every tool wants to live in my credit card, and even the simplest app insists on a monthly relationship. That didn’t happen by accident. I mean, the world didn’t wake up one day and decide SaaS was more elegant. It took shape as a practical solution, and over time it became the model users were expected to accept.
+Some days I imagined the time when I could actually buy software. Pay once, install it, use it for years, done. It looks like every tool wants to live in my credit card, and even the simplest app insists on a monthly relationship. That didn’t happen by accident. I mean, the world didn’t wake up one day and decide SaaS was more elegant. It took shape as a practical solution, and over time it became the model users were expected to accept.
 <!--more-->
 
 From a developer’s perspective, SaaS is almost obvious as predictable revenue keeps the lights on, and helps paying for servers, support, cloud bills, and the never-ending work of keeping software secure. Security alone is a full-time job now, actually.

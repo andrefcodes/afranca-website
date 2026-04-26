@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T odo fim de ano no Brasil, enquanto luzes piscam e mensagens de paz se repetem, o Indulto de Natal expõe um lado que quase ninguém quer encarar.
+Todo fim de ano no Brasil, enquanto luzes piscam e mensagens de paz se repetem, o Indulto de Natal expõe um lado que quase ninguém quer encarar.
 <!--more-->
 
 Ao contrário do "saidão" - aquela saída temporária que muitos presos têm em datas comemorativas e **deveriam** retornar depois de alguns dias - o indulto é **o perdão total da pena**, uma escatologia decretada pelo Presidente da República para extinguir definitivamente a pena de alguém não apto ou plenamente ressocializado à convicência em sociedade. Os dados da segurança pública mostram que esse benefício, vendido como gesto humanitário, cobra um preço alto de quem está do lado de fora.
