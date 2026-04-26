@@ -246,7 +246,7 @@
           </nav>
         </header>
         <p class="meta">
-          <xsl:text>Human-friendly view of this Atom feed. Subscribe using: </xsl:text>
+          <xsl:text>This is a human-friendly view of this RSS feed. Subscribe by adding the URL to your feed reader: </xsl:text>
           <code><xsl:value-of select="atom:feed/atom:link[@rel='self']/@href"/></code>
         </p>
 
