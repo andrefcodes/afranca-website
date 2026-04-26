@@ -2,20 +2,20 @@
 <script src="/js/lunr-min.js"></script>
 
 <script>
-    {{ $counter := 0 }}
+    {{- $counter := 0 -}}
     var documents = [
-        {{ $pages := where .Site.RegularPages "Section" "posts" }}
-        {{ $total := len $pages }}
-        {{ range $index, $page := $pages }}
+        {{- $pages := where .Site.RegularPages "Section" "posts" -}}
+        {{- $total := len $pages -}}
+        {{- range $index, $page := $pages -}}
         {
             "id": {{ $counter }},
             "url": "{{ .Permalink }}",
             "title": "{{ .Title }}",
             "body": "{{ .Summary | plainify }}"
         }
-        {{ $counter = add $counter 1 }}
-        {{ if lt (add $index 1) $total }},{{ end }}
-        {{ end }}
+        {{- $counter = add $counter 1 -}}
+        {{- if lt (add $index 1) $total }},{{ end -}}
+        {{- end -}}
     ];
 
     var idx = lunr(function () {

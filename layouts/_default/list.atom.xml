@@ -16,25 +16,31 @@
 	<title>{{ .Title }} | {{ .Site.Title }}</title>
 	<updated>{{ $feedUpdated.Format "2006-01-02T15:04:05Z07:00" }}</updated>
 	<link href="{{ .Permalink }}" rel="alternate" type="text/html"/>
-	{{ with .OutputFormats.Get "atom" }}<link href="{{ .Permalink }}" rel="self" type="{{ .MediaType.Type }}"/>{{ end }}
+	{{- with .OutputFormats.Get "atom" }}
+	<link href="{{ .Permalink }}" rel="self" type="{{ .MediaType.Type }}"/>
+	{{- end }}
 	<author>
-		<name>{{ $authorName }}</name>{{ with $authorEmail }}
-		<email>{{ . }}</email>{{ end }}
+		<name>{{ $authorName }}</name>
+		{{- with $authorEmail }}
+		<email>{{ . }}</email>
+		{{- end }}
 	</author>
-	{{ range $pages }}
+	{{- range $pages }}
 	<entry>
 		<id>{{ .Permalink }}</id>
 		<title>{{ .Title }}</title>
 		<link href="{{ .Permalink }}" rel="alternate" type="text/html"/>
 		<published>{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}</published>
 		<updated>{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}</updated>
-		{{ with .Params.tags }}{{ range . }}
+		{{- with .Params.tags }}
+		{{- range . }}
 		<category term="{{ . }}"/>
-		{{ end }}{{ end }}
-		{{ with .Summary }}
+		{{- end }}
+		{{- end }}
+		{{- with .Summary }}
 		<summary type="text">{{ . | plainify | transform.XMLEscape | safeHTML }}</summary>
-		{{ end }}
+		{{- end }}
 		<content type="html">{{ .Content | transform.XMLEscape | safeHTML }}</content>
 	</entry>
-	{{ end }}
+	{{- end }}
 </feed>

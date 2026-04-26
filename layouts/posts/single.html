@@ -1,88 +1,88 @@
-{{ define "main" }}
+{{- define "main" -}}
 <article class="article h-entry">
-    {{/* Hidden permalink for microformats */}}
+    {{- /* Hidden permalink for microformats */ -}}
     <a class="u-url u-uid hidden" href="{{ .Permalink }}">{{ .Title }}</a>
 
     <h1 class="p-name">{{ .Title }}</h1>
 
     <div class="post-info">
-        {{/* Author h-card */}}
-        {{ with site.Params.author }}
+        {{- /* Author h-card */ -}}
+        {{- with site.Params.author -}}
         <span class="p-author h-card">
-            {{ with .avatar }}
+            {{- with .avatar -}}
                 <img class="u-photo" src="{{ . }}" alt="{{ $.Site.Params.author.name }}" />
-            {{ end }}
+            {{- end -}}
             <a class="p-name u-url" href="{{ .url | default "/" }}" rel="author">{{ .name }}</a>
         </span>
         <span class="meta-sep">·</span>
-        {{ end }}
+        {{- end -}}
         <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "January 2, 2006" }}</time>
-        {{ if ne .Lastmod.Unix .Date.Unix }}
+        {{- if ne .Lastmod.Unix .Date.Unix -}}
             <time class="dt-updated hidden" datetime="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Lastmod.Format "January 2, 2006" }}</time>
-        {{ end }}
-        {{ if site.Params.showReadingTime }}
-            {{ with .ReadingTime }}
+        {{- end -}}
+        {{- if site.Params.showReadingTime -}}
+            {{- with .ReadingTime -}}
                 <span class="meta-sep">·</span>
                 <span class="reading-time">{{ . }} min read</span>
-            {{ end }}
-        {{ end }}
+            {{- end -}}
+        {{- end -}}
     </div>
 
-    {{/* Post summary for microformats (hidden, uses summary) */}}
-    {{ with .Summary }}
+    {{- /* Post summary for microformats (hidden, uses summary) */ -}}
+    {{- with .Summary -}}
         <p class="p-summary hidden">{{ . | plainify }}</p>
-    {{ end }}
+    {{- end -}}
 
-    {{/* Outdated Content Notice (shown via JS if post > 1 year old) */}}
+    {{- /* Outdated Content Notice (shown via JS if post > 1 year old) */ -}}
     <div class="notice notice-warning notice-outdated" data-published="{{ .Date.Format "2006-01-02" }}" style="display: none;">
         <p>⚠️ <strong>Heads up!</strong> This post is over <span class="post-age"></span> old and may contain outdated information, opinions, or broken links.</p>
     </div>
 
     <div class="content e-content">
-        {{ .Content }}
+        {{- .Content -}}
     </div>
 
-    {{ if site.Params.showTagsOnPosts }}
-        {{ with .Params.tags }}
+    {{- if site.Params.showTagsOnPosts -}}
+        {{- with .Params.tags -}}
             <div class="postTags">
                 <h2>Tags</h2>
                 <ul class="tag-list">
-                    {{ range . }}
+                    {{- range . -}}
                         <li><a class="p-category" href="{{ "/tags/" | relURL }}{{ . | urlize }}/" rel="tag">#{{ . }}</a></li>
-                    {{ end }}
+                    {{- end -}}
                 </ul>
             </div>
-        {{ end }}
-    {{ end }}
+        {{- end -}}
+    {{- end -}}
 
-    {{/* Post Footer Box */}}
+    {{- /* Post Footer Box */ -}}
     <div class="after-article">
         <div class="post-footer-box">
             <p>Thanks for reading! If you enjoyed this post, consider subscribing via <a href="{{ "/feed.xml" | relURL }}" target="_blank" rel="alternate">Feed</a>.</p>
             <p>Questions, comments, or feedback? Feel free to reach out!</p>
             <div class="post-footer-actions">
-                {{/* Email Reply */}}
-                {{ with site.Params.contactEmail }}
+                {{- /* Email Reply */ -}}
+                {{- with site.Params.contactEmail -}}
                     <a href="mailto:{{ . }}?subject=Re: {{ $.Title }}&body=Regarding your post: {{ $.Permalink }}%0A%0A" class="post-footer-btn post-footer-btn-email" title="Reply via Email">
                         {{ partial "icons/mail.html" }} Reply
                     </a>
-                {{ end }}
+                {{- end -}}
 
-                {{/* Share on Mastodon */}}
+                {{- /* Share on Mastodon */ -}}
                 <button type="button" class="post-footer-btn post-footer-btn-mastodon" title="Share on Mastodon" onclick="shareMastodon()">
                     {{ partial "icons/mastodon.html" }} Share
                 </button>
 
-                {{/* Send Webmention */}}
-                {{ with site.Params.webmentionEndpoint }}
+                {{- /* Send Webmention */ -}}
+                {{- with site.Params.webmentionEndpoint -}}
                 <a href="{{ . }}" class="post-footer-btn post-footer-btn-webmention" title="Send Webmention">
                     {{ partial "icons/webmention.html" }} Webmention
                 </a>
-                {{ end }}
+                {{- end -}}
             </div>
         </div>
 
-        {{/* Mastodon Share Dialog */}}
+        {{- /* Mastodon Share Dialog */ -}}
         <dialog id="mastodon-share-dialog" class="share-dialog">
             <form method="dialog" class="share-dialog-content">
                 <h3>Share on Mastodon</h3>
@@ -115,42 +115,42 @@
         </script>
     </div>
 
-    {{/* Recent Posts */}}
-    {{ if site.Params.showRecentPostsFooter }}
-        {{ $recentPosts := where (where site.RegularPages "Section" "posts") ".Permalink" "ne" .Permalink | first 3 }}
-        {{ with $recentPosts }}
+    {{- /* Recent Posts */ -}}
+    {{- if site.Params.showRecentPostsFooter -}}
+        {{- $recentPosts := where (where site.RegularPages "Section" "posts") ".Permalink" "ne" .Permalink | first 3 -}}
+        {{- with $recentPosts -}}
             <div class="recent-posts">
                 <h2>Recent Posts</h2>
                 <table>
                     <tbody>
-                        {{ range . }}
+                        {{- range . -}}
                         <tr>
                             <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
                             <td class="td-date-right">
                                 <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
                             </td>
                         </tr>
-                        {{ end }}
+                        {{- end -}}
                     </tbody>
                 </table>
             </div>
-        {{ end }}
-    {{ end }}
+        {{- end -}}
+    {{- end -}}
 
-    {{/* Post Navigation */}}
+    {{- /* Post Navigation */ -}}
     <div class="post-nav">
-        {{ with .PrevInSection }}
+        {{- with .PrevInSection -}}
             <div class="post-nav-prev">
                 <h2>Previous</h2>
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             </div>
-        {{ end }}
-        {{ with .NextInSection }}
+        {{- end -}}
+        {{- with .NextInSection -}}
             <div class="post-nav-next">
                 <h2>Next</h2>
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             </div>
-        {{ end }}
+        {{- end -}}
     </div>
 </article>
-{{ end }}
+{{- end -}}

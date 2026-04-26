@@ -5,41 +5,43 @@
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="canonical" href="{{ .Permalink }}" />
-    {{ with site.Params.description }}<meta name="description" content="{{ . }}" />{{ end }}
+    {{- with site.Params.description }}
+    <meta name="description" content="{{ . }}" />
+    {{ end }}
 
-    {{/* Preload critical assets */}}
-    {{ $css := resources.Get "css/style.css" | toCSS (dict "targetPath" "/style.css") | minify | fingerprint }}
+    {{- /* Preload critical assets */ -}}
+    {{- $css := resources.Get "css/style.css" | toCSS (dict "targetPath" "/style.css") | minify | fingerprint -}}
     <link rel="preload" as="style" href="{{ $css.RelPermalink }}" />
     <link rel="stylesheet" type="text/css" href="{{ $css.RelPermalink }}" />
 
-    {{/* Favicons */}}
+    {{- /* Favicons */ -}}
     {{- partial "favicon.html" . -}}
 
-    {{/* Webmention / IndieWeb discovery */}}
-    {{ with site.Params.webmentionEndpoint }}
+    {{- /* Webmention / IndieWeb discovery */ -}}
+    {{- with site.Params.webmentionEndpoint -}}
         <link rel="webmention" href="{{ . }}" />
-    {{ end }}
-    {{ with site.Params.pingbackEndpoint }}
+    {{- end -}}
+    {{- with site.Params.pingbackEndpoint -}}
         <link rel="pingback" href="{{ . }}" />
-    {{ end }}
+    {{- end -}}
 
-    {{/* Fediverse Creator */}}
-    {{ with site.Params.fediverseCreator }}
+    {{- /* Fediverse Creator */ -}}
+    {{- with site.Params.fediverseCreator -}}
         <meta name="fediverse:creator" content="{{ . }}">
-    {{ end }}
+    {{- end -}}
 
-    {{/* Umami Analytics */}}
-    {{ with site.Params.umamiID }}
+    {{- /* Umami Analytics */ -}}
+    {{- with site.Params.umamiID -}}
         <script defer src="https://cloud.umami.is/script.js" data-website-id="{{ . }}"></script>
-    {{ end }}
+    {{- end -}}
 
-    {{/* RSS autodiscovery */}}
-    {{ range .AlternativeOutputFormats }}
-        {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink (printf "%s - %s" site.Title .Name) | safeHTML }}
-    {{ end }}
+    {{- /* RSS autodiscovery */ -}}
+    {{- range .AlternativeOutputFormats -}}
+        {{- printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink (printf "%s - %s" site.Title .Name) | safeHTML -}}
+    {{- end -}}
 
-    {{/* Open Graph & Twitter Cards */}}
-    {{ partial "opengraph.html" . }}
+    {{- /* Open Graph & Twitter Cards */ -}}
+    {{- partial "opengraph.html" . -}}
 
-    {{ hugo.Generator }}
+    {{- hugo.Generator -}}
 </head>

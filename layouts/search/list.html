@@ -1,9 +1,9 @@
-{{ define "main" }}
+{{- define "main" -}}
   <article class="article page h-entry">
     <h1 class="p-name">{{ .Title }}</h1>
     <div class="content e-content">
-      {{ .Content }}
+      {{- .Content -}}
     </div>
-    {{ partial "search.html" . }}
+    {{- partial "search.html" . -}}
   </article>
-{{ end }}
+{{- end -}}

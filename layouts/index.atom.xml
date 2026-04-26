@@ -16,25 +16,57 @@
 	<title>{{ .Site.Title }}</title>
 	<updated>{{ $feedUpdated.Format "2006-01-02T15:04:05Z07:00" }}</updated>
 	<link href="{{ .Permalink }}" rel="alternate" type="text/html"/>
-	{{ with .OutputFormats.Get "atom" }}<link href="{{ .Permalink }}" rel="self" type="{{ .MediaType.Type }}"/>{{ end }}
+	{{- with .OutputFormats.Get "atom" }}
+	<link href="{{ .Permalink }}" rel="self" type="{{ .MediaType.Type }}"/>
+	{{- end }}
 	<author>
-		<name>{{ $authorName }}</name>{{ with $authorEmail }}
-		<email>{{ . }}</email>{{ end }}
+		<name>{{ $authorName }}</name>
+		{{- with $authorEmail }}
+		<email>{{ . }}</email>
+		{{- end }}
 	</author>
-	{{ range $pages }}
+	{{- range $pages }}
 	<entry>
 		<id>{{ .Permalink }}</id>
 		<title>{{ .Title }}</title>
 		<link href="{{ .Permalink }}" rel="alternate" type="text/html"/>
 		<published>{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" }}</published>
 		<updated>{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}</updated>
-		{{ with .Params.tags }}{{ range . }}
+		{{- with .Params.tags }}
+		{{- range . }}
 		<category term="{{ . }}"/>
-		{{ end }}{{ end }}
-		{{ with .Summary }}
+		{{- end }}
+		{{- end }}
+		{{- with .Summary }}
 		<summary type="text">{{ . | plainify | transform.XMLEscape | safeHTML }}</summary>
-		{{ end }}
-		<content type="html">{{ .Content | transform.XMLEscape | safeHTML }}</content>
+		{{- end }}
+		{{- $entry := . -}}
+		{{- $entryContent := .Content -}}
+		{{- $contactLinks := slice -}}
+		{{- with site.Params.contactEmail -}}
+			{{- $subject := printf "Re: %s" $entry.Title | urlquery -}}
+			{{- $body := printf "Regarding your post: %s\n\n" $entry.Permalink | urlquery -}}
+			{{- $contactLinks = $contactLinks | append (printf `<a href="mailto:%s?subject=%s&amp;body=%s" title="Reply via Email">email</a>` . $subject $body) -}}
+		{{- end -}}
+		{{- with site.Params.fediverseURL -}}
+			{{- $contactLinks = $contactLinks | append (printf `<a href="%s" rel="noopener">Mastodon</a>` .) -}}
+		{{- end -}}
+		{{- with site.Params.webmentionEndpoint -}}
+			{{- $contactLinks = $contactLinks | append (printf `<a href="%s">Webmention</a>` .) -}}
+		{{- end -}}
+		{{- $n := len $contactLinks -}}
+		{{- if gt $n 0 -}}
+			{{- $linksText := "" -}}
+			{{- if eq $n 1 -}}
+				{{- $linksText = index $contactLinks 0 -}}
+			{{- else if eq $n 2 -}}
+				{{- $linksText = delimit $contactLinks " or " -}}
+			{{- else -}}
+				{{- $linksText = printf "%s, or %s" (delimit (first (sub $n 1) $contactLinks) ", ") (index $contactLinks (sub $n 1)) -}}
+			{{- end -}}
+			{{- $entryContent = printf `%s<hr /><p>Questions, comments, or feedback? Feel free to reach out by %s.</p>` $entryContent $linksText -}}
+		{{- end }}
+		<content type="html">{{ $entryContent | transform.XMLEscape | safeHTML }}</content>
 	</entry>
-	{{ end }}
+	{{- end }}
 </feed>

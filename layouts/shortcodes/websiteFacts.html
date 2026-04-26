@@ -1,13 +1,15 @@
-{{ $hostingProvider := .Site.Params.hostingProvider }}
-{{ $hostingProviderURL := .Site.Params.hostingProviderUrl }}
-{{ $sourceCodeURL := .Site.Params.sourceCode }}
-{{ $codeLicense := .Site.Params.codeLicense }}
-{{ $codeLicenseURL := .Site.Params.codeLicenseUrl }}
-{{ $contentLicense := .Site.Params.contentLicense }}
-{{ $contentLicenseURL := .Site.Params.contentLicenseUrl }}
+{{- $hostingProvider := .Site.Params.hostingProvider -}}
+{{- $hostingProviderURL := .Site.Params.hostingProviderUrl -}}
+{{- $sourceCodeURL := .Site.Params.sourceCode -}}
+{{- $codeLicense := .Site.Params.codeLicense -}}
+{{- $codeLicenseURL := .Site.Params.codeLicenseUrl -}}
+{{- $contentLicense := .Site.Params.contentLicense -}}
+{{- $contentLicenseURL := .Site.Params.contentLicenseUrl -}}
 
 <p><strong>Built with:</strong> <a href="https://gohugo.io/" target="_blank">Hugo {{ hugo.Version }}</a><br />
 <strong>Hosted on:</strong> <a href="{{ $hostingProviderURL }}" target="_blank">{{ $hostingProvider }}</a><br />
-{{ with $sourceCodeURL }}<strong>Source Code:</strong> <a href="{{ . }}" rel="me noopener" target="_blank">{{ . }}</a><br />{{ end }}
+{{- with $sourceCodeURL }}
+<strong>Source Code:</strong> <a href="{{ . }}" rel="me noopener" target="_blank">{{ . }}</a><br />
+{{- end }}
 <strong>Code License:</strong> <a href="{{ $codeLicenseURL }}">{{ $codeLicense }}</a><br />
 <strong>Content License:</strong> <a href="{{ $contentLicenseURL }}">{{ $contentLicense }}</a><br />

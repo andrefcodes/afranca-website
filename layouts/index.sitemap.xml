@@ -1,19 +1,19 @@
-{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
-{{ printf "<?xml-stylesheet type=\"text/xsl\" href=\"%s\"?>" ("/xsl/sitemap.xsl" | absURL) | safeHTML }}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" | safeHTML -}}
+{{- printf "<?xml-stylesheet type=\"text/xsl\" href=\"%s\"?>\n" ("/xsl/sitemap.xsl" | absURL) | safeHTML -}}
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	{{ with .OutputFormats.Get "postssitemap" }}
+	{{- with .OutputFormats.Get "postssitemap" }}
 	<sitemap>
 		<loc>{{ .Permalink }}</loc>
 	</sitemap>
-	{{ end }}
-	{{ with .OutputFormats.Get "pagessitemap" }}
+	{{- end }}
+	{{- with .OutputFormats.Get "pagessitemap" }}
 	<sitemap>
 		<loc>{{ .Permalink }}</loc>
 	</sitemap>
-	{{ end }}
-	{{ with .OutputFormats.Get "tagssitemap" }}
+	{{- end }}
+	{{- with .OutputFormats.Get "tagssitemap" }}
 	<sitemap>
 		<loc>{{ .Permalink }}</loc>
 	</sitemap>
-	{{ end }}
+	{{- end }}
 </sitemapindex>
