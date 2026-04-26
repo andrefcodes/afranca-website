@@ -88,7 +88,7 @@
 {{- $author := dict
     "@type" "Person"
     "name" (site.Params.author.name | default site.Title)
-    "url" (site.Params.author.url | default site.BaseURL)
+    "url" site.BaseURL
     "sameAs" (site.Params.relMe.ids | default (slice))
     "image" (dict "@type" "ImageObject" "url" $avatarURL)
 -}}
