@@ -60,5 +60,5 @@ Search is implemented with Lunr.js and rendered via site templates:
 
 ## Licenses
 
-- **Code:** MIT (see `LICENSE`)
+- **Code:** GNU Affero General Public License v3.0 or later (see `LICENSE`)
 - **All content:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
