@@ -46,7 +46,7 @@ summarylength = 70
   name = "Andre Franca"
   email = "andre@abf.li"
   bio = "I'm Andre, a tech nerd and open source enthusiast"
-  avatar = "/images/avatar/author.png"
+  avatar = "/images/avatar/profile.jpeg"
   location = "BR"
 
   [params.author.social]
