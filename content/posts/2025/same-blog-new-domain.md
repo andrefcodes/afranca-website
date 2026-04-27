@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I t's been a while since I've shared some behind-the-scenes updates here, and today I have an important one. After much thought and preparation, I've decided to move this website from abf.li to a new home at afranca.com.br
+It's been a while since I've shared some behind-the-scenes updates here, and today I have an important one. After much thought and preparation, I've decided to move this website from abf.li to a new home at afranca.com.br
 <!--more-->
 
 This wasn't a decision I made lightly. The old domain is shorter, super nice, and has been with me since back when everything here was smaller and simpler. Over time, though, things evolved. The audience grew, the content deepened, and the purpose of this space became clearer. I wanted a domain that better represented that growth and carried a bit more of my own identity, especially since most of what I do and write about is rooted in Brazil. Moving to afranca.com.br feels like a natural next step in that evolution.

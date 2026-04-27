@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I n recent days, Fosstodon (a Mastodon instance) has become an example of how even well-intentioned communities can go sideways when communication breaks down and everyone starts shouting past each other. I've been following the drama with a mix of frustration and disappointment.
+In recent days, Fosstodon (a Mastodon instance) has become an example of how even well-intentioned communities can go sideways when communication breaks down and everyone starts shouting past each other. I've been following the drama with a mix of frustration and disappointment.
 <!--more-->
 
 At the center of the discussion was a moderator known as *carrotcypher*, whose conduct sparked concern among users who reportedly described them as demonstrating hostility toward marginalized people in other public spaces. Instead of addressing these concerns transparently and with care, much of the Fosstodon community's reaction turned toward extremism, labeling the entire moderation team, including co-founders Mike Stone and Kev Quirk, as "fascists".

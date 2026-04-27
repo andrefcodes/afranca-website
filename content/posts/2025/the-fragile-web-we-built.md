@@ -10,7 +10,7 @@ tags: ["Blogging", "Cloudflare", "Internet", "Infrastructure"]
 draft: false
 ---
 
-T oday, I was in the middle of writing a blog post when things suddenly stopped making sense. I refreshed the page for a quick reference, and instead of loading, it just… hung. At first, I assumed I had messed something up as usual, maybe a DNS thing... A couple of minutes later, it became clear the problem wasn't me. [Cloudflare was down](https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/), and with it a ridiculous amount of everything most people depend on daily.
+Today, I was in the middle of writing a blog post when things suddenly stopped making sense. I refreshed the page for a quick reference, and instead of loading, it just… hung. At first, I assumed I had messed something up as usual, maybe a DNS thing... A couple of minutes later, it became clear the problem wasn't me. [Cloudflare was down](https://arstechnica.com/tech-policy/2025/11/widespread-cloudflare-outage-blamed-on-mysterious-traffic-spike/), and with it a ridiculous amount of everything most people depend on daily.
 <!--more-->
 
 My blog, X, ChatGPT, Spotify, Canva, a bunch other sites, and ironically Downdetector. All these sites blinking in and out, gave me that old familiar tightness in the chest that only IT people really understand. And it wasn't even my outage. The root cause, as Cloudflare explained, apparently was an automatically generated configuration file that ballooned beyond what the system could handle, triggering a cascade of failures across their global network.

@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I ’m honestly tired, and I don’t even try to hide it anymore. It’s frustration, accumulated over years of watching the same pattern repeat itself. Everywhere I look online, I see what I named the "apprentices of Goebbels", people who swear they’re fighting authoritarianism while practicing dehumanization through language. They don’t argue. They just label.
+I’m honestly tired, and I don’t even try to hide it anymore. It’s frustration, accumulated over years of watching the same pattern repeat itself. Everywhere I look online, I see what I named the "apprentices of Goebbels", people who swear they’re fighting authoritarianism while practicing dehumanization through language. They don’t argue. They just label.
 <!--more-->
 
 I’ve watched it happen to many good people. You question a narrative, you hesitate, you ask for evidence, you show a different point of view, and suddenly you’re not a human being anymore. You’re a fascist or a Nazi. Some abstract evil that deserves to be silenced, mocked, or erased - take Charlie Kirk as an example. There's almost no empathy left when ideology takes over. These web communists and militant leftists talk endlessly about compassion, but only for those who agree with them. Everyone else becomes disposable. Once someone is stripped of their humanity, anything from harassment, censorship, or violence becomes permissible.

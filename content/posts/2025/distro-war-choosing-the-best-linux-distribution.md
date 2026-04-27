@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-L inux is an open source operating system that offers a variety of distributions (distros) to suit different user needs. Each distro caters to a unique audience, whether you're a beginner exploring the world of Linux, a gamer looking for high-performance capabilities, or a security-conscious individual aiming to protect your privacy. With hundreds of distros available, it can be overwhelming to choose the best one for your needs. Here I will try to explore popular Linux distros across several categories and provide a list based on my personal experience and preferences.
+Linux is an open source operating system that offers a variety of distributions (distros) to suit different user needs. Each distro caters to a unique audience, whether you're a beginner exploring the world of Linux, a gamer looking for high-performance capabilities, or a security-conscious individual aiming to protect your privacy. With hundreds of distros available, it can be overwhelming to choose the best one for your needs. Here I will try to explore popular Linux distros across several categories and provide a list based on my personal experience and preferences.
 <!--more-->
 
 ## **Tier List: Linux Distributions by Category**
@@ -288,6 +288,6 @@ Raspberry Pi OS is perfect for makers, developers, and hobbyists working on IoT 
 
 ## Conclusion
 
-The Linux world is vast and diverse, offering a distribution for every need. Whether you're seeking a beginner-friendly experience with Linux Mint, a performance-driven gaming system with Pop!\_OS, or a privacy-first approach with Qubes OS, there's a distro designed with your goals in mind.
+The Linux world is vast and diverse, offering a distribution for every need. Whether you're seeking a beginner-friendly experience with Linux Mint, a performance-driven gaming system with Pop!_OS, or a privacy-first approach with Qubes OS, there's a distro designed with your goals in mind.
 
 My personal preference leans toward Ubuntu for daily use due to its balance of usability and community support. However, when it comes to customization, Arch Linux - the distro I currently run on my personal laptop - is unbeatable. Regardless of your needs, the beauty of Linux lies in the freedom to choose the environment that best suits you. Explore, experiment, and find the distribution that fits your lifestyle and needs.

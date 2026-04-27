@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T his blog post is sort of a [part two of my last post](/apprentices-of-goebbels/), where I shared how tired I am of navigating online and seeing people practicing dehumanization through language by using the word "fascist" or "nazi" as an insult against those they disagree with. This technique was initially created by Stalin, but largely used and amplified by Goebbels.
+This blog post is sort of a [part two of my last post]({{< ref "/posts/2025/apprentices-of-goebbels.md" >}}), where I shared how tired I am of navigating online and seeing people practicing dehumanization through language by using the word "fascist" or "nazi" as an insult against those they disagree with. This technique was initially created by Stalin, but largely used and amplified by Goebbels.
 <!--more-->
 
 Labels become shortcuts for not reading, not listening, not remembering history, but creating narratives.

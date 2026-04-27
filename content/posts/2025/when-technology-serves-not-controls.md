@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-H ave you ever asked yourself about the difference between technology that works for you and technology that quietly works against you? It's not always obvious at first. A tool can seem helpful, even essential, until you realize you've handed over more control than you meant to. The line between servant and master is surprisingly thin in our digital lives.
+Have you ever asked yourself about the difference between technology that works for you and technology that quietly works against you? It's not always obvious at first. A tool can seem helpful, even essential, until you realize you've handed over more control than you meant to. The line between servant and master is surprisingly thin in our digital lives.
 <!--more-->
 
 Take my phone, for instance. For years, I thought I was managing it just fine. I'd check notifications when they came in, respond to messages promptly, keep up with everything. I felt productive, connected, available. Then one day I caught myself reaching for it during a conversation with someone I actually cared about, and I realized the truth: I wasn't managing my phone. It was managing me. Every buzz and banner was a tiny interruption, a small theft of attention that added up to something significant. I was living in reactive mode, responding to whatever demanded my focus rather than choosing where to direct it.

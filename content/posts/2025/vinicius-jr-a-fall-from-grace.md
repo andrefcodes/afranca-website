@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-V inícius Júnior, recently declared as one of Brazil's most promising soccer talents and elected FIFA's Best Player of the season, has become a figure of disappointment for many fans, including myself - [who have always been a fan of his playing style](/vinicius-jr-an-example-of-determination). His journey from a celebrated athlete to a controversial figure has been marked by a series of incidents that have tarnished his reputation, leaving not only supporters but many people questioning his character and choices.
+Vinícius Júnior, recently declared as one of Brazil's most promising soccer talents and elected FIFA's Best Player of the season, has become a figure of disappointment for many fans, including myself - [who have always been a fan of his playing style]({{ ref "/posts/2022/vinicius-jr-an-example-of-determination.md" >}}). His journey from a celebrated athlete to a controversial figure has been marked by a series of incidents that have tarnished his reputation, leaving not only supporters but many people questioning his character and choices.
 <!--more-->
 
 The controversies surrounding Vinícius began to gain significant attention after the racist abuse and offenses he has experienced on several occasions. For example, during a match against Valencia at the Mestalla Stadium, Vinícius was subjected to persistent insults from the crowd, leading to a temporary halt in the game as officials addressed the situation.

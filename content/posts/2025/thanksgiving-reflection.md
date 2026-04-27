@@ -10,10 +10,10 @@ draft: false
 featured: false
 ---
 
-T hanksgiving always nudges me toward gratitude in places I didn’t expect. This year, the surprise guest at my table is the web, not the sprawling, algorithm‑driven beast we all complain about, but the tiny alcoves where real people still write, share, and actually listen.
+Thanksgiving always nudges me toward gratitude in places I didn’t expect. This year, the surprise guest at my table is the web, not the sprawling, algorithm‑driven beast we all complain about, but the tiny alcoves where real people still write, share, and actually listen.
 <!--more-->
 
-Since I launched my blog - and still today - I haven’t been chasing fame or followers. I just wanted a "digital notebook" where I could dump ideas, track experiments, and maybe help someone else who stumbled on the same problem. Somewhere along the line, the notebook grew legs a little bit. I even noticed [a recent thread on Hacker News](https://news.ycombinator.com/item?id=46062198) that sparked a nice debate after a fellow reader recently linked my blog post "[why 90s movies feel more alive than anything on Netflix](/why-90s-movies-feel-more-alive-than-anything-on-netflix)".
+Since I launched my blog - and still today - I haven’t been chasing fame or followers. I just wanted a "digital notebook" where I could dump ideas, track experiments, and maybe help someone else who stumbled on the same problem. Somewhere along the line, the notebook grew legs a little bit. I even noticed [a recent thread on Hacker News](https://news.ycombinator.com/item?id=46062198) that sparked a nice debate after a fellow reader recently linked my blog post "[why 90s movies feel more alive than anything on Netflix]({{< ref "/posts/2025/why-90s-movies-feel-more-alive-than-anything-on-netflix.md" >}})".
 
 What the "small web" taught me is simple: you don't need millions of followers to matter. Some of the richest dialogues happen in a single comment, a brief reply, or an occasional inbox ping that says: "I've been reading your posts for months". Those moments feel earned, not manufactured by a likes counter.
 

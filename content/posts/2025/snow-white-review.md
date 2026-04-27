@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T his is my first movie review, and it comes with lots of controversies.
+This is my first movie review, and it comes with lots of controversies.
 <!--more-->
 
 This weekend, with a mix of nostalgia, my wife, our kid, and I decided to watch the latest adaptation of *Snow White*. As someone who grew up surrounded by Disney classics, I was curious to revisit the timeless tale of the princess and the seven dwarfs. However, what unfolded on the screen was not the story I remembered. Instead, it was a misguided attempt to modernize (again) a beloved fairy tale, so drenched in political correctness that it lost the magic and charm that once defined it.

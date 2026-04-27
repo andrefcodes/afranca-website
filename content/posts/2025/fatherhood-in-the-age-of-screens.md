@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T he other day, my son looked up at me while I was scrolling through my phone and asked, "Daddy, are you working or playing?" I froze. The question wasn't accusatory, just curious, but it cut through every rationalization I had been making about my screen time.
+The other day, my son looked up at me while I was scrolling through my phone and asked, "Daddy, are you working or playing?" I froze. The question wasn't accusatory, just curious, but it cut through every rationalization I had been making about my screen time.
 <!--more-->
 
 Fatherhood in the digital age presents a peculiar paradox. We're constantly connected yet perpetually distracted. We document our children's lives obsessively while sometimes missing the actual moments we're trying to capture. I've caught myself photographing my son's first attempts at riding a bike instead of simply being there.

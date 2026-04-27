@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-A fter 18 years away from the gym, I finally decided to return. It wasn’t an easy decision, but it became inevitable as I faced the consequences of years of a sedentary lifestyle. My body was heavier, my energy levels were low, and simple daily activities started to feel like strenuous tasks.
+After 18 years away from the gym, I finally decided to return. It wasn’t an easy decision, but it became inevitable as I faced the consequences of years of a sedentary lifestyle. My body was heavier, my energy levels were low, and simple daily activities started to feel like strenuous tasks.
 <!--more-->
 
 The first day back was intimidating. Stepping into a somewhat familiar but at the same time foreign environment, surrounded by individuals lifting weights and pushing their limits, brought back memories of my younger, fitter self. This time, however, my goals were not just about aesthetics but reclaiming my health, strength, and vitality.

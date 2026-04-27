@@ -10,14 +10,14 @@ draft: false
 featured: false
 ---
 
-M eus queridos filhos, enquanto escrevo esta carta neste Natal, penso em como o tempo passa rápido e em tudo que aprendi desde que vocês chegaram à minha vida. Não quero falar sobre presentes ou decorações, mas sobre algo muito mais importante que descobri ao longo dessa jornada chamada paternidade.
+Meus queridos filhos, enquanto escrevo esta carta neste Natal, penso em como o tempo passa rápido e em tudo que aprendi desde que vocês chegaram à minha vida. Não quero falar sobre presentes ou decorações, mas sobre algo muito mais importante que descobri ao longo dessa jornada chamada paternidade.
 <!--more-->
 
 Sabe, antes mesmo de vocês nascerem, eu tinha tantas certezas sobre o que seria ser pai. Achava que sabia exatamente como educar, como guiar, como ser um exemplo. A verdade é que vocês me ensinam muito mais do que eu poderia imaginar. Cada sorriso, cada pergunta curiosa, cada abraço apertado me mostra que ser pai não é sobre ter todas as respostas, mas sobre estar presente de verdade.
 
 Neste Natal, enquanto o mundo gira acelerado e todos parecem ocupados demais, quero que vocês saibam que o que mais importa é simples assim: estarmos juntos. Não precisa ser perfeito, não precisa ser extraordinário. Os momentos que mais guardo no coração são aqueles cotidianos, quando sentamos para conversar sobre o dia, quando rimos de alguma bobagem, quando vocês me procuram só para estar perto.
 
-Aprendi que paternidade é sobre presença genuína. É sobre desligar o celular e realmente escutar o que vocês tem a dizer. É sobre errar, pedir desculpas e mostrar que adultos também estão aprendendo. É sobre criar memórias que não custam dinheiro, mas valem uma fortuna. [Como escrevi anteriomente sobre paternidade](/embracing-fatherhood/), abraçar esse papel significa aceitar a vulnerabilidade de ser imperfeito diante de quem mais amamos.
+Aprendi que paternidade é sobre presença genuína. É sobre desligar o celular e realmente escutar o que vocês tem a dizer. É sobre errar, pedir desculpas e mostrar que adultos também estão aprendendo. É sobre criar memórias que não custam dinheiro, mas valem uma fortuna. [Como escrevi anteriomente sobre paternidade]({{< ref "/posts/2023/embracing-fatherhood.md" >}}), abraçar esse papel significa aceitar a vulnerabilidade de ser imperfeito diante de quem mais amamos.
 
 Nesta época do ano, quando todos falam sobre dar e receber, quero que vocês entendam que o maior presente que posso lhes oferecer é meu tempo, minha atenção, minha presença. É estar ali quando vocês precisarem, é compartilhar seus sonhos e também seus medos. É construir juntos uma relação baseada em confiança e amor verdadeiro.
 

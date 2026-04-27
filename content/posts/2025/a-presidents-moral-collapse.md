@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I 've reached a point where I can no longer stomach the kind of intellectual dishonesty that passes for political discourse in Brazil. When President Lula stood in Jakarta and declared that drug traffickers are "victims of users", he didn't just make a political gaffe or stumble over his words. He revealed something far more sinister: a complete moral collapse at the highest levels of Brazilian leadership, a willingness to excuse the inexcusable, and a contempt for the millions of Brazilians who live in terror of the criminals his words defend.
+I've reached a point where I can no longer stomach the kind of intellectual dishonesty that passes for political discourse in Brazil. When President Lula stood in Jakarta and declared that drug traffickers are "victims of users", he didn't just make a political gaffe or stumble over his words. He revealed something far more sinister: a complete moral collapse at the highest levels of Brazilian leadership, a willingness to excuse the inexcusable, and a contempt for the millions of Brazilians who live in terror of the criminals his words defend.
 <!--more-->
 
 Let me be brutally clear about what we're dealing with here. Drug traffickers are not misunderstood entrepreneurs. They're not victims of circumstance forced into regrettable choices. They are predators who have chosen violence, chosen to destroy communities, chosen to profit from human misery. When Lula calls these monsters "victims," he spits in the face of every mother who has buried a child caught in crossfire, every shopkeeper forced to pay extortion, every resident of a favela who can't let their kids play outside because armed thugs control the streets.

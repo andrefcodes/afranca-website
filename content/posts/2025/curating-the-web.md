@@ -10,7 +10,7 @@ tags: ["Blogging", "Blogroll", "Digital Gardening", "IndieWeb"]
 draft: false
 ---
 
-T here's something curiously nostalgic about maintaining a blogroll these days. It's like tending a garden in a world where everyone consumes ultra-processed food delivered by algorithmic drones. While Twitter, Instagram, or TikTok feeds push content at you based on what you theoretically want to see, a blogroll is a deliberate statement about what you actually value. It's slow, quiet, and deeply personal.
+There's something curiously nostalgic about maintaining a blogroll these days. It's like tending a garden in a world where everyone consumes ultra-processed food delivered by algorithmic drones. While Twitter, Instagram, or TikTok feeds push content at you based on what you theoretically want to see, a blogroll is a deliberate statement about what you actually value. It's slow, quiet, and deeply personal.
 <!--more-->
 
 I've spent the last few months revisiting my own blogroll at afranca.com.br/blogroll, and the process has made me think about how the web has changed and how, paradoxically, some of its oldest features are coming back with renewed force. The blogroll, that humble list of links to other sites and blogs, seemed like a relic until recently. Now it returns as active resistance against the centralized, algorithmic web that was sold to us as progress.

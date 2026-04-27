@@ -13,7 +13,7 @@ featured: false
 I keep writing in public, even when it sometimes feels like standing naked in a crowded room. There's something terrifying about hitting the "publish button", knowing that anyone can read, judge, or misinterpret what I've written. Yet here I am, still doing it.
 <!--more-->
 
-When [I wrote about "the power of writing"](/the-power-of-writing) before, I focused on the personal benefits like the clarity, the thinking process, the way words help me understand myself better. But publishing? That's a different beast entirely. It adds a layer of vulnerability that private journaling never demands. Every post is a tiny act of courage, or maybe foolishness, I'm not always sure which.
+When [I wrote about "the power of writing"]({{ ref "/posts/2024/the-power-of-writing.md" >}}) before, I focused on the personal benefits like the clarity, the thinking process, the way words help me understand myself better. But publishing? That's a different beast entirely. It adds a layer of vulnerability that private journaling never demands. Every post is a tiny act of courage, or maybe foolishness, I'm not always sure which.
 
 The internet doesn't forget, and people can be harsh. I've learned this the hard way. But here's the thing: the potential for judgment is also the potential for connection. Someone, somewhere, might read what I wrote and think "oh, I thought I was the only one who felt that way." That possibility makes the risk worthwhile.
 

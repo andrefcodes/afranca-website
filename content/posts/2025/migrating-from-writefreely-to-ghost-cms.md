@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I ’m starting to think I’ve become a professional digital nomad, except the "nomad" part is my blog. Last October I proudly announced my escape from Hugo to WriteFreely, bragging about finally finding a platform that let my words breathe.
+I’m starting to think I’ve become a professional digital nomad, except the "nomad" part is my blog. Last October I proudly announced my escape from Hugo to WriteFreely, bragging about finally finding a platform that let my words breathe.
 <!--more-->
 
 Fast forward a month and a half, and here I am, elbow‑deep in another migration, this time to GhostCMS, because apparently my appetite for new features outweighs my tolerance for learning curves. I imagined the transition would be a swift hop, but instead it turned into a marathon of manual copy‑pastes, theme‑tweaking, and a healthy dose of "why did I think this would be easy?".

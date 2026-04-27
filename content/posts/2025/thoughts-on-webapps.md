@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I 've been thinking about webapps lately, especially as I watch the endless cycle of software updates, permission requests, and the nagging feeling that every binary I download might be doing something I didn't agree to in the background.
+I've been thinking about webapps lately, especially as I watch the endless cycle of software updates, permission requests, and the nagging feeling that every binary I download might be doing something I didn't agree to in the background.
 <!--more-->
 
 The browser has become, almost by accident, one of the most sophisticated sandboxes we have. When you run a webapp, you're essentially putting that application in a padded room where it can't easily reach out and touch things it shouldn't. It can't rummage through your files without asking. It can't silently phone home with your data unless you notice the network activity. The browser is paranoid on your behalf, and that's actually good.

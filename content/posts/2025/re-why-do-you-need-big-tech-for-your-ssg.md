@@ -10,10 +10,10 @@ draft: false
 featured: false
 ---
 
-T he recent Cloudflare outage sparked an interesting talk in the small web community. I wrote about [the fragile architecture we've built](/the-fragile-web-we-built), where a single configuration file brought down half the internet. Kev Quirk responded with a compelling argument: [why rely on big tech at all](https://kevquirk.com/blog/why-do-you-need-big-tech-for-your-ssg/)? Just spin up a VPS, build locally, and rsync your way to independence. Meanwhile, Loren Stephens offered [a more pragmatic perspective](https://ldstephens.net/blog/re-why-do-you-need-big-tech-for-your-ssg-kev-quirk/), pointing out that not everyone wants to become a sysadmin for their personal blog.
+The recent Cloudflare outage sparked an interesting talk in the small web community. I wrote about [the fragile architecture we've built]({{< ref "/posts/2025/the-fragile-web-we-built.md" >}}), where a single configuration file brought down half the internet. Kev Quirk responded with a compelling argument: [why rely on big tech at all](https://kevquirk.com/blog/why-do-you-need-big-tech-for-your-ssg/)? Just spin up a VPS, build locally, and rsync your way to independence. Meanwhile, Loren Stephens offered [a more pragmatic perspective](https://ldstephens.net/blog/re-why-do-you-need-big-tech-for-your-ssg-kev-quirk/), pointing out that not everyone wants to become a sysadmin for their personal blog.
 <!--more-->
 
-I get both sides because I've lived through both approaches. When I launched the [first version of my blog](/website-version-4-0/#version-1-0), I used GitHub and Vercel - and [Simple.css](https://simplecss.org/) (Thanks Kev, btw). Push to main, watch it deploy, done. It was perfect for someone who just wanted to write without thinking about server configurations.
+I get both sides because I've lived through both approaches. When I launched the [first version of my blog]({{< ref "website-version-4-0.md#version-10" >}}), I used GitHub and Vercel - and [Simple.css](https://simplecss.org/) (Thanks Kev, btw). Push to main, watch it deploy, done. It was perfect for someone who just wanted to write without thinking about server configurations.
 
 But Kev's point about control resonates too. There's something oddly satisfying about knowing exactly where your bits live and how they get there. No mysterious build pipelines, no waiting for someone else's infrastructure to wake up. Just you, a bash script, and direct access to your server. For someone technical enough to handle it, the simplicity is also great.
 

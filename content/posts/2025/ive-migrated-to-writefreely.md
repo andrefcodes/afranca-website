@@ -21,8 +21,6 @@ The blog is now powered by WriteFreely, a minimalist, federated blogging platfor
 
 I have not set up redirects for old links, except for the RSS feed.
 
-RSS feed now ends in /feed/ instead of the old /feed.xml.
-
 If you're subscribed via RSS, your feed reader should automatically follow the redirect to the new feed URL.
 
 ## What to Expect

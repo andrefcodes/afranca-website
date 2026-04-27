@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-M cLaren is definitely letting Max Verstappen dream. Since I started following F1, this is the first time I've seen a team so dominant do absolutely everything in its power to lose the drivers’ championship.
+McLaren is definitely letting Max Verstappen dream. Since I started following F1, this is the first time I've seen a team so dominant do absolutely everything in its power to lose the drivers’ championship.
 <!--more-->
 
 With Verstappen’s recent win in Qatar - thanks to yet another absurd mistake by McLaren - the gap between them was reduced to just 12 points. In other words, if Max wins the Abu Dhabi race and Lando finishes fourth, the title will go to the current four‑time world champion.

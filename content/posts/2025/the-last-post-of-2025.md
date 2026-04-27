@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-A s we close the books on 2025, I find myself reflecting on this incredible journey we've shared together. This blog started back in 2022 as a simple outlet for my thoughts on technology. What I never expected was the small community that would form around it.
+As we close the books on 2025, I find myself reflecting on this incredible journey we've shared together. This blog started back in 2022 as a simple outlet for my thoughts on technology. What I never expected was the small community that would form around it.
 <!--more-->
 
 Your comments, emails, and shared experiences have transformed what could have been a solitary monologue into something far more meaningful. Looking ahead to 2026, I'm genuinely excited about what we'll explore together.

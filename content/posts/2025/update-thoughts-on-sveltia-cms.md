@@ -10,9 +10,9 @@ draft: false
 featured: false
 ---
 
-T his is a quick update on Sveltia CMS.
+This is a quick update on Sveltia CMS.
 <!--more-->
 
-I recently shared my [thoughts on it](/thoughts-on-sveltia-cms/), and a few days later, the dev team released [version 0.70.0](https://github.com/sveltia/sveltia-cms/releases/tag/v0.70.0), which now officially supports mobile devices! 📱
+I recently shared my [thoughts on it]({{< ref "/posts/2025/thoughts-on-sveltia-cms.md" >}}), and a few days later, the dev team released [version 0.70.0](https://github.com/sveltia/sveltia-cms/releases/tag/v0.70.0), which now officially supports mobile devices! 📱
 
 This update has made my life easier. I can review and update content right from my phone, whether I’m commuting, traveling, or just away from my desk. Super convenient and a big win for flexibility.

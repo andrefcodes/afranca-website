@@ -10,12 +10,12 @@ tags: ["Blogging", "Technology", "OpenWeb"]
 draft: false
 ---
 
-W hy to maintain a blog in 2025?
-<!--more-->
+Why to maintain a blog in 2025?
 
 While the digital landscape continues to consolidate around many platforms, each promising reach and engagement and the holy grail of virality, some people still choose to write on their own little corner of the web. They update their domains, fiddle with their CSS, mess around with their static site generators, and publish posts that maybe no one will ever read, or maybe a hundred people will read, if they're lucky. It's not rational by modern metrics, and that's precisely what makes it beautiful.
+<!--more-->
 
-I've been thinking about this lately while going through my blogroll (a practice of [curating links to sites you actually want to read](/curating-the-web)), and I'd like to mention three blogs from that list. They're not trying to reach big audiences or optimize for algorithms, but they've figured out something most of us forgot: our voice matters more when it's genuinely ours.
+I've been thinking about this lately while going through my blogroll (a practice of [curating links to sites you actually want to read]({{< ref "/posts/2025/curating-the-web.md" >}})), and I'd like to mention three blogs from that list. They're not trying to reach big audiences or optimize for algorithms, but they've figured out something most of us forgot: our voice matters more when it's genuinely ours.
 
 Kev Quirk writes at [kevquirk.com](https://kevquirk.com) with the kind of straightforwardness that feels radical in an age of hot takes and engagement bait. His posts about technology, privacy, the open web - and his collection of watches - don't try to manufacture urgency or controversy. He's just someone who clearly thinks deeply about digital autonomy and shares those thoughts without pretense. That authenticity is rare. Most tech writing either tries too hard to be authoritative or bends over backward to seem relatable. Kev just writes like himself.
 
