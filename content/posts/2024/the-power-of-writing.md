@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-S ome time ago, my therapist helped me understand a desire I've always had: to express myself more and better.
+Some time ago, my therapist helped me understand a desire I've always had: to express myself more and better.
 <!--more-->
 
 Introverts like me tend to suffer because we can't get our feelings, desires, and wishes out. Often, we have inner thoughts that can cause pain in our chest and throat because we want to share them with someone, but nothing comes out of our mouths.

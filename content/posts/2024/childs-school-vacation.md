@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-H ere in the southern hemisphere, we're already heading towards the worst season of all: the Summer.
+Here in the southern hemisphere, we're already heading towards the worst season of all: the Summer.
 <!--more-->
 
 My family love this season, but I don't cope very well with any temperature above 20ºC/68ºF. I dare say that since we moved from the US to Brazil, a snowy winter is what I miss the most. Now, it's only during family vacations.

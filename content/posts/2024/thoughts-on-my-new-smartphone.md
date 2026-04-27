@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I t's been three days with my new smartphone, a Samsung Galaxy s24 Ultra, and I confess that it's been pretty boring.
+It's been three days with my new smartphone, a Samsung Galaxy s24 Ultra, and I confess that it's been pretty boring.
 <!--more-->
 
 Well, the phone is fast and responsive compared to my old iPhone 11 Pro Max, but my learning curve has been slower than I anticipated, given that I haven't used Android for at least 6 years. Unlike iOS, there are many layers of customization (which is a positive point), but my mindset is still geared towards a simpler, more objective interface, which has been causing me some mental confusion.

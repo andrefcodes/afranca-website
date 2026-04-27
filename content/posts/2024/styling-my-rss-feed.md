@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-R ecently, I came across the post "[Styling RSS and Atom feeds](https://rknight.me/blog/styling-rss-and-atom-feeds)" by Robb Knight, where he styled his RSS feed in a way that a person could read, instead of a machine-readable `.xml` file.
+Recently, I came across the post "[Styling RSS and Atom feeds](https://rknight.me/blog/styling-rss-and-atom-feeds)" by Robb Knight, where he styled his RSS feed in a way that a person could read, instead of a machine-readable `.xml` file.
 <!--more-->
 
 Styling the RSS feed is possible with the help of XSLT (Extensible Stylesheet Language Transformations), which transforms our `.xml` file into other document types, such as HTML.
@@ -107,11 +107,11 @@ This code was based on [Pretty Feed v3](https://github.com/genmon/aboutfeeds/blo
 
 This is the before and after:
 
-![](/content/images/2025/12/dd9cbdae-5073-49f8-8a77-ab9050367b06.webp)
+![](/uploads/dd9cbdae-5073-49f8-8a77-ab9050367b06.webp)
 
 **Before**
 
-![](/content/images/2025/12/2f11be8e-98ce-4d35-9b15-17a9287e9a57.webp)
+![](/uploads/2f11be8e-98ce-4d35-9b15-17a9287e9a57.webp)
 
 **After**
 

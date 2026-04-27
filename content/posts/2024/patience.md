@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-W e rarely notice behavioral changes in ourselves unless someone points them out. One reason is that we often don’t pay enough attention to ourselves.
+We rarely notice behavioral changes in ourselves unless someone points them out. One reason is that we often don’t pay enough attention to ourselves.
 <!--more-->
 
 We tend to robotize and normalize our daily actions, and before we know it, we may be dealing with a serious problem or addiction, and so on.

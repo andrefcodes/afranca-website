@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-# # First: Lando Norris and his Sportsmanship
+## First: Lando Norris and his Sportsmanship
 <!--more-->
 
 Lando Norris, who is often criticized for not being aggressive enough in his battles against his opponents, often shows a very calm demeanor in his decisions.

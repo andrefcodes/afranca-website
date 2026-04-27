@@ -10,10 +10,10 @@ draft: false
 featured: false
 ---
 
-Y esterday, when I went to the website of my email provider, Skiff (a privacy-focused productivity platform), I came across the announcement that the company had been sold to Notion.
+Yesterday, when I went to the website of my email provider, Skiff (a privacy-focused productivity platform), I came across the announcement that the company had been sold to Notion.
 <!--more-->
 
-![](/content/images/2025/12/bc05c5c8-3f77-4d21-8a77-bcfd11ce2c1e.webp)
+![](/uploads/bc05c5c8-3f77-4d21-8a77-bcfd11ce2c1e.webp)
 
 **Skiff Homepage - Screenshot taken on 02/10/24**
 
@@ -23,7 +23,7 @@ Y esterday, when I went to the website of my email provider, Skiff (a privacy-fo
 
 I followed the instructions on [how to migrate data](https://skiff.com/data-migration) provided at the bottom of the page
 
-![](/content/images/2025/12/90fbf793-b756-4adf-990e-222be1c13f6b.webp)
+![](/uploads/90fbf793-b756-4adf-990e-222be1c13f6b.webp)
 
 **Link to Instructions on how to migrate your data located at the bottom of the** page
 
@@ -31,7 +31,7 @@ I had migrated to Skiff a few months ago when I began the transition from the Ap
 
 Before I hosted my email with Apple, I used Zoho Mail as my provider. The company doesn't call itself privacy-focused, but it offers an incredible service with reasonable prices, and its [privacy policy](https://www.zoho.com/mail/privacy.html) is very straightforward.
 
-![](/content/images/2025/12/bdb706de-b958-4f98-8e88-4433ac371d94.webp)![](/content/images/2025/12/2d350588-7038-42c0-8920-af94b6f2de1a.webp)![](/content/images/2025/12/8dc0841e-0608-4ebd-9018-5434c130e318.webp)
+![](/uploads/bdb706de-b958-4f98-8e88-4433ac371d94.webp)![](/uploads/2d350588-7038-42c0-8920-af94b6f2de1a.webp)![](/uploads/8dc0841e-0608-4ebd-9018-5434c130e318.webp)
 
 **Zoho Mail Privacy Policy**
 

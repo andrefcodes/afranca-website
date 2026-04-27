@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I 'm very upset these days. The web is really messed up. Can we really achieve even a little privacy? Some argue that it is a human right, but to me, privacy seems like a discussion for the elite, where only a few can afford this "luxury", given the huge number of products we have to pay a premium price for in order to get a little privacy.
+I'm very upset these days. The web is really messed up. Can we really achieve even a little privacy? Some argue that it is a human right, but to me, privacy seems like a discussion for the elite, where only a few can afford this "luxury", given the huge number of products we have to pay a premium price for in order to get a little privacy.
 <!--more-->
 
 Some time ago, I tried to de-google myself, but one of the few things I couldn't give up was my dependency on YouTube. I follow a lot of journalistic content on the platform, as many media outlets are moving their content there.

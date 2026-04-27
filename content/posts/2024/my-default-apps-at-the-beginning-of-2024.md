@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-L ast year, several people shared their list of default apps, and it was fun to follow the various blogs and see what people have been using.
+Last year, several people shared their list of default apps, and it was fun to follow the various blogs and see what people have been using.
 <!--more-->
 
 If you're interested, [Robb Knight keeps a list](https://defaults.rknight.me/) of everyone who has joined.
@@ -45,4 +45,4 @@ Better late than never, this is my list, containing my default apps at the begin
 - Email Aliases: SimpleLogin / Addy
 - VPN: Tailscale / IVPN
 
-**Update:** I now keep an up-to-date version at "[Things I use](/uses)"
+**Update:** I now keep an up-to-date version at "[Things I use]({{< ref "/pages/uses.md" >}})"

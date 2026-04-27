@@ -10,12 +10,8 @@ draft: false
 featured: false
 ---
 
-‚ ùó
-<!--more-->
-
-****CW:**** Reports of suicide attempt, depression, and substance abuse.
-
 I was wondering whether or not to write this post because it's personal and painful. However, after being woken up by my son who was having trouble sleeping, I found myself awake at 4am, thinking about how to get started.
+<!--more-->
 
 This story is about a friend of mine, whom I will refer to as April for privacy reasons.
 

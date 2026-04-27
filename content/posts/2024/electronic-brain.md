@@ -10,6 +10,8 @@ draft: false
 featured: false
 ---
 
-* Read* [*“Cérebro Eletrônico” by Marisa Monte*](https://genius.com/Marisa-monte-cerebro-eletronico-lyrics) *on Genius*
+{{< youtube NzdxvhhzV1Q>}}
+
+ [Read the lyrics](https://genius.com/Marisa-monte-cerebro-eletronico-lyrics) *on Genius*.
 
 <!--more-->

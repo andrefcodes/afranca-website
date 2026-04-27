@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-A fter running into some dependency issues and long build and deployment times on Cloudflare, I decided it was finally time to move away from Jekyll and switch to a different Static Site Generator.
+After running into some dependency issues and long build and deployment times on Cloudflare, I decided it was finally time to move away from Jekyll and switch to a different Static Site Generator.
 <!--more-->
 
 I’ve tried other ways of publishing on my blog before, like Ghost and 11ty, but this time I went with Hugo.

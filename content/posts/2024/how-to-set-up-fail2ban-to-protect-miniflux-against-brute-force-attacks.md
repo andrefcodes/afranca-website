@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I f you self-host your own instance of Miniflux (a RSS Feed Reader) and have it exposed publicly to the internet, it is a good idea to protect it against brute force attacks.
+If you self-host your own instance of Miniflux (a RSS Feed Reader) and have it exposed publicly to the internet, it is a good idea to protect it against brute force attacks.
 <!--more-->
 
 I'm not going into details on how to install it, as it's already well documented on [the official webpage](https://miniflux.app/docs/installation.html).
