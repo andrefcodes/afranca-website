@@ -23,7 +23,7 @@ I believe personal spaces like this, simple, accessible, and decentralized blogs
 
 ## Things I use
 
-I maintain a dedicated page listing [the hardware and software I currently use](/uses/).
+I maintain a dedicated page listing [the hardware and software I currently use]({{< ref "/pages/uses.md" >}}).
 
 ## Privacy and Terms
 
