@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-F rom now on, all my content will be available at [~~https://abf.li/~~](https://abf.li/) [https://afranca.com.br](/) in place of the old afhub.dev.
+From now on, all my content will be available at ~~https://abf.li/~~ [https://afranca.com.br](/) in place of the old afhub.dev.
 <!--more-->
 
 In the next few hours, I'll set up some url redirects from the old domain to this one to make the transition easier for readers. Redirects will last for the period of time that the old domain remains valid.
@@ -21,6 +21,6 @@ The main reason is that I want to make my blog more personal (not only tech rela
 
 The new domain is shorter, easy to remember, really cool (in my opinion), and cheaper to renew.
 
-For those who follow me using a newsreader client, the new rss feed url is [https://afranca.com.br/rss/](/rss/).
+For those who follow me using a newsreader client, the new rss feed url is [https://afranca.com.br/rss/](/feed.xml).
 
 Please update it.

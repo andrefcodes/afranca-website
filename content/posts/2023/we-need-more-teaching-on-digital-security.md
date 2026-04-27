@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-F or the second time this month, my wife received two messages where the sender offered some crazy opportunity to make money or asked her for financial help. She became suspicious of both messages.
+For the second time this month, my wife received two messages where the sender offered some crazy opportunity to make money or asked her for financial help. She became suspicious of both messages.
 <!--more-->
 
 The first message was a blatant fraud; the second drew her attention because it was not from a close contact.

@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T he 2023 Formula One season is about to start, and I'm excited.
+The 2023 Formula One season is about to start, and I'm excited.
 <!--more-->
 
 I've always been a motor racing fan, not only Formula One, and this passion made me want to learn and compete in virtual races.

@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T his is, but not really, a reply to the post “[De-brand](https://minutestomidnight.co.uk/blog/de-brand/)”, written by Simone Silvestroni. Actually, it made me want to share some thoughts on this subject.
+This is, but not really, a reply to the post “[De-brand](https://minutestomidnight.co.uk/blog/de-brand/)”, written by Simone Silvestroni. Actually, it made me want to share some thoughts on this subject.
 <!--more-->
 
 This “branding ourselves” situation has become a trend for the past couple of years due to many aspects. The way I picture the world, I would name three as the most relevant: the financial disparity between the regular people and the super-rich; the excess of technology development, e.g. artificial intelligence, that urges people to abruptly change their formation and jobs to survive; and the big tech role to promote social media addiction, besides being the scene for dissemination of the, somewhat misleading, digital marketing and personal branding content, of which I consider an abomination.

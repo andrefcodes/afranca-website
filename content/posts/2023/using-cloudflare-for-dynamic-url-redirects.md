@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-A couple of days ago, a [domain switch](/switching-from-afhub-dev-domain) took place on this website, and I wanted to have a way to dynamically1 forward URLs from the old domain to the new one, preserving the current permalink structure.
+A couple of days ago, a [domain switch]({{< ref "posts/2023/switching-from-afhub-dev-domain.md" >}}) took place on this website, and I wanted to have a way to dynamically [^1] forward URLs from the old domain to the new one, preserving the current permalink structure.
 <!--more-->
 
 Searching the web, I came across the ["Using Netlify for Dynamic URL Redirects"](https://btxx.org/posts/netlify-urls/) article, written by Brad Taunt. The problem is, I didn't want to sign up for Netlify just for that.
@@ -27,7 +27,7 @@ My blog is already hosted on Cloudflare, so it made sense to me to use it for th
 $ touch _redirects index.html 404.html
 ```
 
-- Add the following2 to your `_redirects` file:
+- Add the following [^2] to your `_redirects` file:
 
 ```
 /  https://domain.tld  301
@@ -80,8 +80,7 @@ Cloudflare will be in charge of generating an SSL certificate for you, and by no
 
 **TIP**: A similar approach can be used to have your big URLs shortened to another small domain.tld. Of course, without all the telemetry those URL shortener services provide.
 
----
 
-[1] Dynamically in this case means preserving the current permalink structure, instead of DNS forwarding setup, which doesn't allow this level of customization.
+[^1]: Dynamically in this case means preserving the current permalink structure, instead of DNS forwarding setup, which doesn't allow this level of customization.
 
-[2] Feel free to add to your `_redirects` file a different set of rules. [All options are well documented here](https://developers.cloudflare.com/pages/platform/redirects).
+[^2]: Feel free to add to your `_redirects` file a different set of rules. [All options are well documented here](https://developers.cloudflare.com/pages/platform/redirects).

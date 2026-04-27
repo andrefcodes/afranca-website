@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-T he privilege of being present in a child's life is given to few. I'll set aside any politically correct concerns, but I won't refrain from saying that men in general often behave badly, which prevents them from enjoying an incredible experience, which is fatherhood.
+The privilege of being present in a child's life is given to few. I'll set aside any politically correct concerns, but I won't refrain from saying that men in general often behave badly, which prevents them from enjoying an incredible experience, which is fatherhood.
 <!--more-->
 
 Every man should salute a mother, the one who dedicates herself to her child, who loses many nights of sleep, who educates and feeds them.

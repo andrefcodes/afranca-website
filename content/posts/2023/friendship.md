@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I t's funny how we create bonds of friendship. These bonds are often made up of common interests or difficulties, some of family proximity, admiration, or even some random event without explanation.
+It's funny how we create bonds of friendship. These bonds are often made up of common interests or difficulties, some of family proximity, admiration, or even some random event without explanation.
 <!--more-->
 
 What all friendships have in common, however, besides mutual respect, is, in my view, the freedom to share feelings openly, to be who we are without judgment, and the absence of a predetermined give-and-take relationship or obligation.

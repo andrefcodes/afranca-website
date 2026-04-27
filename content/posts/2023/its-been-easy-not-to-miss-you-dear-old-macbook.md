@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-R ecently, I was having a bad time with my macbook, and I wrote a post sharing my experiences.
+Recently, I was having a bad time with my macbook, and [I wrote a post sharing my experiences]({{< ref "/posts/2023/having-a-bad-time-with-my-macbook-pro.md" >}}).
 <!--more-->
 
 Those who know me are aware of my thoughts on technology waste, and how I try to keep and use my devices for as long as they last. There's one exception, though: a product is so horrible that it makes me struggle to get my things done.
@@ -21,7 +21,7 @@ I had a clear view of what I wanted my new laptop to be/offer:
 
 - Non-Apple;
 - Bigger display of at least 15";
-- Ports (not only two miserable USB-C ports;
+- Ports (not only two miserable USB-C ports);
 - Decent amount of memory with possibility to upgrade;
 - A processor that could stand for a couple of years without struggling;
 - Fit my humble budget of $1400;
@@ -53,7 +53,7 @@ By that time, I was getting a bit disappointed, and I headed to Lenovo website t
 
 Just by curiosity, looking at the gaming laptops section, I got impressed to find pretty decent machines with fair prices, including the one from where I'm writing this post, a Lenovo Legion i5 Pro Gen7.
 
-![Image of a Lenovo Legion 5i Pro Gen7 Laptop](https://i.abf.li/014943be-72c4-490e-82fa-1fff17d16c8a.webp)
+![Image of a Lenovo Legion 5i Pro Gen7 Laptop](/uploads/014943be-72c4-490e-82fa-1fff17d16c8a.webp)
 
 *Lenovo Legion 5i Pro Gen7 Laptop*
 

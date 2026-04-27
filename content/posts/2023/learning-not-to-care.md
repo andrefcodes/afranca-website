@@ -10,7 +10,7 @@ draft: false
 featured: false
 ---
 
-I n my imagination, I've always entertained the idea of trying to be a person whose actions benefited the common good at the expense of my own interests. Far from being a monk or a saint, I try to live my life this way.
+In my imagination, I've always entertained the idea of trying to be a person whose actions benefited the common good at the expense of my own interests. Far from being a monk or a saint, I try to live my life this way.
 <!--more-->
 
 While thinking about others has become natural to me, I have never understood people with high levels of selfishness, narcissism, and arrogant individuals. That was until my downstairs neighbor began complaining about alleged noise coming from my apartment.
