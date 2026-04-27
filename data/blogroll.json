@@ -414,12 +414,6 @@
         "description": "Personal blog by Steve Ledlow, sharing reflections on career, creativity, productivity, and experiments in living intentionally."
     },
     {
-        "name": "The New Oil",
-        "link": "https://blog.thenewoil.org",
-        "rss": "https://blog.thenewoil.org/feed/",
-        "description": "Privacy and security blog offering guides, reviews, and commentary on digital privacy, secure tools, and online safety for everyone."
-    },
-    {
         "name": "Thord D. Hedengren",
         "link": "https://bored.horse",
         "rss": "https://bored.horse/feed.xml",
