@@ -1,0 +1,24 @@
+name = "abf"
+compatibility_date = "2026-04-27"
+preview_urls = false
+workers_dev = false
+
+# Static Assets configuration for Cloudflare Workers
+[assets]
+directory = "./public"
+# Serve index.html for all routes (SPA routing)
+not_found_handling = "404-page"
+
+# No main worker script needed for pure static site hosting
+# All files in ./public will be served directly
+
+# Build configuration (informational - actual build happens before wrangler deploy)
+# Build command: hugo build
+# Output directory: ./public
+
+# Disable Telemetry
+send_metrics=false
+
+# Custom Variables
+[vars]
+HUGO_VERSION = "0.160.1"
