@@ -1,13 +1,21 @@
 {{- $authorName := site.Params.author.name | default site.Title -}}
 {{- $authorEmail := site.Params.author.email | default "" -}}
-{{- $pages := where .Site.RegularPages "Section" "posts" -}}
+{{- $pages := slice -}}
+{{- with site.GetPage "/posts" -}}
+  {{- $pages = union $pages .RegularPagesRecursive -}}
+{{- end -}}
+{{- with site.GetPage "/rss-only" -}}
+  {{- $pages = union $pages .RegularPagesRecursive -}}
+{{- end -}}
+{{- $pages = sort $pages "Date" "desc" -}}
 {{- $limit := .Site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 	{{- $pages = first $limit $pages -}}
 {{- end -}}
 {{- $feedUpdated := now -}}
-{{- if gt (len $pages) 0 -}}
-	{{- $feedUpdated = (index $pages.ByLastmod.Reverse 0).Lastmod -}}
+{{- $updatedPages := sort $pages "Lastmod" "desc" -}}
+{{- if gt (len $updatedPages) 0 -}}
+	{{- $feedUpdated = (index $updatedPages 0).Lastmod -}}
 {{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" | safeHTML -}}
 {{- printf "<?xml-stylesheet type=\"text/xsl\" href=\"%s\"?>\n" ("/xsl/atom.xsl" | absURL) | safeHTML -}}
