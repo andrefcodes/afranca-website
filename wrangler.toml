@@ -3,6 +3,9 @@ compatibility_date = "2026-04-27"
 preview_urls = false
 workers_dev = false
 
+# Disable Telemetry
+send_metrics=false
+
 # Static Assets configuration for Cloudflare Workers
 [assets]
 directory = "./public"
@@ -15,9 +18,6 @@ not_found_handling = "404-page"
 # Build configuration (informational - actual build happens before wrangler deploy)
 # Build command: hugo build
 # Output directory: ./public
-
-# Disable Telemetry
-send_metrics=false
 
 # Custom Variables
 [vars]
