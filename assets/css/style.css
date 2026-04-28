@@ -248,6 +248,28 @@ header {
     fill: currentColor;
 }
 
+/* Search icon in header */
+.nav-search {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    color: var(--main-text-color);
+    text-decoration: none;
+    align-self: flex-end;
+}
+
+.nav-search:hover {
+    color: var(--link-color);
+}
+
+.nav-search svg {
+    width: 18px;
+    height: 18px;
+    stroke: currentColor;
+}
+
 /* Search button */
 .gh-search {
     display: inline-flex;
@@ -1978,10 +2000,52 @@ details[open] > *:last-child {
 }
 
 .blogroll-download-wrap {
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
     margin: 1rem 0 1.5rem;
 }
 
+.blogroll-download-wrap .gh-head-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    width: 180px;
+    height: 40px;
+    padding: 0;
+    font-size: 0.95rem;
+    line-height: 1.2;
+    color: hsl(0, 0%, 15%);
+}
+
 .blogroll-download-wrap .gh-head-button:hover {
-    color: var(--notice-text-color) !important;
+    color: hsl(0, 0%, 15%);
+    opacity: 0.9;
+}
+
+.blogroll-random-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    appearance: none;
+    -webkit-appearance: none;
+    width: 180px;
+    height: 40px;
+    padding: 0;
+    border: 0;
+    border-radius: 4px;
+    background: hsl(120, 50%, 45%);
+    color: var(--notice-text-color);
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.2;
+    cursor: pointer;
+}
+
+.blogroll-random-button:hover {
+    background: hsl(120, 50%, 40%);
+    color: var(--notice-text-color);
 }
