@@ -16,12 +16,15 @@
         <tbody>
             {{ $paginator := .Paginate .Pages.ByTitle }}
             {{ range $paginator.Pages }}
+            {{ $visibleCount := len (where .Pages "Section" "!=" "rss-only") }}
+            {{ if gt $visibleCount 0 }}
             <tr class="h-entry">
                 <td>
                     <a class="p-name u-url" href="{{ .RelPermalink }}">#{{ .Title }}</a>
                 </td>
-                <td class="td-date">{{ len .Pages }}</td>
+                <td class="td-date">{{ $visibleCount }}</td>
             </tr>
+            {{ end }}
             {{ end }}
         </tbody>
     </table>
@@ -35,7 +38,7 @@
             </tr>
         </thead>
         <tbody>
-            {{ $paginator := .Paginate .Pages }}
+            {{ $paginator := .Paginate (where .Pages "Section" "!=" "rss-only") }}
             {{ range $paginator.Pages }}
             <tr class="h-entry">
                 <td>
