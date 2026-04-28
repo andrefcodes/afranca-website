@@ -35,6 +35,7 @@ The site is focused on a fast, lightweight, and accessible reading experience.
 Main directories you will use most often:
 
 - `content/posts/`: published posts
+- `content/rss-only/`: feed-only posts that do not generate web pages
 - `content/pages/`: static pages (about, contact, blogroll, etc.)
 - `content/search/`: search page content
 - `layouts/`: custom templates and partials for this website
