@@ -11,7 +11,10 @@ This is a list of my favorite blogs from around the World Wide Web.
 
 Subscribe to all blogs below by downloading this OPML file and importing it into your newsreader.
 
-<p class="blogroll-download-wrap"><a class="gh-head-button" href="/blogroll.opml" download="blogroll.opml" type="application/opml+xml" title="Download blogroll OPML">Download blogroll.opml</a></p>
+<p class="blogroll-download-wrap">
+	<a class="gh-head-button" href="/blogroll.opml" download="blogroll.opml" type="application/opml+xml" title="Download blogroll OPML">Download blogroll.opml</a>
+	<button class="gh-head-button blogroll-random-button" type="button">Random blog</button>
+</p>
 
 {{< blogroll >}}  
 
