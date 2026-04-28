@@ -1,3 +1,4 @@
+{{ $hostname := .Site.Params.hostname }}
 {{ $blogroll := sort hugo.Data.blogroll "name" }}
 {{ $.Scratch.Set "currentLetter" "" }}
 {{ range $blogroll }}
@@ -9,7 +10,7 @@
     {{ end }}
     <p>
         <strong>
-            <a href="{{ .link }}" rel="noopener" target="_blank">{{ .name }}</a>
+            <a class="blogroll-link" href="{{ .link }}/?ref={{ $hostname }}" rel="noopener" target="_blank">{{ .name }}</a>
         </strong>
         ~
         <a href="{{ .rss }}" rel="noopener" target="_blank">RSS</a>
