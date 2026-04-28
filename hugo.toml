@@ -13,6 +13,8 @@ summarylength = 70
   [permalinks.page]
     posts = "/:slug/"
     pages = "/:slug/"
+    rss-only = "/:slug/"
+
   [permalinks.section]
     posts = "/posts/"
 
@@ -20,6 +22,7 @@ summarylength = 70
   description = "Welcome to my personal blog, where I share my thoughts and interests"
   tagline = "I'm Andre, a tech nerd and open source enthusiast"
   colorScheme = "Auto"            # "Light", "Dark", or "Auto"
+  hostname = "afranca.com.br"
   showReadingTime = true
   showTagsOnPosts = true
   showRecentPostsFooter = true
@@ -98,7 +101,7 @@ summarylength = 70
   home = ['html', 'atom', 'blogroll', 'sitemap', 'postssitemap', 'pagessitemap', 'tagssitemap']
   section = ['html']
   taxonomy = ['html']
-  term = ['html', 'atom']
+  term = ['html']
   
 [outputFormats]
   [outputFormats.atom]
