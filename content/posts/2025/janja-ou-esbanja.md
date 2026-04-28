@@ -5,7 +5,7 @@ lastmod: 2025-12-30T02:17:54+00:00
 slug: "janja-ou-esbanja"
 description: "Janja enfrenta críticas por gastos públicos excessivos e vitimização, levantando debates sobre responsabilidade e transparência. "
 image: "https://images.unsplash.com/photo-1762187547872-f8480b0de362?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGN1cnJ1cHRpb258ZW58MHx8fHwxNzY0NzAzNTkzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics"]
+tags: ["blogging", "politics"]
 draft: false
 featured: false
 ---

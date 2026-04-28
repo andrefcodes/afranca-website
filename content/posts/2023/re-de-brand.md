@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:57:18+00:00
 slug: "re-de-brand"
 description: "De-branding rejects social-media self-marketing, pushes back on power gaps, and embraces being real."
 image: "https://images.unsplash.com/photo-1663057826282-20a3fdd8efbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDgxfHxnb29nbGV8ZW58MHx8fHwxNzY0NzIxOTY4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:47:17+00:00
 slug: "when-activism-excludes"
 description: "Modern activism risks moral authoritarianism - demanding conformity, silencing dissent, and excluding under the guise of inclusion and justice. "
 image: "https://images.unsplash.com/photo-1591848478625-de43268e6fb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGFjdGl2aXNtfGVufDB8fHx8MTc2NDY5NjcwOHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics"]
+tags: ["blogging", "politics"]
 draft: false
 featured: false
 ---

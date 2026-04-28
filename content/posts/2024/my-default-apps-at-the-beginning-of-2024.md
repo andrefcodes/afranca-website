@@ -5,7 +5,7 @@ lastmod: 2025-12-30T00:11:43+00:00
 slug: "my-default-apps-at-the-beginning-of-2024"
 description: "A curated list of my default apps and services for 2024, covering productivity, communication, cloud, and media tools. "
 image: "https://images.unsplash.com/photo-1661160094555-a798a7df499f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGFwcHN8ZW58MHx8fHwxNzY0Njc5MTgzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "Blogging", "OpenSource"]
+tags: ["technology", "blogging", "opensource"]
 draft: false
 featured: false
 ---

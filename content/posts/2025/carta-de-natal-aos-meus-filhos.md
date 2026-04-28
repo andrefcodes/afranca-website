@@ -5,7 +5,7 @@ lastmod: 2025-12-25T03:07:32+00:00
 slug: "carta-de-natal-aos-meus-filhos"
 description: "Carta de Natal a meus filhos sobre presença, amor incondicional e a importância de criar memórias simples e significativas juntos. "
 image: "https://images.unsplash.com/photo-1512219279337-9746bab300f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGNocmlzdG1hcyUyMGxldHRlcnxlbnwwfHx8fDE3NjQ4NzczODZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Parenting", "Blogging"]
+tags: ["parenting", "blogging"]
 draft: false
 featured: false
 ---

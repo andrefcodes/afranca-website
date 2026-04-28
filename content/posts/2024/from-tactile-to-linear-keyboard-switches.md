@@ -5,7 +5,7 @@ lastmod: 2025-12-30T02:15:29+00:00
 slug: "from-tactile-to-linear-keyboard-switches"
 description: "Daily-use Akko 3084B Plus keyboard upgraded from Jelly Purple to Matcha Green Pro switches for smoother, quieter typing. "
 image: "https://images.unsplash.com/photo-1625130694338-4110ba634e59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fG1lY2hhbmljYWwlMjBrZXlib2FyZHxlbnwwfHx8fDE3NjQ3MDUwMzN8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Mechanical Keyboard", "Technology"]
+tags: ["mechanical keyboard", "technology"]
 draft: false
 featured: false
 ---

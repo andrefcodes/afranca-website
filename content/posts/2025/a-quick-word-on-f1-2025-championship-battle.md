@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:32:22+00:00
 slug: "a-quick-word-on-f1-2025-championship-battle"
 description: "McLaren’s mistakes keep Max Verstappen in title contention, making the F1 finale thrilling and preserving championship suspense. "
 image: "https://images.unsplash.com/photo-1638552708183-52e302a55e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGZvcm11bGElMjAxfGVufDB8fHx8MTc2NDY3MzcyOHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Formula 1", "Sports"]
+tags: ["blogging", "formula 1", "sports"]
 draft: false
 featured: false
 ---

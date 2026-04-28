@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:13:39+00:00
 slug: "i-dont-care-about-seo"
 description: "Refusing search engine indexing, I explore alternative ways to share content amid AI, scraping, and intellectual property concerns. "
 image: "https://images.unsplash.com/photo-1674027326254-88c960d8e561?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fFNFT3xlbnwwfHx8fDE3NjQ3MDQ1Nzl8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["OpenWeb", "Blogging"]
+tags: ["openweb", "blogging"]
 draft: false
 featured: false
 ---

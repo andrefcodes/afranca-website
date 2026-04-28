@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:28:22+00:00
 slug: "hurricane-ian"
 description: "Reflecting on Hurricane Ida's impact in Cuba and Florida, hoping for safety, shelter, and recovery for those affected by the disaster."
 image: "https://images.unsplash.com/photo-1457327289196-f38b88d97147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGh1cnJpY2FuZXxlbnwwfHx8fDE3NjQ3MjUxMTZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

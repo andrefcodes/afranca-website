@@ -6,7 +6,7 @@ slug: "curating-the-web"
 description: "Maintaining a blogroll today is digital gardening: curating links by choice, not algorithms, valuing quality, connection, and intentional discovery. "
 image: "https://images.unsplash.com/photo-1516382799247-87df95d790b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHNlYXJjaHxlbnwwfHx8fDE3NjQ2OTY0Nzl8MA&ixlib=rb-4.1.0&q=80&w=2000"
 featured: true
-tags: ["Blogging", "Blogroll", "Digital Gardening", "IndieWeb"]
+tags: ["blogging", "blogroll", "digital gardening", "indieweb"]
 draft: false
 ---
 

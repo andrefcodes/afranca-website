@@ -5,7 +5,7 @@ lastmod: 2025-12-08T15:00:00+00:00
 slug: "between-two-languages"
 description: "Struggling between English reach and Portuguese authenticity, I’ll write in both when it fits, keeping focus on sharing thoughts. "
 image: "https://images.unsplash.com/photo-1552417559-f62e53cba705?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBvbHlnbG90aHxlbnwwfHx8fDE3NjQ3MDM3Mjd8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

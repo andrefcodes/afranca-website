@@ -5,7 +5,7 @@ lastmod: 2025-12-08T15:00:23+00:00
 slug: "disappointment-with-samsung"
 description: "Samsung’s slow updates and relentless bloatware ruin an otherwise great device, leaving users frustrated despite powerful hardware. "
 image: "https://images.unsplash.com/photo-1662947995689-ec5165848ad0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fHNhbXN1bmd8ZW58MHx8fHwxNzY0NjM2MjQzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Android", "Mobile", "Technology", "Security", "Samsung", "Privacy"]
+tags: ["android", "mobile", "technology", "security", "samsung", "privacy"]
 draft: false
 featured: false
 ---

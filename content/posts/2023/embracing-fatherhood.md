@@ -5,7 +5,7 @@ lastmod: 2025-12-08T01:04:14+00:00
 slug: "embracing-fatherhood"
 description: "Reflections on modern fatherhood, presence, and breaking norms to build a true bond with a child. "
 image: "https://images.unsplash.com/photo-1542948843-bf19f4f535cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZhdGhlcmhvb2R8ZW58MHx8fHwxNzY0NzA2NjYxfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Parenting", "Blogging"]
+tags: ["parenting", "blogging"]
 draft: false
 featured: false
 ---

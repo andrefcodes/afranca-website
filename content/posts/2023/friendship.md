@@ -5,7 +5,7 @@ lastmod: 2025-12-08T01:02:46+00:00
 slug: "friendship"
 description: "A reflection on the value of true friendship, its rarity today, and gratitude for meaningful bonds. "
 image: "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGZyaWVuZHNoaXB8ZW58MHx8fHwxNzY0NzIxNjM2fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

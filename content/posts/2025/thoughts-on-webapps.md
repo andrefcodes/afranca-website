@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:45:31+00:00
 slug: "thoughts-on-webapps"
 description: "Webapps run in browsers, offering privacy, cross-platform consistency, and safety - safer than native apps that can spy, persist, or misuse data. "
 image: "https://images.unsplash.com/photo-1661160094555-a798a7df499f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGFwcHN8ZW58MHx8fHwxNzY0Njc5MTgzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "OpenWeb", "Metadata", "Privacy", "Security"]
+tags: ["technology", "openweb", "metadata", "privacy", "security"]
 draft: false
 featured: false
 ---

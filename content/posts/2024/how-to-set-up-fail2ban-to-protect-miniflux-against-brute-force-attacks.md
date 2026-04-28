@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:23:34+00:00
 slug: "how-to-set-up-fail2ban-to-protect-miniflux-against-brute-force-attacks"
 description: "Guide to securing a publicly exposed Miniflux instance with Fail2Ban, creating a custom filter and jail to block IPs after failed login attempts. "
 image: "https://images.unsplash.com/photo-1729860646385-3e71fb29ff04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI4fHxwYXNzd29yZHxlbnwwfHx8fDE3NjQ3MDUzNjh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Self-hosting", "Security"]
+tags: ["self-hosting", "security"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2026-01-19T23:44:20+00:00
 slug: "thoughts-on-people-and-blogs"
 description: "Independent projects only survive if we make them happen. Responding to Manu Moreale’s honest reflection on the struggle of \"People & Blogs\"."
 image: "https://images.unsplash.com/photo-1461088945293-0c17689e48ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIzfHxwZW9wbGV8ZW58MHx8fHwxNzY4ODMxMzQ4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Link Posts"]
+tags: ["link posts"]
 draft: false
 featured: false
 ---

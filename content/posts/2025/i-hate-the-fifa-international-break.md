@@ -5,7 +5,7 @@ lastmod: 2025-12-08T15:01:31+00:00
 slug: "i-hate-the-fifa-international-break"
 description: "FIFA international breaks harm clubs, players, and fans by causing schedule chaos, injuries, and little accountability. "
 image: "https://images.unsplash.com/photo-1678281967101-d350b502d17b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGZpZmF8ZW58MHx8fHwxNzY0NzA0MDA0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Sports", "Blogging"]
+tags: ["sports", "blogging"]
 draft: false
 featured: false
 ---

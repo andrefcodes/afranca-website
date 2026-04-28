@@ -5,7 +5,7 @@ lastmod: 2026-01-13T03:17:24+00:00
 slug: "stuck-on-repeat"
 description: "Loving old music and films brings comfort, but also raises a fear of being stuck in time and missing meaningful connections with the present."
 image: "https://images.unsplash.com/photo-1554676212-ebfccb4632d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEzfHxub3N0YWxnaWF8ZW58MHx8fHwxNzY4MjcyMjAzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

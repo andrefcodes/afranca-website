@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:42:42+00:00
 slug: "minimalismo-digital"
 description: "Exploro minimalismo digital: limpar apps, redes e notificações para proteger atenção, focar no que importa e viver com mais clareza. "
 image: "https://images.unsplash.com/photo-1561991909-35afb1bd1e7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ1fHxkaWdpdGFsJTIwTWluaW1hbGlzbXxlbnwwfHx8fDE3NjQ2NzcwMjF8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Digital Minimalism"]
+tags: ["blogging", "digital minimalism"]
 draft: false
 featured: false
 ---

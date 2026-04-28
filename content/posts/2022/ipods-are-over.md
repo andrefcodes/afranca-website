@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:10:26+00:00
 slug: "ipods-are-over"
 description: "Apple retires the iPod Touch, marking the end of an era and sparking nostalgia for a device that transformed how we discovered and enjoyed music. "
 image: "https://images.unsplash.com/photo-1730131332370-8395280c58d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGlwb2R8ZW58MHx8fHwxNzY0NzI0NDg1fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "Mobile", "Apple", "Music"]
+tags: ["technology", "mobile", "apple", "music"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:14:58+00:00
 slug: "thoughts-on-my-new-smartphone"
 description: "First impressions of the Samsung Galaxy S24 Ultra: fast, customizable, great screen, long battery, but iOS features still missed. "
 image: "https://images.unsplash.com/photo-1707438095940-1eee18e85400?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEyfHxzYW1zdW5nfGVufDB8fHx8MTc2NDYzNjI0M3ww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["iOS", "Android", "Mobile", "Apple", "Samsung", "Technology"]
+tags: ["ios", "android", "mobile", "apple", "samsung", "technology"]
 draft: false
 featured: false
 ---

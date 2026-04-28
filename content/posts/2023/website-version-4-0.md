@@ -5,7 +5,7 @@ lastmod: 2025-12-30T02:06:56+00:00
 slug: "website-version-4-0"
 description: "Blog journey back to Jekyll: simpler, faster, fewer plugins, cleaner design, and renewed control after leaving Ghost. "
 image: "https://images.unsplash.com/photo-1573867639040-6dd25fa5f597?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fHdlYnNpdGV8ZW58MHx8fHwxNzY0NzIyODIxfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Static Site Generator", "Jekyll", "CMS", "GhostCMS"]
+tags: ["static site generator", "jekyll", "cms", "ghostcms"]
 draft: false
 featured: false
 ---

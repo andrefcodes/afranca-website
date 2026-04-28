@@ -6,7 +6,7 @@ slug: "small-web-big-voice"
 description: "Why maintain a blog in 2025? Independent spaces let you write freely, without algorithms, likes, or virality metrics."
 image: "https://images.unsplash.com/photo-1516414447565-b14be0adf13e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDg0fHxibG9nfGVufDB8fHx8MTc2NDY3NzM5MHww&ixlib=rb-4.1.0&q=80&w=2000"
 featured: true
-tags: ["Blogging", "Technology", "OpenWeb"]
+tags: ["blogging", "technology", "openweb"]
 draft: false
 ---
 

@@ -5,7 +5,7 @@ lastmod: 2026-01-05T10:10:05+00:00
 slug: "the-saas-takeover"
 description: "SaaS won because it funds maintenance and security, but it trades ownership for convenience and quietly shifts power away from users"
 image: "https://images.unsplash.com/photo-1661160094555-a798a7df499f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGFwcHN8ZW58MHx8fHwxNzY3MTg1MDYzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology"]
+tags: ["technology"]
 draft: false
 featured: false
 ---

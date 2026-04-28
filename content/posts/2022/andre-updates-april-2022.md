@@ -5,7 +5,7 @@ lastmod: 2025-12-07T23:56:31+00:00
 slug: "andre-updates-april-2022"
 description: "Monthly recap: blog progress, reading picks, music recommendations, and starting an MITx course while exploring new interests and routines. "
 image: "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHVwZGF0ZXN8ZW58MHx8fHwxNzY0NzIzODEzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Monthly Updates"]
+tags: ["monthly updates"]
 draft: false
 featured: false
 ---

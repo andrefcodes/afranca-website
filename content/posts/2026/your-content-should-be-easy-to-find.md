@@ -6,7 +6,7 @@ slug: "your-content-should-be-easy-to-find"
 description: "If I can’t easily find your posts or feed, I probably won’t come back."
 image: "https://images.unsplash.com/photo-1657639028182-24e11504c7c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQwfHxibG9nfGVufDB8fHx8MTc2NzgwNDEwMHww&ixlib=rb-4.1.0&q=80&w=2000"
 featured: true
-tags: ["IndieWeb", "Blogging", "Small Web"]
+tags: ["indieweb", "blogging", "small web"]
 draft: false
 ---
 

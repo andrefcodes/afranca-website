@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:03:13+00:00
 slug: "technology-is-evolving-too-fast"
 description: "Reflection on rapid tech evolution, consumerism, and the need for slower, more sustainable, real-cycle-based technological progress. "
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHRlY2hub2xvZ3l8ZW58MHx8fHwxNzY0NzIzODcwfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology"]
+tags: ["technology"]
 draft: false
 featured: false
 ---

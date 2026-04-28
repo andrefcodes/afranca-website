@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:48:18+00:00
 slug: "same-blog-new-domain"
 description: "Moved my blog from abf.li to afranca.com.br - a step reflecting growth, identity, and Brazil roots. Old links work; updates soon. "
 image: "https://images.unsplash.com/photo-1746292506641-543089b79923?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHdlYiUyMGRvbWFpbnxlbnwwfHx8fDE3NjQ2OTY4NTF8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Announcements"]
+tags: ["blogging", "announcements"]
 draft: false
 featured: false
 ---

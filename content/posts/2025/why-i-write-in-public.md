@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:39:02+00:00
 slug: "why-i-write-in-public"
 description: "I write in public despite fear. Every post is a mix of courage and risk, but sharing messy, half-formed ideas can connect and grow us all. "
 image: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE5fHxibG9nfGVufDB8fHx8MTc2NDY3NDg5Nnww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:44:16+00:00
 slug: "when-technology-serves-not-controls"
 description: "Choose tech that serves you, not controls you. Stop scrolling, disable notifications, use tools intentionally - regain attention and autonomy. "
 image: "https://images.unsplash.com/photo-1704790461396-5e8e85009927?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDYxfHxwdXBwZXQlMjB0ZWNofGVufDB8fHx8MTc2NDY4NzU0Nnww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Privacy", "Social Media", "Technology"]
+tags: ["blogging", "privacy", "social media", "technology"]
 draft: false
 featured: false
 ---

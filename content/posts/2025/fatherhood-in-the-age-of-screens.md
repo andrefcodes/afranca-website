@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:41:31+00:00
 slug: "fatherhood-in-the-age-of-screens"
 description: "Reflecting on fatherhood in the digital age: balancing screen use with presence, teaching kids real connection over constant distraction. "
 image: "https://images.unsplash.com/photo-1560328055-e938bb2ed50a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHBhcmVudGluZ3xlbnwwfHx8fDE3NjQ2NzY4ODV8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Parenting"]
+tags: ["blogging", "parenting"]
 draft: false
 featured: false
 ---

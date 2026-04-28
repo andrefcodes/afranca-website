@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:50:57+00:00
 slug: "back-to-the-gym-my-fitness-comeback"
 description: "Returning to the gym after 18 years, I reclaim health, strength, and balance while reflecting on fitness, obesity, and steroid culture."
 image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHdvcmslMjBvdXR8ZW58MHx8fHwxNzY0NzAyMjU0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Wellness"]
+tags: ["blogging", "wellness"]
 draft: false
 featured: false
 ---

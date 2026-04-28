@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:52:39+00:00
 slug: "social-media-made-me-stupid-and-how-i-fixed-it"
 description: "Social media narrows thinking and fuels division, but intentional use and digital minimalism can restore focus and critical thought. "
 image: "https://images.unsplash.com/photo-1683721003111-070bcc053d8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHNvY2lhbCUyMG1lZGlhfGVufDB8fHx8MTc2NDYyNDI5NHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Social Media", "BigTech", "Wellness"]
+tags: ["blogging", "social media", "bigtech", "wellness"]
 draft: false
 featured: false
 ---

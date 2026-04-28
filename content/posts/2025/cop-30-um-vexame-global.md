@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:44:45+00:00
 slug: "cop-30-um-vexame-global"
 description: "COP 30 em Belém mostra hipocrisia: luxo, superfaturamento e eventos grandiosos ofuscam ciência e deixam população e Amazônia à margem. "
 image: "https://images.unsplash.com/photo-1440342359743-84fcb8c21f21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxlbnZpcm9ubWVudHxlbnwwfHx8fDE3NjQ2OTYwNzh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics", "Climate Change"]
+tags: ["blogging", "politics", "climate change"]
 draft: false
 featured: false
 ---

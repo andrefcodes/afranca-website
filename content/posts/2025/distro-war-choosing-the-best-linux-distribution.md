@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:55:52+00:00
 slug: "distro-war-choosing-the-best-linux-distribution"
 description: "Explore top Linux distros for every need, from Ubuntu for beginners to Arch for power users and Qubes for privacy. "
 image: "https://images.unsplash.com/photo-1714846201575-4f06e069dc6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3fHxsaW51eHxlbnwwfHx8fDE3NjQ3MDMxMDF8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "OpenSource", "Linux"]
+tags: ["technology", "opensource", "linux"]
 draft: false
 featured: false
 ---

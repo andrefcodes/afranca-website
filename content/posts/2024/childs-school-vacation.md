@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:28:31+00:00
 slug: "childs-school-vacation"
 description: "Summer’s here in the southern hemisphere, and I’m prepping activities, pool time, and outings to keep my child busy during school vacation. "
 image: "https://images.unsplash.com/photo-1561503867-3d701d0d5465?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHx2YWNhdGlvbnN8ZW58MHx8fHwxNzY0NzA0NzA4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Parenting", "Blogging"]
+tags: ["parenting", "blogging"]
 draft: false
 featured: false
 ---

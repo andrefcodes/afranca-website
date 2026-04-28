@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:22:52+00:00
 slug: "goodbye-jekyll-hello-hugo"
 description: "Exploring my switch from Jekyll to Hugo, highlighting faster builds, no dependencies, native taxonomies, and early templating challenges. "
 image: "https://images.unsplash.com/photo-1737737351943-82e01f866e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN0YXRpYyUyMHNpdGV8ZW58MHx8fHwxNzY0Njc0NTE4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Static Site Generator", "Jekyll", "Hugo", "Blogging"]
+tags: ["static site generator", "jekyll", "hugo", "blogging"]
 draft: false
 featured: false
 ---

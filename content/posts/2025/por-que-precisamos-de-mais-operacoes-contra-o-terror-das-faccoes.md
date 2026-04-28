@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:45:10+00:00
 slug: "por-que-precisamos-de-mais-operacoes-contra-o-terror-das-faccoes"
 description: "Polícia enfrenta facções armadas no RJ: operação letal é necessária para retomar território e proteger civis contra exércitos paralelos. "
 image: "https://images.unsplash.com/photo-1545692770-f0029a91f3ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZhdmVsYXxlbnwwfHx8fDE3NjQ2OTY5Nzh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics", "Security"]
+tags: ["blogging", "politics", "security"]
 draft: false
 featured: false
 ---

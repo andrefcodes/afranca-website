@@ -5,7 +5,7 @@ lastmod: 2025-12-08T15:02:18+00:00
 slug: "devemos-punir-clubes-por-atos-isolados-de-torcedores"
 description: "Clube não deve ser punido por atos isolados de torcedores; responsabilidade é individual. "
 image: "https://images.unsplash.com/photo-1559930198-26e8d7f0a4f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI4fHxmYW5zfGVufDB8fHx8MTc2NDcwNDA5OHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Sports", "Blogging", "Politics"]
+tags: ["sports", "blogging", "politics"]
 draft: false
 featured: false
 ---

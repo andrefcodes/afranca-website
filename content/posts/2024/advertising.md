@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:10:56+00:00
 slug: "advertising"
 description: "A critical view on advertising, its influence on daily life, and how corporations manipulate people for profit. "
 image: "https://images.unsplash.com/photo-1479660095429-2cf4e1360472?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGFkdmVydGlzaW5nfGVufDB8fHx8MTc2NDcwNDU5Mnww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

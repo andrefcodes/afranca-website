@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:35:32+00:00
 slug: "brief-thoughts-on-mastodon"
 description: "Mastodon: decentralized, open-source social network on Fediverse without ads, algorithms, or verified accounts."
 image: "https://images.unsplash.com/photo-1698210806453-5ec74b8e08be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG1hc3RvZG9ufGVufDB8fHx8MTc2NDcyNTIzNnww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Social Media", "Mastodon", "Fediverse"]
+tags: ["blogging", "social media", "mastodon", "fediverse"]
 draft: false
 featured: false
 ---

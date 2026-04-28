@@ -5,7 +5,7 @@ lastmod: 2025-12-30T01:55:54+00:00
 slug: "is-there-a-perfect-keyboard"
 description: "A personal reflection on keyboard sizes, layouts, ergonomics, and why good typing habits matter more than owning a high-end keyboard. "
 image: "https://images.unsplash.com/photo-1732608576828-8e9dd58a1bd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDYyfHxtZWNoYW5pY2FsJTIwa2V5Ym9hcmR8ZW58MHx8fHwxNzY0NzI0MDMxfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "Mechanical Keyboard"]
+tags: ["technology", "mechanical keyboard"]
 draft: false
 featured: false
 ---

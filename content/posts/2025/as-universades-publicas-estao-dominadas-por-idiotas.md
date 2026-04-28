@@ -5,7 +5,7 @@ lastmod: 2025-12-07T23:45:00+00:00
 slug: "as-universades-publicas-estao-dominadas-por-idiotas"
 description: "Crítica à ideologização, corrupção e decadência moral nas universidades públicas brasileiras e a urgência por reforma e mérito."
 image: "https://images.unsplash.com/photo-1487893667092-772cdd6fe0ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM4fHxzJUMzJUEzbyUyMHBhdWxvfGVufDB8fHx8MTc2NTA3MTU3MHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Education", "Politics"]
+tags: ["education", "politics"]
 draft: false
 featured: false
 ---

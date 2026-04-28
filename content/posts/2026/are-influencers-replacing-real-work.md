@@ -5,7 +5,7 @@ lastmod: 2026-01-15T01:47:50+00:00
 slug: "are-influencers-replacing-real-work"
 description: "Many leave stable jobs to create content, but this economy is unstable, platform-dependent, and harmful to education, work, and society."
 image: "https://images.unsplash.com/photo-1636971828014-0f3493cba88a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGNvbnRlbnQlMjBjcmVhdG9yfGVufDB8fHx8MTc2ODQzODU5OHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Internet"]
+tags: ["blogging", "internet"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-12-30T01:58:27+00:00
 slug: "ghost-as-my-blogging-platform"
 description: "Why I migrated to Ghost CMS: better editor UI, custom themes, scheduling posts."
 image: "https://images.unsplash.com/photo-1698347108462-9b7611c2afe2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI2fHxnaG9zdC5vcmd8ZW58MHx8fHwxNzY0NzI0OTE5fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "CMS"]
+tags: ["blogging", "cms"]
 draft: false
 featured: false
 ---

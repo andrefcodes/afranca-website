@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:19:47+00:00
 slug: "migrating-to-codeberg-pages"
 description: "Migrating a Jekyll blog from GitHub to Codeberg: setup process, DNS configuration, and considerations for static site hosting."
 image: "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGdpdHxlbnwwfHx8fDE3NjQ3MjQ1ODh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "Static Site Generator", "IndieWeb", "Blogging", "Codeberg", "GitHub"]
+tags: ["technology", "static site generator", "indieweb", "blogging", "codeberg", "github"]
 draft: false
 featured: false
 ---

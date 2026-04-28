@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:48:55+00:00
 slug: "a-presidents-moral-collapse"
 description: "Lula calls drug traffickers 'victims,' exposing moral collapse and political failure amid Brazil's escalating crime crisis."
 image: "https://images.unsplash.com/photo-1655071267921-66c47de45771?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fGx1bGF8ZW58MHx8fHwxNzY0Njk3MDk0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics"]
+tags: ["blogging", "politics"]
 draft: false
 featured: false
 ---

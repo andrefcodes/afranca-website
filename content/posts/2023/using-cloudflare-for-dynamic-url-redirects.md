@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:52:43+00:00
 slug: "using-cloudflare-for-dynamic-url-redirects"
 description: "Dynamic Cloudflare Pages setup lets you redirect an old domain to a new one while preserving permalinks using a simple _redirects file. "
 image: "https://images.unsplash.com/photo-1635850967683-17df1f33e749?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGZvcndhcmR8ZW58MHx8fHwxNzY0NzIyNjI4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["HowTo", "Technology"]
+tags: ["howto", "technology"]
 draft: false
 featured: false
 ---

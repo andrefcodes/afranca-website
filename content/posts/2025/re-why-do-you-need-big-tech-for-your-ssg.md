@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:38:10+00:00
 slug: "re-why-do-you-need-big-tech-for-your-ssg"
 description: "Cloudflare’s outage shows centralization risks. Self-hosting gives control; managed platforms give ease. Know the trade-offs. "
 image: "https://images.unsplash.com/photo-1737737351943-82e01f866e53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHN0YXRpYyUyMHNpdGV8ZW58MHx8fHwxNzY0Njc0NTE4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Self-hosting", "Static Site Generator"]
+tags: ["blogging", "self-hosting", "static site generator"]
 draft: false
 featured: false
 ---

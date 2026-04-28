@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:49:40+00:00
 slug: "ive-migrated-to-writefreely"
 description: "This blog has moved to WriteFreely!"
 image: "https://images.unsplash.com/photo-1586339393565-32161f258eac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHdyaXRlZnJlZWx5fGVufDB8fHx8MTc2NDcwMTk4OXww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

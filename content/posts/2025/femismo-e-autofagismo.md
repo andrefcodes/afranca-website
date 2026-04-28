@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:35:59+00:00
 slug: "femismo-e-autofagismo"
 description: "Juca Kfouri criticado ao sugerir cobertura feminina gerou show de autofagia ideológica; femismo militante devora aliados, exagera e ignora dados. "
 image: "https://images.unsplash.com/photo-1633295964159-981b880c4443?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIyfHx3b21lbiUyMGZpZ2h0fGVufDB8fHx8MTc2NDY3NDE2M3ww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics"]
+tags: ["blogging", "politics"]
 draft: false
 featured: false
 ---

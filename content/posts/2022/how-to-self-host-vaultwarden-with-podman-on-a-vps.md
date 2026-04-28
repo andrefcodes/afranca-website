@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:27:34+00:00
 slug: "how-to-self-host-vaultwarden-with-podman-on-a-vps"
 description: "Self-host Vaultwarden with Podman: secure password manager setup with Caddy reverse proxy, SSL, systemd integration, and update guide."
 image: "https://images.unsplash.com/photo-1729860646385-3e71fb29ff04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI4fHxwYXNzd29yZHxlbnwwfHx8fDE3NjQ3MjUwMjV8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Self-hosting", "Security", "Privacy", "Password Manager", "HowTo"]
+tags: ["self-hosting", "security", "privacy", "password manager", "howto"]
 draft: false
 featured: false
 ---

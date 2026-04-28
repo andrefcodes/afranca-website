@@ -5,7 +5,7 @@ lastmod: 2025-12-07T23:50:56+00:00
 slug: "introducing-some-privacy-to-your-digital-life"
 description: "Overview of Privacy Guides, a volunteer-run site recommending open-source, privacy-respecting tools, services, and operating systems. "
 image: "https://images.unsplash.com/photo-1595666944516-bbb485958fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHByaXZhY3l8ZW58MHx8fHwxNzY0NzIzMzY0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "Privacy", "Security"]
+tags: ["technology", "privacy", "security"]
 draft: false
 featured: false
 ---

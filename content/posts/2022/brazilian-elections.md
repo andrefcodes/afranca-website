@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:31:16+00:00
 slug: "brazilian-elections"
 description: "Brazil election concerns: Bolsonaro's potential refusal to accept results, institutional attacks, and pandemic mismanagement. "
 image: "https://images.unsplash.com/photo-1621541780385-7641d3c3b472?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGVsZWN0aW9uc3xlbnwwfHx8fDE3NjQ3MjUxNjh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics"]
+tags: ["blogging", "politics"]
 draft: false
 featured: false
 ---

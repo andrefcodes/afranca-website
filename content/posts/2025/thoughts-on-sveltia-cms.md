@@ -5,7 +5,7 @@ lastmod: 2025-12-09T01:30:25+00:00
 slug: "thoughts-on-sveltia-cms"
 description: "Sveltia-CMS streamlines blogging with GitHub integration and a clean interface, but mobile usability still needs improvement. "
 image: "https://images.unsplash.com/photo-1602265585142-6b221b9b2c24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGNtc3xlbnwwfHx8fDE3NjQ3MDI5OTd8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "OpenSource", "CMS", "Static Site Generator", "Hugo"]
+tags: ["technology", "opensource", "cms", "static site generator", "hugo"]
 draft: false
 featured: false
 ---

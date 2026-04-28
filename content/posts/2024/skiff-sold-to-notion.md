@@ -5,7 +5,7 @@ lastmod: 2025-12-30T02:12:39+00:00
 slug: "skiff-sold-to-notion"
 description: "Skiff sold to Notion: users must migrate data within 6 months; switched back to Zoho Mail for reliability. "
 image: "https://images.unsplash.com/photo-1596526131083-e8c633c948d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGVtYWlsfGVufDB8fHx8MTc2NDcwNjA4MXww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Privacy", "Fediverse", "Email"]
+tags: ["privacy", "fediverse", "email"]
 draft: false
 featured: false
 ---

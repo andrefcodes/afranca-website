@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:57:11+00:00
 slug: "a-reviravolta-no-caso-daniel-alves"
 description: "Daniel Alves é absolvido de agressão sexual na Espanha; caso evidencia falhas judiciais e impacto da mídia na reputação pública. "
 image: "https://images.unsplash.com/photo-1605866756747-c06a83b3f6c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDR8fGphaWx8ZW58MHx8fHwxNzY0NzAzNTA0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics", "Education", "Sports"]
+tags: ["blogging", "politics", "education", "sports"]
 draft: false
 featured: false
 ---

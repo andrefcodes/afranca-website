@@ -6,7 +6,7 @@ slug: "the-fragile-web-we-built"
 description: "Cloudflare went down today, and I felt the fragility of the web: a single config file taking out sites worldwide reminds us centralization is risky. "
 image: "https://images.unsplash.com/photo-1564760290292-23341e4df6ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGludGVybmV0fGVufDB8fHx8MTc2NDY3NTc1OXww&ixlib=rb-4.1.0&q=80&w=2000"
 featured: true
-tags: ["Blogging", "Cloudflare", "Internet", "Infrastructure"]
+tags: ["blogging", "cloudflare", "internet", "infrastructure"]
 draft: false
 ---
 

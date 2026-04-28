@@ -5,7 +5,7 @@ lastmod: 2026-01-02T14:54:12+00:00
 slug: "psychology-of-get-rich-scams"
 description: "Get-rich scams thrive on human emotion, not logic."
 image: "https://images.unsplash.com/photo-1533750349088-cd871a92f312?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQ1fHxkaWdpdGFsJTIwbWFya2V0aW5nfGVufDB8fHx8MTc2NzI3NjEwNHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Self Help", "Digital Marketing"]
+tags: ["self help", "digital marketing"]
 draft: false
 featured: false
 ---

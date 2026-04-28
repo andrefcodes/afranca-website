@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:53:15+00:00
 slug: "why-i-dont-like-streaming-music-services"
 description: "Streaming services exploit artists and favor playlists over albums, while buying music directly restores value, control, and deeper listening. "
 image: "https://images.unsplash.com/photo-1634037227397-34c8c46d585c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHxtdXNpYyUyMHN0cmVhbWluZ3xlbnwwfHx8fDE3NjQ3MDI3ODF8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Music", "Streaming"]
+tags: ["blogging", "music", "streaming"]
 draft: false
 featured: false
 ---

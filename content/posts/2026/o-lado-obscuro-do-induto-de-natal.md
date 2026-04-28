@@ -5,7 +5,7 @@ lastmod: 2026-01-01T16:06:43+00:00
 slug: "o-lado-obscuro-do-induto-de-natal"
 description: "O Indulto de Natal, sustentado por dados frágeis, amplia o medo e a reincidência, transformando uma data de paz em insegurança."
 image: "https://images.unsplash.com/photo-1543536833-6d65fcc64f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fHByaXNpb258ZW58MHx8fHwxNzY3MjgyMDMxfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Politics", "Blogging"]
+tags: ["politics", "blogging"]
 draft: false
 featured: false
 ---

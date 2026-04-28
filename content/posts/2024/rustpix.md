@@ -5,7 +5,7 @@ lastmod: 2026-01-18T18:03:27+00:00
 slug: "rustpix"
 description: "Rustpix: an open-source Rust tool that optimizes images for the web by converting to WebP, and stripping EXIF data."
 image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHNvZnR3YXJlfGVufDB8fHx8MTc2NDcwNTk4MXww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Coding", "Metadata", "OpenSource", "Static Site Generator"]
+tags: ["coding", "metadata", "opensource", "static site generator"]
 draft: false
 featured: false
 ---

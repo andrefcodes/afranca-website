@@ -5,7 +5,7 @@ lastmod: 2025-12-07T23:50:07+00:00
 slug: "migrating-from-writefreely-to-ghost-cms"
 description: "Migration from WriteFreely to Ghost driven by better ActivityPub features, despite unexpected manual work and theme adjustments. "
 image: "https://images.unsplash.com/photo-1674027326476-3ea3cbf7b9be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2NXx8d2Vic2l0ZXxlbnwwfHx8fDE3NjUwNjU3OTJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["CMS", "GhostCMS", "Writefreely", "Blogging", "ActivityPub"]
+tags: ["cms", "ghostcms", "writefreely", "blogging", "activitypub"]
 draft: false
 featured: false
 ---

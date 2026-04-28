@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:50:28+00:00
 slug: "switching-from-afhub-dev-domain"
 description: "New personal blog domain announced, with redirects from afhub.dev and updated RSS at afranca.com.br/rss. "
 image: "https://images.unsplash.com/photo-1687524690542-2659f268cde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fC5jb218ZW58MHx8fHwxNzY0NzIzMDI4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Announcements"]
+tags: ["announcements"]
 draft: false
 featured: false
 ---

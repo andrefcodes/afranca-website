@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:58:18+00:00
 slug: "formula-one-is-back"
 description: "F1’s growth excites me, but soaring ticket prices keep my passion for racing stuck on the couch."
 image: "https://images.unsplash.com/photo-1691076145470-d4dd93ea2e04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fGYxfGVufDB8fHx8MTc2NDcwMzM1OXww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Sports", "Blogging"]
+tags: ["sports", "blogging"]
 draft: false
 featured: false
 ---

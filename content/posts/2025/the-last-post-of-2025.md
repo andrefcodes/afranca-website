@@ -5,7 +5,7 @@ lastmod: 2025-12-31T10:00:56+00:00
 slug: "the-last-post-of-2025"
 description: "Year-end reflection thanking readers for shaping the blog’s community and looking ahead with excitement to learning and growing in 2026. "
 image: "https://images.unsplash.com/photo-1703934915711-439a6d16a1f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGhhcHB5JTIwbmV3JTIweWVhcnxlbnwwfHx8fDE3NjQ4NzgxNTZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

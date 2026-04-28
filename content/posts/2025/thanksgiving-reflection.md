@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:33:38+00:00
 slug: "thanksgiving-reflection"
 description: "This Thanksgiving, I’m grateful for the small corners of the web where real dialogue thrives, proving you don’t need millions of followers to matter. "
 image: "https://images.unsplash.com/photo-1632405008269-5806bbe0e974?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwMXx8dGhhbmtzZ2l2aW5nfGVufDB8fHx8MTc2NDY3MzkwNXww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "IndieWeb", "Small Web"]
+tags: ["blogging", "indieweb", "small web"]
 draft: false
 featured: false
 ---

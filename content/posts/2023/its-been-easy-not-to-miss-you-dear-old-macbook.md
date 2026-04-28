@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:56:38+00:00
 slug: "its-been-easy-not-to-miss-you-dear-old-macbook"
 description: "Switched from failing MacBook to a Lenovo Legion 5i Pro Gen7 - powerful, upgradeable, affordable, and decent Linux support."
 image: "https://images.unsplash.com/photo-1583273501574-6a87a97dc716?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE3N3x8bWFjYm9vayUyMHRyYWRlfGVufDB8fHx8MTc2NDcyMjIxOXww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Technology", "Apple", "Lenovo"]
+tags: ["technology", "apple", "lenovo"]
 draft: false
 featured: false
 ---

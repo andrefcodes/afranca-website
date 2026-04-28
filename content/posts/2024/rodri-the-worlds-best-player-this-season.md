@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:27:52+00:00
 slug: "rodri-the-worlds-best-player-this-season"
 description: "Rodri’s Ballon d’Or win highlights his crucial role for Manchester City and Spain, amid injuries, media bias, and Vinícius Jr’s controversial behavior. "
 image: "https://images.unsplash.com/photo-1649198203280-6b1fad44dca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQxfHxiZXN0JTIwcGxheWVyfGVufDB8fHx8MTc2NDcwNTkwNHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Sports", "Blogging"]
+tags: ["sports", "blogging"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-12-30T02:09:28+00:00
 slug: "styling-my-rss-feed"
 description: "Learn how to style RSS feeds with XSLT for human-friendly reading, keeping it simple, fast, and easy to navigate. "
 image: "https://images.unsplash.com/photo-1667422380246-3bed910ffae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fHdlYiUyMGZmfGVufDB8fHx8MTc2NDcwNjI3MHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["OpenWeb"]
+tags: ["openweb"]
 draft: false
 featured: false
 ---

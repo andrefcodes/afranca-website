@@ -5,7 +5,7 @@ lastmod: 2026-01-01T12:31:03+00:00
 slug: "hyperlinks-should-have-context"
 description: "While poorly implemented links can cause minor annoyances for users, improper interactive links can often lead to a loss of users"
 image: "https://images.unsplash.com/photo-1605701250441-2bfa95839417?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fExpbmt8ZW58MHx8fHwxNzY3MjY3MzI0fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Link Posts"]
+tags: ["link posts"]
 draft: false
 featured: false
 ---

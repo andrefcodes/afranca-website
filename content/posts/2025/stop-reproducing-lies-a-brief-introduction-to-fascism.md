@@ -5,7 +5,7 @@ lastmod: 2025-12-17T17:16:39+00:00
 slug: "stop-reproducing-lies-a-brief-introduction-to-fascism"
 description: "Using 'fascist' as an insult erases history. Knowing fascism's origins shows how labels replace thinking and enable manipulation."
 image: "https://images.unsplash.com/photo-1475168952107-64cc48a0c2ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDU0fHxJdGFseSUyMHdhcnxlbnwwfHx8fDE3NjU5NzQ3Mzh8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Politics"]
+tags: ["politics"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:06:02+00:00
 slug: "vinicius-jr-an-example-of-determination"
 description: "Reflection on Vinicius Jr.’s rise at Real Madrid amid criticism, racism, and Brazil’s struggles under Tite’s tactics. "
 image: "https://images.unsplash.com/photo-1635710064235-081bb5c7ae77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIxfHxyZWFsJTIwbWFkcmlkfGVufDB8fHx8MTc2NDcwMjkwMHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Sports"]
+tags: ["sports"]
 draft: false
 featured: false
 ---

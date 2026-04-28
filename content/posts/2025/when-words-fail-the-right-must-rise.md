@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:50:23+00:00
 slug: "when-words-fail-the-right-must-rise"
 description: "Tragedies like the murders of Iryna and Charlie reveal rising political violence and the urgent need to defend free speech and safety."
 image: "https://images.unsplash.com/photo-1485309086598-f9d010ad3972?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fG1hZ2F8ZW58MHx8fHwxNzY0NzAyMTUzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Politics"]
+tags: ["blogging", "politics"]
 draft: false
 featured: false
 ---

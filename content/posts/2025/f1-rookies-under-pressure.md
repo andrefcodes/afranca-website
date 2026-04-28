@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:56:33+00:00
 slug: "f1-rookies-under-pressure"
 description: "F1 rookies face brutal pressure; Bortoleto shines, Lawson struggles, talent needs patience, support, and the right team to thrive. "
 image: "https://images.unsplash.com/photo-1742744652734-d5ec6598b5da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fGYxfGVufDB8fHx8MTc2NDcwMzM1OXww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogroll", "Sports"]
+tags: ["blogroll", "sports"]
 draft: false
 featured: false
 ---

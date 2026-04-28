@@ -5,7 +5,7 @@ lastmod: 2025-12-08T15:02:50+00:00
 slug: "the-brazilian-supreme-court-a-threat-to-freedom-and-justice"
 description: "The STF in Brazil risks eroding legal certainty and free speech, with overreach, conflicts of interest, and lavish spending fueling public distrust. "
 image: "https://images.unsplash.com/photo-1593115057322-e94b77572f20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHRyaWJ1bmFsfGVufDB8fHx8MTc2NDY5NjI0Nnww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Politics", "Blogging"]
+tags: ["politics", "blogging"]
 draft: false
 featured: false
 ---

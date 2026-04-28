@@ -5,7 +5,7 @@ lastmod: 2026-01-04T12:15:17+00:00
 slug: "why-everyone-is-reacting"
 description: "React content exposes a growing lack of originality in online creation."
 image: "https://images.unsplash.com/photo-1594926620929-ae8e589f5c61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHJlYWN0aW5nfGVufDB8fHx8MTc2NzQ4ODU0OHww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

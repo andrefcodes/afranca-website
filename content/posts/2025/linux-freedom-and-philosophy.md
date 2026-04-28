@@ -5,7 +5,7 @@ lastmod: 2025-12-07T23:48:40+00:00
 slug: "linux-freedom-and-philosophy"
 description: "Choosing Linux as a commitment to software freedom, user autonomy, and rejecting closed, corporate-controlled technology. "
 image: "https://images.unsplash.com/photo-1599153066743-08810dc8a419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fHVidW50dXxlbnwwfHx8fDE3NjQ4NTY3MDV8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Linux", "OpenSource", "Technology", "Privacy"]
+tags: ["linux", "opensource", "technology", "privacy"]
 draft: false
 featured: false
 ---

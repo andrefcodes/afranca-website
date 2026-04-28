@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:12:59+00:00
 slug: "the-power-of-writing"
 description: "Discovering self-expression through daily journaling and blogging, overcoming introversion and fear of judgment online. "
 image: "https://images.unsplash.com/photo-1455390582262-044cdead277a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHdyaXRpbmd8ZW58MHx8fHwxNzY0NzA2MzUzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging"]
+tags: ["blogging"]
 draft: false
 featured: false
 ---

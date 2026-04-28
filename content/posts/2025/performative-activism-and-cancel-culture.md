@@ -5,7 +5,7 @@ lastmod: 2025-12-08T15:03:31+00:00
 slug: "performative-activism-and-cancel-culture"
 description: "Performative activism and cancel culture in Brazil often silence dissent, fuel polarization, and threaten free speech and legal certainty. "
 image: "https://images.unsplash.com/photo-1760783720231-4a3418ddd118?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDM0fHxhY3RpdmlzbXxlbnwwfHx8fDE3NjQ2OTY3MjZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Politics", "Blogging"]
+tags: ["politics", "blogging"]
 draft: false
 featured: false
 ---

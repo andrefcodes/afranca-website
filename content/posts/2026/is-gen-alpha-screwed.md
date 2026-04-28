@@ -5,7 +5,7 @@ lastmod: 2026-01-18T14:07:43+00:00
 slug: "is-gen-alpha-screwed"
 description: "As a dad of 2, I choose books over screens. Subscriptions like Leiturinha help us prioritize presence over algorithms."
 image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDY5fHxSRUFESU5HfGVufDB8fHx8MTc2ODYwOTgwN3ww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Link Posts"]
+tags: ["link posts"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:33:09+00:00
 slug: "black-friday"
 description: "Black Friday’s frenzy manipulates desires; even I fell for a rare Proton Unlimited deal, showing the tension between need, impulse, and real value. "
 image: "https://images.unsplash.com/photo-1542992015-4a0b729b1385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGJsYWNrJTIwZnJpZGF5fGVufDB8fHx8MTc2NDY3MzgxMXww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Digital Minimalism", "Proton", "Black Friday"]
+tags: ["blogging", "digital minimalism", "proton", "black friday"]
 draft: false
 featured: false
 ---

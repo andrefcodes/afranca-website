@@ -5,7 +5,7 @@ lastmod: 2025-12-28T00:05:14+00:00
 slug: "why-90s-movies-feel-more-alive-than-anything-on-netflix"
 description: "80s and 90s films feel alive, with rich characters and risks; modern movies favor style, streaming metrics, and algorithms over depth. "
 image: "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fG5ldGZsaXh8ZW58MHx8fHwxNzY0NjA1MzM3fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Classic Cinema", "Modern Movies", "Netflix", "Streaming"]
+tags: ["blogging", "classic cinema", "modern movies", "netflix", "streaming"]
 draft: false
 featured: false
 ---

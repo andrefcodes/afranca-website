@@ -5,7 +5,7 @@ lastmod: 2025-12-08T12:16:59+00:00
 slug: "i-surrendered-to-google"
 description: "Struggling for online privacy, I reluctantly chose YouTube Premium for ad-free, usable streaming despite sacrificing some privacy. "
 image: "https://images.unsplash.com/photo-1577071835592-d5d55ffef660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDExfHxnb29nbGV8ZW58MHx8fHwxNzY0NzA1NTI4fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Privacy", "Social Media", "Blogging"]
+tags: ["privacy", "social media", "blogging"]
 draft: false
 featured: false
 ---

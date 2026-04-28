@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:31:55+00:00
 slug: "andre-updates-september-2022"
 description: "Little progress last month: migrated Jekyll to Ghost, self-hosted Vaultwarden, and shared concerns about Brazil's upcoming elections."
 image: "https://images.unsplash.com/photo-1585776245991-cf89dd7fc73a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDF8fHVwZGF0ZXN8ZW58MHx8fHwxNzY0NzIzODEzfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Monthly Updates"]
+tags: ["monthly updates"]
 draft: false
 featured: false
 ---

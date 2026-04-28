@@ -5,7 +5,7 @@ lastmod: 2025-12-17T12:18:32+00:00
 slug: "apprentices-of-goebbels"
 description: "Tired of online zealots who replace debate with labels. Dehumanization masquerading as virtue."
 image: "https://images.unsplash.com/photo-1617537764223-3ab765defc93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwM3x8cHJvdGVzdHxlbnwwfHx8fDE3NjU5MTQ1ODZ8MA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Politics"]
+tags: ["politics"]
 draft: false
 featured: false
 ---

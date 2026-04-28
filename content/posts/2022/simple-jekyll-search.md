@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:07:23+00:00
 slug: "simple-jekyll-search"
 description: "Lightweight on-site search added to my Jekyll blog using Simple Jekyll Search, with custom templates and full-content indexing for better results "
 image: "https://images.unsplash.com/photo-1665470909928-a832ebc923d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHx3ZWIlMjBzZWFyY2h8ZW58MHx8fHwxNzY0NzI0MzE5fDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Jekyll", "Static Site Generator"]
+tags: ["jekyll", "static site generator"]
 draft: false
 featured: false
 ---

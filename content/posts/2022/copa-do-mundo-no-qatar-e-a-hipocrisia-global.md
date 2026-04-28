@@ -5,7 +5,7 @@ lastmod: 2025-12-08T00:39:47+00:00
 slug: "copa-do-mundo-no-qatar-e-a-hipocrisia-global"
 description: "Crítica à hipocrisia global na Copa 2022: sabemos dos abusos no Catar, mas seguimos assistindo o evento. "
 image: "https://images.unsplash.com/photo-1637203727317-3cc1a557cdbf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fHdvcmxkJTIwY3VwfGVufDB8fHx8MTc2NDcyNTQyMnww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Sports"]
+tags: ["sports"]
 draft: false
 featured: false
 ---

@@ -5,7 +5,7 @@ lastmod: 2025-12-12T03:49:07+00:00
 slug: "johnny-decimal-system"
 description: "Trying the Johnny Decimal System showed me what works and what doesn’t. A hybrid of JDS, hierarchy, and creative chaos is what keeps me sane."
 image: "https://images.unsplash.com/photo-1461360228754-6e81c478b882?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDV8fGZpbGVzfGVufDB8fHx8MTc2NTUwNzMwMnww&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Organization", "Blogging"]
+tags: ["organization", "blogging"]
 draft: false
 featured: false
 ---

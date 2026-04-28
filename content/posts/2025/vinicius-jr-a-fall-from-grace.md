@@ -5,7 +5,7 @@ lastmod: 2025-12-08T14:54:19+00:00
 slug: "vinicius-jr-a-fall-from-grace"
 description: "Vinícius Júnior disappoints fans with on-field conflicts and endorsing criminal-linked content, raising doubts about his judgment and character. "
 image: "https://images.unsplash.com/photo-1635710064268-69aa5d9355c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDh8fHJlYWwlMjBtYWRyaWR8ZW58MHx8fHwxNzY0NzAyOTAwfDA&ixlib=rb-4.1.0&q=80&w=2000"
-tags: ["Blogging", "Sports"]
+tags: ["blogging", "sports"]
 draft: false
 featured: false
 ---
