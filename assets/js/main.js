@@ -62,3 +62,26 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+// Blogroll random picker
+
+document.addEventListener('DOMContentLoaded', function() {
+    const randomButton = document.querySelector('.blogroll-random-button');
+    if (!randomButton) {
+        return;
+    }
+
+    const blogLinks = Array.from(document.querySelectorAll('.blogroll-link'));
+    if (!blogLinks.length) {
+        randomButton.disabled = true;
+        randomButton.title = 'No blogroll entries available';
+        return;
+    }
+
+    randomButton.addEventListener('click', function() {
+        const randomLink = blogLinks[Math.floor(Math.random() * blogLinks.length)];
+        if (randomLink && randomLink.href) {
+            window.open(randomLink.href, '_blank', 'noopener');
+        }
+    });
+});
