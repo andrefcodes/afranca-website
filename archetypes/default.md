@@ -6,5 +6,5 @@ slug: "{{ .File.ContentBaseName }}"
 description: ""
 image: ""
 draft: false
-tags: []
+tags: [""]
 ---

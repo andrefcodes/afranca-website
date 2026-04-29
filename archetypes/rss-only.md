@@ -7,7 +7,7 @@ description: ""
 image: ""
 draft: false
 featured: false
-tags: []
+tags: ["RSS-only"]
 build:
   list: local
   render: link
