@@ -1,0 +1,237 @@
+/* ========================================
+   Footer
+   ======================================== */
+footer {
+    border-top: var(--standard-border);
+    padding: 2.5rem 0;
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.5rem 1rem;
+    font-size: 90%;
+}
+
+.copyright {
+    margin: 0;
+}
+
+.footer-nav {
+    display: flex;
+    gap: 1rem;
+}
+
+.footer-nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-nav li {
+    margin: 0;
+    padding: 0;
+}
+
+.footer-nav li::before {
+    display: none;
+}
+
+.footer-nav a {
+    text-decoration: none;
+}
+
+footer a {
+    font-weight: 600;
+}
+
+.powered-by {
+    opacity: 0.7;
+    font-size: 0.9em;
+}
+
+.powered-by:hover {
+    opacity: 1;
+}
+
+@media (max-width: 600px) {
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+        gap: 0.75rem;
+    }
+
+    .footer-nav {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+
+footer a:hover {
+    color: var(--link-color);
+    background: none;
+}
+
+.footer-badges {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 5px;
+    margin-top: 2.5rem;
+}
+
+.footer-badges a {
+    display: inline-block;
+}
+
+.footer-badges img {
+    width: 95px;
+    height: 35px;
+    border-radius: 0;
+    border: solid;
+}
+
+/* ========================================
+   Error Pages
+   ======================================== */
+.error-page main {
+    text-align: center;
+    padding: 4rem 0;
+}
+
+.error-page h1 {
+    font-size: 4rem;
+    margin-bottom: 0.5rem;
+}
+
+.error-details {
+    text-align: left;
+    max-width: 40rem;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: var(--accent-background-color);
+    border-radius: 8px;
+}
+
+/* ========================================
+   Pagination
+   ======================================== */
+.pagination {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+}
+
+.pagination-prev,
+.pagination-next {
+    flex: 1;
+}
+
+.pagination-prev {
+    text-align: left;
+}
+
+.pagination-next {
+    text-align: right;
+}
+
+.pagination-info {
+    flex: 1;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.pagination a {
+    padding: 0.5rem 1rem;
+    background: var(--accent-background-color);
+    border-radius: 4px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.pagination a:hover {
+    background: var(--link-color);
+    color: var(--notice-text-color);
+}
+
+@media (max-width: 600px) {
+    .pagination {
+        flex-wrap: wrap;
+        gap: 0;
+    }
+
+    .pagination-info {
+        order: -1;
+        flex-basis: 100%;
+        margin-bottom: 0.75rem;
+    }
+
+    .pagination-prev,
+    .pagination-next {
+        flex: 0 0 auto;
+    }
+
+    .pagination-next {
+        margin-left: auto;
+    }
+}
+
+/* ========================================
+   Ghost Specific - Member Features
+   ======================================== */
+.gh-head-members {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.gh-head-link {
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+}
+
+.gh-head-button {
+    padding: 0.5rem 1rem;
+    background: var(--link-color);
+    color: var(--notice-text-color);
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.gh-head-button:hover {
+    opacity: 0.9;
+}
+
+/* Comments section */
+.article-comments {
+    padding-top: 2rem;
+    border-top: 2px dashed var(--main-text-color);
+}
+
+/* ========================================
+   Details/Summary
+   ======================================== */
+summary {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+details {
+    background: var(--background-color);
+    margin-bottom: 2rem;
+}
+
+details[open] summary {
+    margin-bottom: 0.5rem;
+    padding: 0;
+}
+
+details[open] > *:last-child {
+    margin-bottom: 0;
+}

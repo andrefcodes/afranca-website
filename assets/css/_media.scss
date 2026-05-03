@@ -1,0 +1,233 @@
+/* ========================================
+   Images & Media
+   ======================================== */
+img,
+figure,
+video {
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.content img {
+    border: 1px solid var(--post-image-border-color);
+    box-sizing: border-box;
+}
+
+img + em,
+figcaption {
+    font-size: 80%;
+    text-align: center;
+    display: block;
+    line-height: 3;
+}
+
+.with-gradient {
+    padding: 15px;
+    background-image: radial-gradient(
+        circle 1292px at -13.6% 51.7%,
+        var(--img-bg-color)
+    );
+}
+
+.with-gradient img {
+    display: block;
+    border-radius: 10px;
+    box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3);
+    border: transparent;
+}
+
+/* Responsive video container */
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    border-radius: 10px;
+    margin: var(--bigger-content-margin);
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* Ghost card embeds */
+.kg-card {
+    margin: var(--bigger-content-margin);
+}
+
+.kg-image-card img {
+    margin: 0 auto;
+}
+
+
+
+.kg-gallery-card,
+.kg-gallery-row,
+.kg-gallery-image {
+    display: flex;
+}
+
+.kg-gallery-row {
+    gap: 1rem;
+}
+
+/* Koenig editor width classes */
+.kg-width-wide {
+    position: relative;
+    width: 85vw;
+    max-width: 1200px;
+    margin: var(--bigger-content-margin);
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.kg-width-full {
+    position: relative;
+    width: 100vw;
+    margin: var(--bigger-content-margin);
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.kg-width-wide img,
+.kg-width-full img {
+    max-width: 100%;
+}
+
+@media (max-width: 750px) {
+    .kg-width-wide,
+    .kg-width-full {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+/* ========================================
+   Code Blocks
+   ======================================== */
+pre,
+code,
+tt,
+var {
+    font-family: var(--mono);
+    font-size: 1rem;
+    color: var(--main-text-color);
+    background: var(--accent-background-color);
+    padding: 2px 5px;
+    border: 1px solid var(--main-text-color);
+    border-radius: 4px;
+}
+
+pre,
+pre.highlight {
+    background: var(--main-background-color);
+    border: 1px solid var(--main-text-color);
+    margin: var(--bigger-content-margin);
+    max-width: 100%;
+    padding: 1.5rem;
+    max-height: 650px;
+    overflow: auto;
+    white-space: pre;
+}
+
+pre code {
+    font-size: 0.95rem;
+    padding: 0;
+    background: none;
+    border: none;
+}
+
+kbd {
+    color: var(--main-text-color);
+    background: var(--accent-background-color);
+    border: 1px solid var(--main-text-color);
+    border-bottom: var(--standard-border);
+    border-radius: 5px;
+    padding: 0.1rem 0.25rem;
+}
+
+/* ========================================
+   Blockquotes & Misc Elements
+   ======================================== */
+blockquote {
+    font-size: 100%;
+    margin: var(--bigger-content-margin);
+    padding: 0 0.8rem;
+    border-left: 3px solid var(--notice-color);
+    font-style: italic;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--main-text-color);
+    margin: 2.5rem auto;
+}
+
+mark {
+    padding: 0.1rem 0.25rem;
+    background-color: var(--warning-color);
+    border-radius: 4px;
+}
+
+abbr[title] {
+    cursor: help;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+/* ========================================
+   Info/Tip/Warning Boxes
+   ======================================== */
+.info {
+    position: relative;
+    padding: 1rem;
+    margin: 2rem 0;
+    border: 1px solid;
+    border-left: 10px solid;
+    border-color: var(--info-color);
+    border-radius: 0.25rem;
+}
+
+.tip {
+    position: relative;
+    padding: 1rem;
+    margin: 2rem 0;
+    border: 1px solid;
+    border-left: 10px solid;
+    border-color: var(--tip-color);
+    border-radius: 0.25rem;
+}
+
+.warning {
+    position: relative;
+    padding: 1rem;
+    margin: 2rem 0;
+    border: 1px solid;
+    border-left: 10px solid;
+    border-color: var(--warning-color);
+    border-radius: 0.25rem;
+}
+
+/* ========================================
+   Footnotes
+   ======================================== */
+.footnotes {
+    margin-top: 3em;
+}
+
+.footnotes li,
+.footnotes p {
+    color: var(--main-text-color);
+    font-size: 95%;
+}

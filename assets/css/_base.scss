@@ -1,0 +1,390 @@
+/* ========================================
+   Base Styles
+   ======================================== */
+html {
+    scroll-behavior: smooth;
+    padding: 0 1em;
+}
+
+/* Hidden elements (for microformats and screen readers) */
+.hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+body {
+    color: var(--main-text-color);
+    background: var(--main-background-color);
+    font-family: var(--font-sans);
+    font-feature-settings: "kern" on;
+    font-variant-ligatures: common-ligatures;
+    font-size: var(--default-font-size);
+    line-height: var(--default-line-height);
+    text-rendering: optimizeLegibility;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+main,
+header,
+footer {
+    display: block;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+article {
+    padding: 0.5em 0;
+}
+
+/* ========================================
+   Header & Navigation
+   ======================================== */
+header {
+    margin-bottom: 2em;
+}
+
+.site-title {
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: var(--font-mono);
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--accent-text-color);
+}
+
+.site-title a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.site-title::after {
+    display: inline-block;
+    content: "";
+    width: 0.35em;
+    height: 0.35em;
+    margin-left: 0.1em;
+    background: var(--link-color);
+    border-radius: 0.0625rem;
+    vertical-align: inherit;
+}
+
+/* Header Brand: title left, actions right */
+.gh-head-brand {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 3rem;
+    margin-bottom: 0;
+}
+
+.gh-head-actions {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* Navigation - horizontal layout */
+.gh-head-menu {
+    border-top: var(--standard-border);
+    font-weight: 600;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 0.4rem;
+    gap: 0;
+}
+
+.gh-head-menu .nav {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 0;
+}
+
+.gh-head-menu .nav li {
+    margin: 0;
+    padding: 0;
+}
+
+.gh-head-menu a,
+.gh-head-menu a:visited {
+    padding: 0.3rem 1rem 0.3rem 0;
+    text-decoration: none;
+    margin: 0;
+}
+
+.gh-head-menu a:hover,
+.gh-head-menu .nav-current a,
+.gh-head-menu a.nav-current {
+    color: var(--link-color);
+}
+
+/* RSS icon in header */
+.nav-rss {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    color: var(--main-text-color);
+    text-decoration: none;
+}
+
+.nav-rss:hover {
+    color: var(--link-color);
+}
+
+.nav-rss svg {
+    width: 18px;
+    height: 18px;
+    fill: currentColor;
+}
+
+/* Search icon in header */
+.nav-search {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    color: var(--main-text-color);
+    text-decoration: none;
+    align-self: flex-end;
+}
+
+.nav-search:hover {
+    color: var(--link-color);
+}
+
+.nav-search svg {
+    width: 18px;
+    height: 18px;
+    stroke: currentColor;
+}
+
+/* Search button */
+.gh-search {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    color: var(--main-text-color);
+}
+
+.gh-search:hover {
+    color: var(--link-color);
+}
+
+/* Hamburger menu button - hidden on desktop */
+.gh-burger {
+    position: relative;
+    display: none;
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    appearance: none;
+}
+
+.gh-burger::before,
+.gh-burger::after {
+    position: absolute;
+    left: 3px;
+    width: 24px;
+    height: 2px;
+    content: "";
+    background-color: var(--main-text-color);
+    transition: all 0.2s cubic-bezier(0.04, 0.04, 0.12, 0.96) 0.1s;
+}
+
+.gh-burger::before {
+    top: 10px;
+}
+
+.gh-burger::after {
+    bottom: 10px;
+}
+
+/* Hamburger X animation when open */
+.gh-head-open .gh-burger::before {
+    top: 15px;
+    transform: rotate(45deg);
+}
+
+.gh-head-open .gh-burger::after {
+    bottom: 14px;
+    transform: rotate(-45deg);
+}
+
+/* Mobile styles */
+@media (max-width: 750px) {
+    /* Show hamburger on mobile */
+    .gh-burger {
+        display: block;
+    }
+
+    /* Hide nav menu by default on mobile */
+    .gh-head-menu {
+        display: none;
+    }
+
+    /* When menu is open on mobile */
+    .gh-head-open .gh-head-menu {
+        display: block;
+        padding: 1rem 0;
+        border: var(--dashed-border);
+        line-height: 2;
+        text-align: center;
+    }
+
+    .gh-head-open .gh-head-menu .nav {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .gh-head-open .gh-head-menu a {
+        padding: 0.5rem 0;
+    }
+}
+
+/* ========================================
+   Typography
+   ======================================== */
+h1 {
+    color: var(--accent-text-color);
+    font-family: var(--font-mono);
+    word-wrap: break-word;
+    margin: 1.2em 0;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+h2 {
+    color: var(--accent-text-color);
+    font-family: var(--font-mono);
+    word-wrap: break-word;
+    margin-top: 2em;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+h3 {
+    color: var(--accent-text-color);
+    font-family: var(--font-mono);
+    word-wrap: break-word;
+    margin-top: 2em;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+h4 {
+    color: var(--accent-text-color);
+    font-family: var(--font-mono);
+    word-wrap: break-word;
+    margin-top: 2em;
+    font-size: var(--default-font-size);
+    text-transform: uppercase;
+    letter-spacing: 0.01rem;
+    font-weight: 700;
+}
+
+h5 {
+    color: var(--accent-text-color);
+    font-family: var(--font-mono);
+    word-wrap: break-word;
+    margin-top: 1.5em;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+h6 {
+    color: var(--accent-text-color);
+    font-family: var(--font-mono);
+    word-wrap: break-word;
+    margin-top: 1.5em;
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+h1 code,
+h2 code,
+h3 code,
+h4 code,
+h5 code,
+h6 code {
+    font-size: inherit;
+    color: var(--accent-text-color);
+}
+
+p {
+    margin: var(--content-margin);
+    text-align: left;
+}
+
+a,
+a:visited {
+    color: var(--main-text-color);
+    transition:
+        color 0.1s ease-in-out,
+        background-color 0.1s ease-in-out;
+}
+
+a:hover {
+    color: var(--link-color);
+}
+
+h2 a,
+h3 a,
+h2 a:visited,
+h3 a:visited {
+    color: var(--accent-text-color);
+}
+
+/* Keep title-like links aligned with mono heading style */
+.post-list-table .p-name,
+.recent-posts a,
+.post-nav a {
+    font-family: var(--font-mono);
+}
+
+/* ========================================
+   Content Area
+   ======================================== */
+.content {
+    padding: 1.25em 0;
+}
+
+/* Index page feed - same spacing as article */
+.h-feed {
+    padding-top: 0.5em;
+}
+
+.tag-content {
+    padding-bottom: 2.5em;
+}
+
+.site-intro {
+    font-weight: 400;
+    color: var(--main-text-color);
+    margin: 2rem 0 2rem;
+}

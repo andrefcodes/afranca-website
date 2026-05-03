@@ -1,0 +1,60 @@
+/* ========================================
+   Search Page
+   ======================================== */
+.search-form {
+    margin: 0 0 1rem;
+}
+
+.search-input {
+    width: 100%;
+    max-width: 100%;
+    padding: 0.75rem 0.9rem;
+    font-size: 1rem;
+    font-family: inherit;
+    border: var(--standard-border);
+    border-radius: 4px;
+    background: var(--main-background-color);
+    color: var(--main-text-color);
+    box-sizing: border-box;
+}
+
+.search-input:focus {
+    outline: 2px solid var(--link-color);
+    outline-offset: 1px;
+}
+
+.search-input::placeholder {
+    color: var(--main-text-color);
+    opacity: 0.65;
+}
+
+#lunrsearchresults h3 {
+    margin: 0.25rem 0 1rem;
+}
+
+#lunrsearchresults ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: var(--standard-border);
+}
+
+.lunrsearchresult {
+    margin: 0;
+    padding: 0.8rem 0;
+    border-bottom: var(--dashed-border);
+}
+
+.lunrsearchresult .title {
+    display: inline-block;
+    margin-bottom: 0.2rem;
+    font-family: var(--font-mono);
+    font-weight: 600;
+    color: var(--accent-text-color);
+}
+
+.lunrsearchresult .body {
+    font-size: 0.95rem;
+    color: var(--main-text-color);
+    opacity: 0.95;
+}

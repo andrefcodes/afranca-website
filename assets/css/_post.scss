@@ -1,0 +1,560 @@
+/* ========================================
+   Post Info & Metadata
+   ======================================== */
+
+/* Post page title - reduce space before post-info */
+.article h1.p-name {
+    margin-bottom: 0.3em;
+}
+
+.post-info {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    font-size: 1rem;
+    margin: 0 0 1em;
+    color: var(--main-text-color);
+}
+
+.post-info .h-card {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.post-info .u-photo {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0;
+}
+
+.post-info .meta-sep {
+    margin: 0 0.2rem;
+}
+
+.reading-time {
+    font-size: 0.9rem;
+    color: var(--main-text-color);
+}
+
+/* ========================================
+   Tables (Post Lists)
+   ======================================== */
+table {
+    margin: 1.5em auto;
+    width: 100%;
+    border: var(--standard-border);
+    border-collapse: collapse;
+}
+
+/* Index page content spacing */
+.index-content {
+    margin-top: 1.2em;
+}
+
+.post-list-table {
+    margin: 1.5em auto;
+    width: 100%;
+    border: var(--standard-border);
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    padding: 0.5rem 0.8rem;
+    background: var(--accent-background-color);
+    border-bottom: var(--standard-border);
+}
+
+.th-date {
+    text-align: center;
+    white-space: nowrap;
+}
+
+td {
+    padding: 0.5rem 0.8rem;
+}
+
+.td-date {
+    text-align: center;
+    white-space: nowrap;
+    width: 50px;
+}
+
+.td-date-right {
+    text-align: right;
+    white-space: nowrap;
+}
+
+tr:nth-child(2n) {
+    background: var(--accent-background-color);
+}
+
+.featured-badge {
+    color: var(--warning-color);
+    margin-left: 0.5rem;
+}
+
+/* ========================================
+   Tags
+   ======================================== */
+.postTags {
+    border-top: 2px dashed var(--main-text-color);
+    margin-top: 1em;
+}
+
+.postTags h2 {
+    margin-top: 1em;
+}
+
+.tag-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.tag-list li a {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    background: var(--accent-background-color);
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.tag-list li a:hover {
+    background: var(--link-color);
+    color: var(--notice-text-color);
+}
+
+.tag-description {
+    margin: 1rem 0 2rem;
+    font-style: italic;
+}
+
+/* ========================================
+   Post Footer Box (after article)
+   ======================================== */
+.after-article {
+    border-top: 2px dashed var(--main-text-color);
+    margin-top: 2rem;
+}
+
+.post-footer-box {
+    margin: 3rem 0 2rem;
+    font-size: 90%;
+    border: 1px solid;
+    text-align: center;
+    padding: 2rem 2rem 1rem;
+    position: relative;
+}
+
+.post-footer-box::before {
+    color: var(--notice-text-color);
+    display: block;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -1rem;
+    font-weight: bold;
+    border: 1px solid;
+    padding: 0.25rem 1rem;
+    content: "THANK YOU";
+    background: var(--notice-color);
+}
+
+.post-footer-box p {
+    margin: 0.5rem 0;
+    text-align: center;
+}
+
+.post-footer-actions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.75rem;
+    margin: 1.5rem 0;
+}
+
+.post-footer-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--main-text-color);
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    background: transparent;
+    color: var(--main-text-color);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.2s ease;
+}
+
+.post-footer-btn:hover {
+    color: var(--notice-text-color);
+    border-color: transparent;
+}
+
+.post-footer-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
+.post-footer-btn-email:hover {
+    background: var(--info-color);
+}
+
+.post-footer-btn-mastodon:hover {
+    background: hsl(262, 67%, 54%);
+}
+
+.post-footer-btn-webmention:hover {
+    background: hsl(120, 50%, 45%);
+}
+
+.post-footer-small {
+    font-size: 0.85rem;
+    opacity: 0.8;
+}
+
+/* Mastodon Share Dialog */
+.share-dialog {
+    padding: 0;
+    border: 1px solid var(--main-text-color);
+    border-radius: 12px;
+    background: var(--main-background-color);
+    color: var(--main-text-color);
+    max-width: 400px;
+    width: 90%;
+}
+
+.share-dialog::backdrop {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.share-dialog-content {
+    padding: 1.5rem;
+}
+
+.share-dialog-content h3 {
+    margin: 0 0 0.5rem;
+}
+
+.share-dialog-content p {
+    margin: 0 0 1rem;
+    font-size: 0.9rem;
+}
+
+.share-dialog-input-group {
+    margin-bottom: 1.5rem;
+}
+
+.share-dialog-input-group input {
+    width: 100%;
+    padding: 0.6rem 0.8rem;
+    font-size: 1rem;
+    font-family: inherit;
+    border: 1px solid var(--main-text-color);
+    border-radius: 4px;
+    background: var(--main-background-color);
+    color: var(--main-text-color);
+    box-sizing: border-box;
+}
+
+.share-dialog-input-group input:focus {
+    outline: 2px solid var(--link-color);
+    outline-offset: 1px;
+}
+
+.share-dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+}
+
+.share-dialog-btn {
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    font-family: inherit;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+.share-dialog-cancel {
+    background: var(--accent-background-color);
+    color: var(--main-text-color);
+}
+
+.share-dialog-confirm {
+    background: hsl(262, 67%, 54%);
+    color: white;
+}
+
+.share-dialog-btn:hover {
+    opacity: 0.9;
+}
+
+/* Youtube Consent Warning Box */
+.yt-warning {
+    margin: 3rem 0 2rem;
+    font-size: 90%;
+    border: 1px solid;
+    border-color: var(--warning-color);
+    text-align: center;
+    padding: 0 4rem 1rem;
+}
+.yt-warning::before {
+    color: var(--warning-text-color);
+    display: block;
+    position: relative;
+    left: -4.06rem;
+    top: -1rem;
+    font-weight: bold;
+    border: 1px solid;
+    padding-top: 0.1rem;
+    width: 10rem;
+    content: "WARNING";
+    background: var(--warning-color);
+    border-color: var(--warning-color);
+}
+.yt-warning br {
+    content: "";
+    margin: 0.5em;
+    display: block;
+}
+@media (max-width: 750px) {
+    .yt-warning {
+        margin: 3.5rem 0 2rem;
+    }
+    .yt-warning::before {
+        top: -1.1rem;
+        padding: 0.2rem 0 0.1rem;
+    }
+}
+
+/* Outdated content warning notice */
+.notice-outdated {
+    margin: 2.5rem 0 0 0;
+    padding: 1rem 1.5rem;
+    font-size: 0.9rem;
+    border: 1px solid var(--warning-color);
+    border-left: 4px solid var(--warning-color);
+    background: hsla(46, 100%, 52%, 0.1);
+    text-align: left;
+}
+
+.notice-outdated::before {
+    display: none;
+}
+
+.notice-outdated p {
+    margin: 0;
+}
+
+.notice-outdated .post-age {
+    font-weight: 700;
+}
+
+@media (prefers-color-scheme: dark) {
+    .notice-outdated {
+        background: hsla(46, 93%, 45%, 0.15);
+    }
+}
+
+.dark-mode .notice-outdated {
+    background: hsla(46, 93%, 45%, 0.15);
+}
+
+/* ========================================
+   Webmention Form
+   ======================================== */
+.webmention-form {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border: 1px solid var(--main-text-color);
+    border-radius: 8px;
+}
+
+.webmention-form h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.1rem;
+}
+
+.webmention-description {
+    margin: 0 0 1rem;
+    font-size: 0.9rem;
+    opacity: 0.9;
+}
+
+.webmention-input-group {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.webmention-input {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.6rem 0.8rem;
+    font-size: 1rem;
+    font-family: inherit;
+    border: 1px solid var(--main-text-color);
+    border-radius: 4px;
+    background: var(--main-background-color);
+    color: var(--main-text-color);
+}
+
+.webmention-input:focus {
+    outline: 2px solid var(--link-color);
+    outline-offset: 1px;
+}
+
+.webmention-input::placeholder {
+    color: var(--main-text-color);
+    opacity: 0.6;
+}
+
+.webmention-btn {
+    padding: 0.6rem 1.2rem;
+    font-size: 0.95rem;
+    font-family: inherit;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    background: var(--link-color);
+    color: var(--notice-text-color);
+    cursor: pointer;
+    transition: opacity 0.2s ease;
+}
+
+.webmention-btn:hover {
+    opacity: 0.9;
+}
+
+.webmention-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.webmention-help {
+    margin: 0.75rem 0 0;
+    font-size: 0.8rem;
+}
+
+.webmention-help a {
+    opacity: 0.7;
+}
+
+.webmention-status {
+    margin-top: 0.75rem;
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+.webmention-status.success {
+    background: var(--tip-color);
+    color: var(--notice-text-color);
+}
+
+.webmention-status.error {
+    background: var(--danger-color);
+    color: var(--notice-text-color);
+}
+
+/* ========================================
+   Post Navigation
+   ======================================== */
+.post-nav {
+    border-top: 2px dashed var(--main-text-color);
+    padding: 2rem 0 0;
+    margin: 2rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.post-nav-prev,
+.post-nav-next {
+    flex: 1;
+}
+
+.post-nav-prev {
+    text-align: left;
+}
+
+.post-nav-next {
+    text-align: right;
+}
+
+.post-nav-prev h2,
+.post-nav-next h2 {
+    margin: 0.5rem 0 0.25rem 0;
+}
+
+.post-nav-prev a,
+.post-nav-next a {
+    display: block;
+    font-weight: bold;
+    text-decoration: underline;
+    color: var(--main-text-color);
+    transition: color 0.2s ease;
+}
+
+.post-nav-prev a:hover,
+.post-nav-next a:hover {
+    color: var(--link-color);
+}
+
+.recent-posts {
+    padding: 1rem 0;
+    margin: 3rem 0 0;
+    border-top: 2px dashed var(--main-text-color);
+}
+
+.recent-posts h2 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.recent-posts a {
+    font-weight: bold;
+}
+
+.recent-posts table {
+    border: none;
+    margin: 0;
+}
+
+.recent-posts tr {
+    background: none !important;
+}
+
+.recent-posts td {
+    border: none;
+    padding: 0.25rem 0;
+}
+
+@media (max-width: 750px) {
+    .post-nav {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .post-nav-prev,
+    .post-nav-next {
+        text-align: left;
+        margin-bottom: 1rem;
+    }
+}

@@ -1,0 +1,54 @@
+/* ========================================
+   Responsive Design
+   ======================================== */
+@media (max-width: 750px) {
+    html {
+        padding: 0 0.5em;
+    }
+
+    h1 {
+        font-size: 1.75rem;
+    }
+
+    h2 {
+        font-size: 1.35rem;
+    }
+
+    table {
+        font-size: 0.9rem;
+    }
+
+    .notice {
+        padding: 1.5rem 1rem;
+    }
+
+    .notice::before {
+        font-size: 0.8rem;
+    }
+}
+
+/* ========================================
+   Print Styles
+   ======================================== */
+@media print {
+    body {
+        background: white;
+        color: black;
+    }
+
+    header,
+    footer,
+    .gh-burger,
+    .gh-search {
+        display: none;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+
+    pre,
+    code {
+        border: 1px solid #ccc;
+    }
+}
