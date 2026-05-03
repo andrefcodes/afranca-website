@@ -23,19 +23,25 @@
     --info-color: hsl(218deg 99.49% 69.16%);
     --danger-color: hsl(352, 81%, 59%);
     --link-color: hsl(207, 100%, 50%);
-    --img-bg-color: hsl(218, 74%, 54%) 0%, hsl(144, 42%, 75%) 51.5%, hsl(38, 100%, 98%) 88.6%;
-    
+    --img-bg-color:
+        hsl(218, 74%, 54%) 0%, hsl(144, 42%, 75%) 51.5%,
+        hsl(38, 100%, 98%) 88.6%;
+
     /* Ghost Native Comments - Light Mode */
     --ghost-comment-avatar-background: hsl(0, 0%, 92%);
     --ghost-comment-separator: hsl(0, 0%, 90%);
-    
+
     /* Fallback font stacks (used when Ghost Admin fonts not set) */
-    --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif;
-    --font-mono: "Chakra Petch", ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
-    
+    --font-sans:
+        -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+        sans-serif;
+    --font-mono:
+        "Chakra Petch", ui-monospace, SFMono-Regular, "SF Mono", Menlo,
+        Consolas, monospace;
+
     /* Legacy alias */
     --mono: var(--font-mono);
-    
+
     /* Typography settings */
     --default-font-size: 1.125em;
     --default-line-height: 1.618;
@@ -43,6 +49,7 @@
     --bigger-content-margin: 2.5rem auto;
     --standard-border: 1px solid var(--main-text-color);
     --dashed-border: 1px dashed var(--main-text-color);
+    --post-image-border-color: var(--main-text-color);
 }
 
 /* ========================================
@@ -62,13 +69,16 @@
         --info-color: hsl(218, 74%, 54%);
         --danger-color: hsl(352, 60%, 52%);
         --link-color: hsl(46, 100%, 57%);
-        --img-bg-color: hsl(14, 58%, 55%) 0%, hsl(210, 50%, 40%) 51.5%, hsl(38, 100%, 98%) 88.6%;
-        
+        --img-bg-color:
+            hsl(14, 58%, 55%) 0%, hsl(210, 50%, 40%) 51.5%,
+            hsl(38, 100%, 98%) 88.6%;
+        --post-image-border-color: hsl(0, 0%, 100%);
+
         /* Ghost Native Comments - Dark Mode */
         --ghost-comment-avatar-background: hsl(213, 13%, 17%);
         --ghost-comment-separator: hsl(213, 13%, 25%);
     }
-    
+
     img {
         opacity: 90%;
     }
@@ -83,7 +93,7 @@
     --main-background-color: hsl(210, 29%, 8%);
     --accent-background-color: hsl(213, 13%, 17%);
     --warning-color: hsl(46, 93%, 45%);
-    
+
     /* Ghost Native Comments - Dark Mode */
     --ghost-comment-avatar-background: hsl(213, 13%, 17%);
     --ghost-comment-separator: hsl(213, 13%, 25%);
@@ -92,6 +102,7 @@
     --info-color: hsl(218, 74%, 54%);
     --danger-color: hsl(352, 60%, 52%);
     --link-color: hsl(46, 100%, 57%);
+    --post-image-border-color: hsl(0, 0%, 100%);
 }
 
 /* ========================================
@@ -337,12 +348,12 @@ header {
     .gh-burger {
         display: block;
     }
-    
+
     /* Hide nav menu by default on mobile */
     .gh-head-menu {
         display: none;
     }
-    
+
     /* When menu is open on mobile */
     .gh-head-open .gh-head-menu {
         display: block;
@@ -351,13 +362,13 @@ header {
         line-height: 2;
         text-align: center;
     }
-    
+
     .gh-head-open .gh-head-menu .nav {
         display: flex;
         flex-direction: column;
         align-items: center;
     }
-    
+
     .gh-head-open .gh-head-menu a {
         padding: 0.5rem 0;
     }
@@ -422,7 +433,12 @@ h6 {
     font-weight: 600;
 }
 
-h1 code, h2 code, h3 code, h4 code, h5 code, h6 code {
+h1 code,
+h2 code,
+h3 code,
+h4 code,
+h5 code,
+h6 code {
     font-size: inherit;
     color: var(--accent-text-color);
 }
@@ -435,15 +451,19 @@ p {
 a,
 a:visited {
     color: var(--main-text-color);
-    transition: color 0.1s ease-in-out, background-color 0.1s ease-in-out;
+    transition:
+        color 0.1s ease-in-out,
+        background-color 0.1s ease-in-out;
 }
 
 a:hover {
     color: var(--link-color);
 }
 
-h2 a, h3 a,
-h2 a:visited, h3 a:visited {
+h2 a,
+h3 a,
+h2 a:visited,
+h3 a:visited {
     color: var(--accent-text-color);
 }
 
@@ -784,7 +804,42 @@ tr:nth-child(2n) {
 }
 
 /* Youtube Consent Warning Box */
-.yt-warning{ margin: 3rem 0 2rem; font-size: 90%; border: 1px solid; border-color: var(--warning-color); text-align: center; padding: 0 4rem 1rem;} .yt-warning::before{ color: var(--warning-text-color); display: block; position: relative; left: -4.06rem; top: -1rem; font-weight: bold; border: 1px solid; padding-top: 0.1rem; width: 10rem; content: "WARNING"; background: var(--warning-color); border-color: var(--warning-color);} .yt-warning br{ content: ""; margin: 0.5em; display: block;} @media (max-width: 750px){ .yt-warning{ margin: 3.5rem 0 2rem;} .yt-warning::before{ top: -1.1rem; padding: 0.2rem 0 0.1rem;}}
+.yt-warning {
+    margin: 3rem 0 2rem;
+    font-size: 90%;
+    border: 1px solid;
+    border-color: var(--warning-color);
+    text-align: center;
+    padding: 0 4rem 1rem;
+}
+.yt-warning::before {
+    color: var(--warning-text-color);
+    display: block;
+    position: relative;
+    left: -4.06rem;
+    top: -1rem;
+    font-weight: bold;
+    border: 1px solid;
+    padding-top: 0.1rem;
+    width: 10rem;
+    content: "WARNING";
+    background: var(--warning-color);
+    border-color: var(--warning-color);
+}
+.yt-warning br {
+    content: "";
+    margin: 0.5em;
+    display: block;
+}
+@media (max-width: 750px) {
+    .yt-warning {
+        margin: 3.5rem 0 2rem;
+    }
+    .yt-warning::before {
+        top: -1.1rem;
+        padding: 0.2rem 0 0.1rem;
+    }
+}
 
 /* Outdated content warning notice */
 .notice-outdated {
@@ -994,7 +1049,7 @@ tr:nth-child(2n) {
         flex-direction: column;
         align-items: stretch;
     }
-    
+
     .post-nav-prev,
     .post-nav-next {
         text-align: left;
@@ -1005,7 +1060,9 @@ tr:nth-child(2n) {
 /* ========================================
    Images & Media
    ======================================== */
-img, figure, video {
+img,
+figure,
+video {
     border-radius: 10px;
     display: block;
     margin: 0 auto;
@@ -1013,7 +1070,13 @@ img, figure, video {
     height: auto;
 }
 
-img + em, figcaption {
+.content img {
+    border: 1px solid var(--post-image-border-color);
+    box-sizing: border-box;
+}
+
+img + em,
+figcaption {
     font-size: 80%;
     text-align: center;
     display: block;
@@ -1022,7 +1085,10 @@ img + em, figcaption {
 
 .with-gradient {
     padding: 15px;
-    background-image: radial-gradient(circle 1292px at -13.6% 51.7%, var(--img-bg-color));
+    background-image: radial-gradient(
+        circle 1292px at -13.6% 51.7%,
+        var(--img-bg-color)
+    );
 }
 
 .with-gradient img {
@@ -1113,7 +1179,10 @@ img + em, figcaption {
 /* ========================================
    Code Blocks
    ======================================== */
-pre, code, tt, var {
+pre,
+code,
+tt,
+var {
     font-family: var(--mono);
     font-size: 1rem;
     color: var(--main-text-color);
@@ -1123,7 +1192,8 @@ pre, code, tt, var {
     border-radius: 4px;
 }
 
-pre, pre.highlight {
+pre,
+pre.highlight {
     background: var(--main-background-color);
     border: 1px solid var(--main-text-color);
     margin: var(--bigger-content-margin);
@@ -1292,7 +1362,7 @@ footer a {
         text-align: center;
         gap: 0.75rem;
     }
-    
+
     .footer-nav {
         justify-content: center;
         flex-wrap: wrap;
@@ -1392,18 +1462,18 @@ footer a:hover {
         flex-wrap: wrap;
         gap: 0;
     }
-    
+
     .pagination-info {
         order: -1;
         flex-basis: 100%;
         margin-bottom: 0.75rem;
     }
-    
+
     .pagination-prev,
     .pagination-next {
         flex: 0 0 auto;
     }
-    
+
     .pagination-next {
         margin-left: auto;
     }
@@ -1470,23 +1540,23 @@ details[open] > *:last-child {
     html {
         padding: 0 0.5em;
     }
-    
+
     h1 {
         font-size: 1.75rem;
     }
-    
+
     h2 {
         font-size: 1.35rem;
     }
-    
+
     table {
         font-size: 0.9rem;
     }
-    
+
     .notice {
         padding: 1.5rem 1rem;
     }
-    
+
     .notice::before {
         font-size: 0.8rem;
     }
@@ -1500,16 +1570,20 @@ details[open] > *:last-child {
         background: white;
         color: black;
     }
-    
-    header, footer, .gh-burger, .gh-search {
+
+    header,
+    footer,
+    .gh-burger,
+    .gh-search {
         display: none;
     }
-    
+
     a {
         text-decoration: underline;
     }
-    
-    pre, code {
+
+    pre,
+    code {
         border: 1px solid #ccc;
     }
 }
@@ -1865,14 +1939,24 @@ details[open] > *:last-child {
 }
 
 @keyframes clockwise {
-    0% { transform: rotate(0deg); }
-    100% { transform: rotate(360deg); }
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
 }
 
 @keyframes donut-rotate {
-    0% { transform: rotate(0); }
-    50% { transform: rotate(-140deg); }
-    100% { transform: rotate(0); }
+    0% {
+        transform: rotate(0);
+    }
+    50% {
+        transform: rotate(-140deg);
+    }
+    100% {
+        transform: rotate(0);
+    }
 }
 
 .pswp__ui {
