@@ -19,7 +19,7 @@
     <meta name="description" content="{{ . }}" />
     {{- end }}
     {{- /* Preload critical assets */ -}}
-    {{- $css := resources.Get "css/style.css" | toCSS (dict "targetPath" "/style.css") | minify | fingerprint -}}
+    {{- $css := resources.Get "css/style.scss" | toCSS (dict "targetPath" "/style.css") | minify | fingerprint -}}
     <link rel="preload" as="style" href="{{ $css.RelPermalink }}" />
     <link rel="stylesheet" type="text/css" href="{{ $css.RelPermalink }}" />
     <!-- Favicons -->

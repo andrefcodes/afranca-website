@@ -1,5 +1,5 @@
 baseURL = "https://afranca.com.br"
-languageCode = "en"
+locale = "en"
 title = "Andre Franca"
 enableRobotsTXT = true
 disableKinds = ["sitemap"]
@@ -102,7 +102,7 @@ summarylength = 70
   section = ['html']
   taxonomy = ['html']
   term = ['html']
-  
+
 [outputFormats]
   [outputFormats.atom]
     mediatype = "application/atom+xml"
