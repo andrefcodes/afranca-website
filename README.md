@@ -17,7 +17,6 @@ This repository contains:
 - Site configuration and templates
 - Markdown content (posts and pages)
 - Custom styles and JavaScript
-- Generated static output
 
 The site is focused on a fast, lightweight, and accessible reading experience.
 
@@ -61,5 +60,5 @@ Search is implemented with Lunr.js and rendered via site templates:
 
 ## Licenses
 
-- **Code:** GNU Affero General Public License v3.0 or later (see `LICENSE`)
+- **Code:** [GNU Affero General Public License v3.0 or later](https://raw.githubusercontent.com/andrefcodes/afranca-website/refs/heads/main/LICENSE)
 - **All content:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
