@@ -32,7 +32,6 @@ summarylength = 70
   fediverseCreator = "@abf@mas.to"
   fediverseURL = "https://mas.to/@abf"
   privacyAndTerms = "/about#privacy-and-terms"
-  umamiID = "b0cc7576-7b57-4722-b4e7-6a2747429615"
   hostingProvider = "Cloudflare"
   hostingProviderUrl = "https://workers.cloudflare.com/"
   codeLicense = "GNU AGPLv3+"

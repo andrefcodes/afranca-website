@@ -49,14 +49,6 @@ An acceptable attribution that complies with the license would be something like
 <p>Credit to <a href="https://afranca.com.br">Andre Franca</a> for the original work.</p>
 ```
 
-## Traffic Statistics
-
-I employ [Umami](https://github.com/umami-software/umami?ref=afranca.com.br), an open-source, cookie-less analytics service. It records only aggregated, anonymized metrics (page views, browser, OS, country).
-
-No personally identifiable information is stored and no cookies are set. Traffic statistics are public at the link below.
-
-[View Statistics](https://cloud.umami.is/share/r5M79aFmkwjWIDor?ref=afranca.com.br)
-
 ## Disclaimer
 
 Technical content on this site is provided "as is," without warranty of any kind. In no event shall I be liable for any claim, damages, or other liability.
