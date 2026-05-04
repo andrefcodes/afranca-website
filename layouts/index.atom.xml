@@ -57,10 +57,10 @@
 			{{- $contactLinks = $contactLinks | append (printf `<a href="mailto:%s?subject=%s&amp;body=%s" title="Reply via Email">email</a>` . $subject $body) -}}
 		{{- end -}}
 		{{- with site.Params.fediverseURL -}}
-			{{- $contactLinks = $contactLinks | append (printf `<a href="%s" rel="noopener">Mastodon</a>` .) -}}
+			{{- $contactLinks = $contactLinks | append (printf `<a href="%s" rel="noopener">mastodon</a>` .) -}}
 		{{- end -}}
 		{{- with site.Params.webmentionEndpoint -}}
-			{{- $contactLinks = $contactLinks | append (printf `<a href="%s">Webmention</a>` .) -}}
+			{{- $contactLinks = $contactLinks | append (printf `<a href="%s">webmention</a>` .) -}}
 		{{- end -}}
 		{{- $n := len $contactLinks -}}
 		{{- if gt $n 0 -}}
@@ -72,7 +72,7 @@
 			{{- else -}}
 				{{- $linksText = printf "%s, or %s" (delimit (first (sub $n 1) $contactLinks) ", ") (index $contactLinks (sub $n 1)) -}}
 			{{- end -}}
-			{{- $entryContent = printf `%s<hr /><p>Questions, comments, or feedback? Feel free to reach out by %s.</p>` $entryContent $linksText -}}
+			{{- $entryContent = printf `%s<hr /><p>Questions, comments, or feedbacks? Feel free to reach out by %s.</p>` $entryContent $linksText -}}
 		{{- end }}
 		<content type="html">{{ $entryContent | transform.XMLEscape | safeHTML }}</content>
 	</entry>
