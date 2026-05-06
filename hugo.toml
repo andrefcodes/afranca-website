@@ -40,6 +40,11 @@ summarylength = 70
   contentLicenseURL = "/licenses#content-license"
   sourceCode = "https://github.com/andrefcodes/afranca-website"
 
+  # Umami analytics
+  [params.umami]
+    id = "eba2c5a8-602b-46ff-9198-b7aa0af31168"
+    scriptUrl = "https://s.afranca.com.br/app"
+
   # rel="me" identity verification links (IndieWeb)
   [params.relMe]
     ids = ["https://mas.to/@abf", "https://github.com/andrefcodes", "https://codeberg.org/abf", "https://git.sr.ht/~abf/"]

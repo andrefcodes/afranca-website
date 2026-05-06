@@ -62,5 +62,14 @@
     {{- /* Open Graph & Twitter Cards */ -}}
     {{ partial "opengraph.html" . }}
 
+    {{- /* Umami Analytics */ -}}
+    {{- with site.Params.umami }}
+        {{- $umamiID := .id -}}
+        {{- $umamiSrc := .scriptUrl -}}
+        {{- if and $umamiID $umamiSrc }}
+            <script defer src="{{ $umamiSrc }}" data-website-id="{{ $umamiID }}"></script>
+        {{- end }}
+    {{- end }}
+
     {{ hugo.Generator }}
 </head>
