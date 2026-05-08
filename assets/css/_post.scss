@@ -142,6 +142,7 @@ tr:nth-child(2n) {
     border: 1px solid var(--main-text-color);
     border-radius: 4px;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .blogroll-download-wrap .gh-head-button:hover,
