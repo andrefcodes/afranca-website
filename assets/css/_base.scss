@@ -61,6 +61,10 @@ header {
     color: var(--accent-text-color);
 }
 
+.gh-head-brand .site-title {
+    font-family: var(--font-mono);
+}
+
 .site-title a {
     text-decoration: none;
     color: inherit;
@@ -71,10 +75,11 @@ header {
     content: "";
     width: 0.35em;
     height: 0.35em;
-    margin-left: 0.1em;
     background: var(--link-color);
     border-radius: 0.0625rem;
     vertical-align: inherit;
+    position: relative;
+    left: -0.20em;
 }
 
 /* Header Brand: title left, actions right */
@@ -361,7 +366,6 @@ h3 a:visited {
 }
 
 /* Keep title-like links aligned with mono heading style */
-.post-list-table .p-name,
 .recent-posts a,
 .post-nav a {
     font-family: var(--font-mono);

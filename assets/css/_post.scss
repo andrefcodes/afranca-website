@@ -62,6 +62,19 @@ table {
     border-collapse: collapse;
 }
 
+.post-list-table {
+    font-family: var(--font-sans);
+}
+
+.post-list-table th {
+    font-family: var(--font-mono);
+}
+
+.post-list-table td,
+.post-list-table .p-name {
+    font-family: var(--font-sans);
+}
+
 th {
     text-align: left;
     padding: 0.5rem 0.8rem;
@@ -96,6 +109,45 @@ tr:nth-child(2n) {
 .featured-badge {
     color: var(--warning-color);
     margin-left: 0.5rem;
+}
+
+/* ========================================
+   Blogroll Buttons
+   ======================================== */
+.blogroll-download-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin: 1.5rem 0;
+}
+
+.blogroll-download-wrap .gh-head-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    max-width: 260px;
+    height: 44px;
+    padding: 0 1rem;
+    text-align: center;
+    white-space: nowrap;
+    font-family: var(--font-mono);
+    font-size: 1rem;
+    line-height: 1;
+    font-weight: 600;
+    background: var(--link-color);
+    color: var(--notice-text-color);
+    border: 1px solid var(--main-text-color);
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.blogroll-download-wrap .gh-head-button:hover,
+.blogroll-download-wrap .gh-head-button:focus {
+    color: var(--notice-text-color);
+    opacity: 0.9;
 }
 
 /* ========================================
