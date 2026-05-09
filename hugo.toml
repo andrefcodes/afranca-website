@@ -38,7 +38,7 @@ summarylength = 70
   codeLicenseURL = "/licenses#code-license"
   contentLicense = "CC BY-NC-SA"
   contentLicenseURL = "/licenses#content-license"
-  sourceCode = "https://github.com/andrefcodes/afranca-website"
+  sourceCode = "https://codeberg.org/abf/afranca-website"
 
   # Umami analytics
   [params.umami]
@@ -60,7 +60,6 @@ summarylength = 70
     twitter = ""
     bluesky = ""
     mastodon = "https://mas.to/@abf"
-    github = "https://github.com/andrefcodes"
 
 [params.footer]
   badges = true
