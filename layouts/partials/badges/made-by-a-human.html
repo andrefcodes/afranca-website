@@ -1,1 +1,19 @@
+{{/*
+/// Copyright (C) 2026 Andre Franca <andre@abf.li>
+///
+/// This program is free software: you can redistribute it and/or modify
+/// it under the terms of the GNU Affero General Public License as published by
+/// the Free Software Foundation, either version 3 of the License, or
+/// (at your option) any later version.
+///
+/// This program is distributed in the hope that it will be useful,
+/// but WITHOUT ANY WARRANTY; without even the implied warranty of
+/// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+/// GNU Affero General Public License for more details.
+///
+/// You should have received a copy of the GNU Affero General Public License
+/// along with this program.  If not, see <https://www.gnu.org/licenses/>.
+///
+*/}}
+
 <img src="data:image/png;base64,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" alt="Human made content badge pack">
