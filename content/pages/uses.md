@@ -1,7 +1,7 @@
 ---
 title: "Things I Use"
 date: 2024-10-22T13:35:00+00:00
-lastmod: 2026-04-24T14:39:59-03:00
+lastmod: 2026-05-14T15:00:00-03:00
 slug: "uses"
 description: "Overview of my current hardware and software setup, from laptops and audio gear to productivity tools, open-source apps, and daily-use services. "
 image: "https://images.unsplash.com/photo-1619644213422-44a8c6f01d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxkZXZpY2VzfGVufDB8fHx8MTc2NzA0OTU0OHww&ixlib=rb-4.1.0&q=80&w=2000"
@@ -24,9 +24,9 @@ Some people on my blogroll have similar pages, and I find it useful and interest
   - Memory: 32GB DDR5 4800MHz
   - Battery: 80Whr (in my tests, around 3 hours)
   - Storage: 1TB PCIe Gen 4
-  - OS / DE: Arch Linux / Gnome
+  - OS / DE: Fedora / Gnome
   - External Monitor: DELL S2721QS 27"
-  - External Keyboard: Akko 3084B [Linear Switches](/from-tactile-to-linear-keyboard-switches)
+  - External Keyboard: Akko 3084B [Linear Switches]({{< ref "/posts/2024/from-tactile-to-linear-keyboard-switches.md" >}})
 
 ### Desktop
 
@@ -52,11 +52,11 @@ Some people on my blogroll have similar pages, and I find it useful and interest
   - Snapdragon 8 Gen 3 for Galaxy
   - RAM: 12GB
   - Storage: 512GB
-  - OS: Android (latest)
+  - OS: Android (latest available)
 - iPhone 11 Pro Max
   - Processor: A13 Bionic
   - Storage: 64GB
-  - OS: iOS (latest)
+  - OS: iOS (latest available)
 
 ---
 
@@ -103,7 +103,7 @@ Some people on my blogroll have similar pages, and I find it useful and interest
 
 ### Communication & Messaging
 
-- **Mail Service / Client:** [Proton Mail](https://proton.me/mail)
+- **Mail Service / Client:** [Zoho Mail](https://www.zoho.com/mail/)
 - **Messaging:** [Signal](https://signal.org/), [WhatsApp](https://www.whatsapp.com/)
 
 ---
@@ -118,7 +118,7 @@ Some people on my blogroll have similar pages, and I find it useful and interest
 ### Tasks, Planning & Scheduling
 
 - **To-Do / Task Management:** [Nextcloud Tasks](https://apps.nextcloud.com/apps/tasks)
-- **Calendar:** [Proton Calendar](https://proton.me/calendar)
+- **Calendar:** [Nextcloud Calendar](https://apps.nextcloud.com/apps/calendar)
 
 ---
 
@@ -130,10 +130,10 @@ Some people on my blogroll have similar pages, and I find it useful and interest
 
 ### Web, Search & Discovery
 
-- **Web Browser:** [Brave](https://brave.com/), [Firefox](https://www.mozilla.org/firefox)
-- **Mobile Browser:** [Brave](https://brave.com/)
+- **Web Browser:** [Brave Origin](https://brave.com/origin/download-nightly/), [Firefox](https://www.mozilla.org/firefox)
+- **Mobile Browser:** [Brave Origin](https://brave.com/origin/download-nightly/)
 - **Search Engine:** [Brave Search](https://search.brave.com/)
-- **RSS Client:** [Read You](https://github.com/Ashinch/ReadYou), [Miniflux](https://miniflux.app/)
+- **RSS Client:** [Read You](https://github.com/Ashinch/ReadYou)
 
 ---
 
@@ -147,8 +147,8 @@ Some people on my blogroll have similar pages, and I find it useful and interest
 
 ### Files, Storage & Backup
 
-- **Cloud Storage:** [Proton Drive](https://proton.me/drive), [Nextcloud](https://nextcloud.com/)
-- **Backups:** [Kopia](https://kopia.io/), [Rclone](https://rclone.org/)
+- **Cloud Storage:** [Nextcloud](https://nextcloud.com/)
+- **Backups:** [Rclone](https://rclone.org/)
 
 ---
 
@@ -161,21 +161,21 @@ Some people on my blogroll have similar pages, and I find it useful and interest
 
 ### Development
 
-- **Code Editor:** [Zed](https://zed.dev/), [VS Code](https://code.visualstudio.com/), [NeoVim](https://neovim.io/)
+- **Code Editor:** [Zed](https://zed.dev/)
 - **Terminal Emulator:** [Kitty](https://sw.kovidgoyal.net/kitty)
-- **Code Repositories:** [SourceHut](https://sr.ht/), [GitHub](https://github.com/), [Codeberg](https://codeberg.org/)
-- **Server Provisioning:** [Oracle](https://www.oracle.com/cloud), [Vercel](https://vercel.com/)
+- **Code Repositories:** [Codeberg](https://codeberg.org/), [SourceHut](https://sr.ht/), and [GitHub](https://github.com/)
+- **Server Provisioning:** [Oracle](https://www.oracle.com/cloud)
 - **Web Analytics:** [Umami](https://umami.is/)
 
 ---
 
 ### Security & Privacy
 
-- **Password Manager:** [Proton Pass](https://proton.me/pass)
+- **Password Manager:** [KeepassXC](https://keepassxc.org/)
 - **2FA Authenticator:** [Ente Auth](https://ente.io/auth)
 - **VPN:** [Tailscale](https://tailscale.com/), [Proton VPN](https://protonvpn.com/)
 - **Email Aliases:** [SimpleLogin](https://simplelogin.io/)
-- **Ad Blocking:** [uBlock Origin](https://github.com/gorhill/uBlock)
+- **Ad Blocking:** [uBlock Origin](https://github.com/gorhill/uBlock) on Firefox, [Brave Shields](https://brave.com/shields/) on Brave
 
 ---
 
