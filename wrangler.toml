@@ -21,4 +21,4 @@ not_found_handling = "404-page"
 
 # Custom Variables
 [vars]
-HUGO_VERSION = "0.160.1"
+HUGO_VERSION = "0.159.0"
