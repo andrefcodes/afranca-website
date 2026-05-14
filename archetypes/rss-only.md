@@ -14,5 +14,8 @@ build:
   publishResources: false
 ---
 
+{{< rss-only-notice >}}
+
+
 
 <!--more-->

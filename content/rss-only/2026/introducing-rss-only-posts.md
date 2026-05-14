@@ -14,6 +14,8 @@ build:
   publishResources: false
 ---
 
+{{< rss-only-notice >}}
+
 I've just added a new feature to the blog: **RSS-only posts**. These are pieces of content that appear exclusively in your feed reader but are never rendered as public web pages.
 
 <!--more-->
