@@ -49,6 +49,29 @@ For installation, setup, and command usage, refer to the official Hugo documenta
 
 - [https://gohugo.io/documentation/](https://gohugo.io/documentation/)
 
+## Makefile Usage
+
+The `Makefile` is portable for Linux environments and does not contain machine-specific paths.
+
+### Prerequisites
+
+- `bash`
+- `make`
+- `hugo` (extended)
+- `git`
+- `node`/`npm` (for `npx wrangler deploy`)
+- `wrangler` available through `npx`
+- `zed` (used by `post`, `page`, and `rss-post` to open created files)
+
+### Common Commands
+
+- `make post "My Post Title"`: create a new post in `content/posts/<year>/...` and open it in Zed
+- `make page "About"`: create a new page in `content/pages/...` and open it in Zed
+- `make rss-post "Feed Note"`: create a feed-only post in `content/rss-only/<year>/...` and open it in Zed
+- `make build`: clean Hugo output folders and build the site
+- `make deploy`: compare local Hugo version with `HUGO_VERSION` in `wrangler.toml`, update it when local is newer, then run `npx wrangler deploy`
+- `make commit`: commit and push changed/new files under `content/posts`, `content/pages`, and `content/rss-only`
+
 ## Search
 
 Search is implemented with Lunr.js and rendered via site templates:
