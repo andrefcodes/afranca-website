@@ -67,6 +67,3 @@ node_modules/
 
 # Cloudflare Wrangler
 .wrangler/
-
-# Ignore local Makefile helper
-Makefile
