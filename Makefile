@@ -92,6 +92,24 @@ deploy:
 	  tmp=$$(mktemp); \
 	  awk -v v="$$current_hugo" 'BEGIN{updated=0} /^[[:space:]]*HUGO_VERSION[[:space:]]*=/{print "HUGO_VERSION = \"" v "\""; updated=1; next} {print} END{if(!updated) exit 1}' wrangler.toml > "$$tmp" && mv "$$tmp" wrangler.toml || { rm -f "$$tmp"; echo "✗ Failed to update wrangler.toml."; exit 1; }; \
 	fi; \
+	echo "Checking for Wrangler update..."; \
+	latest_wrangler=$$(npm view wrangler version 2>/dev/null || true); \
+	current_wrangler=$$(node -e "try{console.log(require('./node_modules/wrangler/package.json').version)}catch(e){process.exit(1)}" 2>/dev/null || true); \
+	if [ -n "$$current_wrangler" ] && [ -n "$$latest_wrangler" ] && [ "$$current_wrangler" = "$$latest_wrangler" ]; then \
+	  echo "Wrangler is up to date ($$current_wrangler)."; \
+	else \
+	  if [ -z "$$current_wrangler" ]; then \
+	    echo "Wrangler not installed. Installing latest..."; \
+	  else \
+	    echo "Updating Wrangler from $$current_wrangler to $$latest_wrangler..."; \
+	  fi; \
+	  npm i -D wrangler@latest; \
+	  if [ -n "$$latest_wrangler" ]; then \
+	    echo "Wrangler updated to $$latest_wrangler."; \
+	  else \
+	    echo "Wrangler updated."; \
+	  fi; \
+	fi; \
 	npx wrangler deploy; \
 	if [ $$? -eq 0 ]; then \
 	  echo "✓ Site was deployed and can be accessed at $$baseurl."; \
