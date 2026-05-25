@@ -76,7 +76,8 @@ commit:
 	git push
 
 deploy:
-	@echo "Deploying with Wrangler (npx wrangler deploy)..."; \
+	@$(MAKE) --no-print-directory build; \
+	echo "Deploying with Wrangler (npx wrangler deploy)..."; \
 	if [ -z "$(SITE_URL)" ]; then baseurl="(unknown)"; else baseurl="$(SITE_URL)"; fi; \
 	current_hugo=$$(hugo version | sed -nE 's/.*v([0-9]+\.[0-9]+\.[0-9]+).*/\1/p' | head -n1); \
 	configured_hugo=$$(awk -F '"' '/^[[:space:]]*HUGO_VERSION[[:space:]]*=/{print $$2; exit}' wrangler.toml); \
