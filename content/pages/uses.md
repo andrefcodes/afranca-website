@@ -1,7 +1,7 @@
 ---
 title: "Things I Use"
 date: 2024-10-22T13:35:00+00:00
-lastmod: 2026-05-14T15:00:00-03:00
+lastmod: 2026-05-24T23:54:34-03:00
 slug: "uses"
 description: "Overview of my current hardware and software setup, from laptops and audio gear to productivity tools, open-source apps, and daily-use services. "
 image: "https://images.unsplash.com/photo-1619644213422-44a8c6f01d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxkZXZpY2VzfGVufDB8fHx8MTc2NzA0OTU0OHww&ixlib=rb-4.1.0&q=80&w=2000"
@@ -62,6 +62,14 @@ Some people on my blogroll have similar pages, and I find it useful and interest
 
 ### Audio
 
+- Fosi K5 Pro
+  - USB DAC / Headphone Amplifier
+  - Inputs: USB-C, Optical, Coaxial
+  - Outputs: 3.5mm Headphone, RCA Line Out
+  - DAC: up to 24-bit / 192kHz (USB/Optical/Coax)
+  - Output power: 1000mW@16Ω, 500mW@32Ω, 300mW@64Ω, 150mW@128Ω, 80mW@300Ω
+  - THD: ≤0.003%, SNR: ≥110dB
+  - Controls: master volume, bass, treble, input mode switch
 - EarStudio ES100 MK2 Portable DAC/Amp
   - Bluetooth 5 / USB
   - Codecs: LDAC, aptX HD, aptX, AAC, SBC
@@ -96,6 +104,15 @@ Some people on my blogroll have similar pages, and I find it useful and interest
   - Plug interface: 3.5mm
   - Earphone interface: 0.78mm (2-PIN)
   - In Ear
+- Huawei FreeClip 2
+  - Open-ear wireless earbuds
+  - Each earbud: 5.1g
+  - Bluetooth 6.0
+  - IP57 earbuds / IP54 charging case
+  - Battery: 60mAh per earbud, 537mAh charging case
+  - Playback: up to 9h per charge, up to 38h with case
+  - Calling: up to 6h per charge, up to 25h with case
+  - USB-C wired charging or up to 3W wireless charging
 
 ## Software
 
