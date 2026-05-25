@@ -92,6 +92,9 @@
 			{{- end -}}
 			{{- $entryContent = printf `%s<hr /><p>Questions, comments, or feedbacks? Feel free to reach out by %s.</p>` $entryContent $linksText -}}
 		{{- end }}
+		{{- $baseURL := strings.TrimSuffix "/" site.BaseURL -}}
+		{{- $entryContent = replace $entryContent "src=\"/" (printf "src=\"%s/" $baseURL) -}}
+		{{- $entryContent = replace $entryContent "src='/'" (printf "src='%s/" $baseURL) -}}
 		<content type="html">{{ $entryContent | transform.XMLEscape | safeHTML }}</content>
 	</entry>
 	{{- end }}
