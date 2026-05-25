@@ -37,7 +37,7 @@
 {{- end -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n" | safeHTML -}}
 {{- printf "<?xml-stylesheet type=\"text/xsl\" href=\"%s\"?>\n" ("/xsl/atom.xsl" | absURL) | safeHTML -}}
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.Language.LanguageCode }}">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.Language.Locale }}">
 	<id>{{ .Permalink }}</id>
 	<title>{{ .Site.Title }}</title>
 	<updated>{{ $feedUpdated.Format "2006-01-02T15:04:05Z07:00" }}</updated>
