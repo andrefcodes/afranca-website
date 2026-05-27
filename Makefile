@@ -5,7 +5,7 @@ SHELL := /bin/bash
 CLI_TITLE := $(strip $(wordlist 2,$(words $(MAKECMDGOALS)),$(MAKECMDGOALS)))
 SITE_URL := $(shell awk -F '=' '/^[[:space:]]*baseURL[[:space:]]*=/ {gsub(/^[[:space:]]+|[[:space:]]+$$/, "", $$2); gsub(/^"|"$$/, "", $$2); print $$2; exit}' hugo.toml)
 
-slugify = $$(echo "$(1)" | tr '[:upper:]' '[:lower:]' | sed -E "s/'//g" | sed -E 's/[^a-z0-9]+/-/g' | sed -E 's/^-+|-+$$//g')
+slugify = $$(printf "%s" "$(1)" | iconv -f utf-8 -t ascii//TRANSLIT | tr '[:upper:]' '[:lower:]' | sed -E "s/'//g" | sed -E 's/[^a-z0-9]+/-/g' | sed -E 's/^-+|-+$$//g')
 
 open_in_editor = \
 	zed "$(1)" >/dev/null 2>&1 || true
