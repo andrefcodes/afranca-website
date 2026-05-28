@@ -1,4 +1,5 @@
 baseURL = "https://afranca.com.br"
+timeZone = "America/Sao_Paulo"
 locale = "en"
 title = "Andre Franca"
 enableRobotsTXT = true
