@@ -1,7 +1,7 @@
 ---
 title: "Things I Use"
 date: 2024-10-22T13:35:00+00:00
-lastmod: 2026-05-24T23:54:34-03:00
+lastmod: 2026-05-28T15:49:34-03:00
 slug: "uses"
 description: "Overview of my current hardware and software setup, from laptops and audio gear to productivity tools, open-source apps, and daily-use services. "
 image: "https://images.unsplash.com/photo-1619644213422-44a8c6f01d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIwfHxkZXZpY2VzfGVufDB8fHx8MTc2NzA0OTU0OHww&ixlib=rb-4.1.0&q=80&w=2000"
@@ -24,7 +24,7 @@ Some people on my blogroll have similar pages, and I find it useful and interest
   - Memory: 32GB DDR5 4800MHz
   - Battery: 80Whr (in my tests, around 3 hours)
   - Storage: 1TB PCIe Gen 4
-  - OS / DE: Fedora / Gnome
+  - OS / DE: Arch / Gnome
   - External Monitor: DELL S2721QS 27"
   - External Keyboard: Akko 3084B [Linear Switches]({{< ref "/posts/2024/from-tactile-to-linear-keyboard-switches.md" >}})
 
