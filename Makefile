@@ -104,7 +104,11 @@ deploy:
 	  else \
 	    echo "Updating Wrangler from $$current_wrangler to $$latest_wrangler..."; \
 	  fi; \
-	  npm i -D wrangler@latest; \
+	  npm -C "$(CURDIR)" i -D wrangler@latest; \
+	  echo "Updating wrangler.toml compatibility_date to today's date..."; \
+	  today=$$(date +%F); \
+	  tmp=$$(mktemp); \
+	  awk -v d="$$today" 'BEGIN{updated=0} /^[[:space:]]*compatibility_date[[:space:]]*=/{print "compatibility_date = \"" d "\""; updated=1; next} {print} END{if(!updated) exit 1}' wrangler.toml > "$$tmp" && mv "$$tmp" wrangler.toml || { rm -f "$$tmp"; echo "✗ Failed to update wrangler.toml compatibility_date."; exit 1; }; \
 	  if [ -n "$$latest_wrangler" ]; then \
 	    echo "Wrangler updated to $$latest_wrangler."; \
 	  else \
