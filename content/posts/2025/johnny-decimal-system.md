@@ -21,7 +21,7 @@ Johnny describes his system as
 
 I stupidly assumed adopting it would be a simple "flip the switch" thing. Just create some directories, assign some numbers, and *voilà,* I become an organized human being. Reality: I got lost for a couple of days wondering how I acquired so much digital junk.
 
-**L**ong story short, I couldn’t go fully Johnny Decimal in every area of my digital life.
+Long story short, I couldn’t go fully Johnny Decimal in every area of my digital life.
 
 ### Here’s what didn’t work well:
 
