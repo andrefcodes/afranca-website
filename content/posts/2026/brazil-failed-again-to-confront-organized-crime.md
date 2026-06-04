@@ -1,7 +1,7 @@
 ---
 title: "Brazil Failed (Again) to Confront Organized Crime"
 date: 2026-05-30T23:31:10-03:00
-lastmod: 2026-05-30T23:31:10-03:00
+lastmod: 2026-06-02T14:10:10-03:00
 slug: "brazil-failed-again-to-confront-organized-crime"
 description: "U.S. labels CV and PCC as terrorists, exposing Lula's weak response to Brazil’s criminal crisis and refusal to back tougher international action today."
 image: ""
@@ -16,7 +16,9 @@ The Trump administration labeled Brazil's CV and PCC as terrorist organizations,
 
 Marco Rubio, now running State, said the obvious about these groups. They're brutally violent, they don't stop at Brazil's borders, and they move money, weapons, drugs, people, influence... They export chaos through many regions and, yes, into the US.
 
-And this wasn't a surprise for any sane Brazilian. In 2025, David Gamble, the State Department's sanctions coordinator at the time, came to Brazil with a proposal tied to treating these factions as terrorist groups so the U.S. could hit them harder with sanctions. Reuters reported Lula's government rejected that approach and repeated the line that Brazil doesn't classify CV and PCC as terrorist organizations.
+And this isn't a surprise for any sane Brazilian. [I actually wrote a long post related to this last year]({{< ref "/posts/2025/por-que-precisamos-de-mais-operacoes-contra-o-terror-das-faccoes.md">}}).
+
+In 2025, David Gamble, the State Department's sanctions coordinator at the time, came to Brazil with a proposal tied to treating these factions as terrorist groups so the U.S. could hit them harder with sanctions. Reuters reported Lula's government rejected that approach and repeated the line that Brazil doesn't classify CV and PCC as terrorist organizations.
 
 Give me a break.
 
