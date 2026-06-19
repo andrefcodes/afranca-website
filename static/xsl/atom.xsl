@@ -228,7 +228,7 @@
             <p class="site-title p-name">
               <a class="u-url u-uid" href="/" rel="me">Andre Franca</a>
             </p>
-            <img class="u-photo site-icon hidden" src="/images/avatar/author.png" alt="Andre Franca"/>
+            <img class="u-photo site-icon hidden" src="/images/avatar/profile-rounded.webp" alt="Andre Franca"/>
             <p class="p-note hidden">I'm Andre, a tech nerd and open source enthusiast.</p>
             <div class="gh-head-actions">
               <a href="/feed.xml" title="RSS Feed" target="_blank" class="nav-rss">
