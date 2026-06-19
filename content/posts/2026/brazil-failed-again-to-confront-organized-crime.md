@@ -3,7 +3,7 @@ title: "Brazil Failed (Again) to Confront Organized Crime"
 date: 2026-05-30T23:31:10-03:00
 lastmod: 2026-06-02T14:10:10-03:00
 slug: "brazil-failed-again-to-confront-organized-crime"
-description: "U.S. labels CV and PCC as terrorists, exposing Lula's weak response to Brazil’s criminal crisis and refusal to back tougher international action today."
+description: "U.S. labels CV and PCC as terrorists, exposing Lula's weak response to Brazil's criminal crisis and refusal to back tougher international action today."
 image: ""
 draft: false
 featured: false
