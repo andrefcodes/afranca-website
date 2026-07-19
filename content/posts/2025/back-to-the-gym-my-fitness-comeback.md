@@ -1,7 +1,7 @@
 ---
 title: "Back to the Gym: My Fitness Comeback"
 date: 2025-06-09T18:15:00+00:00
-lastmod: 2025-12-08T14:50:57+00:00
+lastmod: 2026-07-18T09:50:57+00:00
 slug: "back-to-the-gym-my-fitness-comeback"
 description: "Returning to the gym after 18 years, I reclaim health, strength, and balance while reflecting on fitness, obesity, and steroid culture."
 image: "https://images.unsplash.com/photo-1599058917212-d750089bc07e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fHdvcmslMjBvdXR8ZW58MHx8fHwxNzY0NzAyMjU0fDA&ixlib=rb-4.1.0&q=80&w=2000"
@@ -10,29 +10,23 @@ draft: false
 featured: false
 ---
 
-After 18 years away from the gym, I finally decided to return. It wasn’t an easy decision, but it became inevitable as I faced the consequences of years of a sedentary lifestyle. My body was heavier, my energy levels were low, and simple daily activities started to feel like strenuous tasks.
+Eighteen years off and I somehow convinced myself I was "fine". Classic lie. The kind you tell yourself when you're tired, busy, and quietly getting softer every month.
 <!--more-->
 
-The first day back was intimidating. Stepping into a somewhat familiar but at the same time foreign environment, surrounded by individuals lifting weights and pushing their limits, brought back memories of my younger, fitter self. This time, however, my goals were not just about aesthetics but reclaiming my health, strength, and vitality.
+The bill eventually shows up. For me it was the little stuff turning into big stuff: stairs that shouldn't feel like a mini cardio test, sleep that got worse instead of better, a constant low-grade fog like my body was running a heavy background process. Living abroad didn't help either. New routines, new excuses, more takeout than I want to admit, and the slow, steady creep upward that's easy to ignore until it isn't.
 
-Over the years, especially after living abroad, my weight gradually increased. Life's demands, coupled with poor eating habits and a lack of physical activity, led me to a point where I could no longer ignore the effects. It wasn’t just about appearance; I felt the toll on my physical and mental well-being. Climbing a few flights of stairs left me breathless, and getting a good night's sleep became a challenge. I knew that continuing on this path would only aggravate the problem.
+So I went back.
 
-Returning to the gym became my form of "rebellion" against the unhealthy lifestyle I had embraced. The first few weeks were brutal. My body resisted the change, and my muscles ached in protest. But I've been showing up consistently since then. Consistency became my mantra, and gradually, the scale started to reflect my efforts.
+Walking into the gym after that long is a weird mix of nostalgia and embarrassment. You recognize the smell of rubber and sweat, the clang of plates, the dude who looks like he was born in a squat rack. But you also realize you're not the guy you were at 20. That old version of me could show up randomly, half-ass a week of workouts, and still look decent. This time I needed it to be real, not cosplay.
 
-One of the most rewarding aspects of my return to the gym has been the noticeable increase in strength and overall disposition. Tasks that once felt burdensome became easier, like being able to lift heavier weights around the house or playing with my kids without feeling exhausted. I found myself waking up with more energy and approaching my day with a sense of vitality I hadn’t felt in years.
+The first couple weeks sucked. Not "oh what a challenge" sucked, like actual sore-in-my-bones, why-did-I-do-this, everything-hurts sucked. I had DOMS in places I forgot existed. I'd sit down and my legs would negotiate the terms like they were a union.
 
-Beyond the physical benefits, exercising became a stress reliever, providing a mental reset after long days. My mood improved (people around me noticed), and feelings of fatigue and lethargy diminished.
+But here's the thing: the gym doesn't care about your excuses. You either show up again or you don't.
 
-In recent years, I have observed a concerning cultural shift towards the romanticization of excess weight. I don't fully agree, but I understand that for some people, body positivity helps foster self-love and combating harmful beauty standards. However, there is a fine line between accepting oneself and ignoring genuine health risks, or even pressuring people to normalize it. Some in favor of this movement argue that you can be healthy at any size. While it is true that some individuals with excess weight may present normal blood pressure, cholesterol, and glucose levels, this alone **does not** neutralize the long-term risks associated with obesity.
+I started showing up again.
 
-Excess weight is a known risk factor for numerous health conditions, including heart disease, type 2 diabetes, and joint problems. Normal lab results today do not guarantee future health. By promoting the idea that obesity is entirely benign, we risk encouraging complacency and discouraging individuals from making lifestyle changes that could significantly improve their quality of life.
+Consistency is the only magic trick that isn't bullshit. After a while, the scale started moving in the right direction, but more importantly, my day-to-day life got lighter. Carrying stuff around the house stopped feeling like a scene from a bad survival movie. Playing with my kids stopped coming with that "dad needs to lie down for a minute" tax. I started waking up with energy instead of dread.
 
-Another aspect that has shocked me is the widespread use of anabolic steroids. In my early gym days, performance-enhancing drugs were taboo and reserved for elite bodybuilders like Arnold Schwarzenegger or Ronnie Coleman. Today, it is disturbingly common to see casual gym-goers turning to steroids in pursuit of the 'perfect' aesthetic body.
+And mentally? I didn't realize how much constant inactivity was messing with my head. Training is a pressure valve. Not some social media quote, just reality. You lift heavy things, you breathe, you sweat, you leave less angry than you arrived. People around me noticed before I did, which is always a little humbling.
 
-Social media exacerbates this trend where influencers advertise drugs with a simple swipe-up link, without revealing the sacrifices and health risks involved. Many people prioritize aesthetics over well-being, often ignoring the serious consequences of steroid use, such as hormonal imbalances, cardiovascular issues, and psychological effects.
-
-What concerns me most is how normalized this behavior has become. In these few months of going to the gym, I have witnessed how conversations about cycles, stacks, and post-cycle therapy are as common as discussions about soccer. Younger folks, in particular, are vulnerable to this influence. They see steroid use as a shortcut to their dream body, unaware of the lifelong consequences they might face.
-
-Well, my return to the gym after 18 years has been nothing short of transformative. It has been a journey of resilience and growth. Battling overweight and regaining my strength has been teaching me the value of consistency and patience. I remain committed to promoting a balanced, sustainable approach to health and well-being. True fitness is not about quick fixes or superficial ideals, but fostering a lifestyle that enhances both physical and mental health.
-
-For anyone considering their own return to the gym, know that the journey is worth it. The road may be challenging, but the rewards are worth it.
+So yeah, I'm back in the gym after 18 years, and it's been transformative, but not in the cheesy way. It's transformative because it forces me to deal with my habits, my choices, and my accountability.
