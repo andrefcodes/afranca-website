@@ -1,7 +1,7 @@
 ---
 title: "AUR is f***ed"
-date: 2026-06-19T13:56:14-03:00
-lastmod: 2026-06-19T13:56:14-03:00
+date: 2026-07-19T13:56:14-03:00
+lastmod: 2026-07-19T13:56:14-03:00
 slug: "aur-is-f"
 description: "Arch Linux AUR Compromise: How to Check If You're Affected and Stay Safe"
 image: ""
@@ -12,7 +12,7 @@ tags: ["Technology", "Security", "Linux"]
 
 As an Arch Linux user, I've always praised the AUR (Arch User Repository) as one of Arch's greatest strengths. Actually, it's one of the reason why so many people recommend Arch.
 <!--more-->
-Recently, I found out that over 400 AUR packages were compromised in a massive supply chain attack, leaving me feeling the same frustration many of you are probably feeling right now.
+Last month, I found out that over 400 AUR packages were compromised in a massive supply chain attack, leaving me feeling the same frustration many of you probably felt as well.
 
 I spent some time researching, running some checks on my system, and figuring out whether my system was affected.
 
@@ -35,7 +35,7 @@ yay -Qam > packages_aur.txt
 
 ### Cross-Referencing Against Compromised Packages
 
-I downloaded the community's list of compromised packages:
+I downloaded a community's list of compromised packages:
 
 ```bash
 curl https://md.archlinux.org/s/SxbqukK6IA/download > compromised.txt
@@ -58,6 +58,7 @@ grep -wFf compromised.txt packages_aur.txt
 # Searched for malicious npm/bun patterns in pacman cache
 grep -rl "atomic-lockfile" /var/cache/pacman/pkg/ 2>/dev/null
 grep -rl "js-digest" /var/cache/pacman/pkg/ 2>/dev/null
+grep -rl "lockfile-js" /var/cache/pacman/pkg/ 2>/dev/null
 
 # Searched for the payload path in your home directory
 grep -rl "src/hooks/deps" ~/ 2>/dev/null
