@@ -1,8 +1,8 @@
 ---
-title: "AUR is f***ed"
+title: "AUR"
 date: 2026-07-19T13:56:14-03:00
 lastmod: 2026-07-19T13:56:14-03:00
-slug: "aur-is-f"
+slug: "aur"
 description: "Arch Linux AUR Compromise: How to Check If You're Affected and Stay Safe"
 image: ""
 draft: false
