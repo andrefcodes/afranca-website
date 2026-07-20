@@ -1,5 +1,5 @@
 name = "abf"
-compatibility_date = "2026-04-27"
+compatibility_date = "2026-07-19"
 preview_urls = false
 workers_dev = false
 
@@ -21,4 +21,4 @@ not_found_handling = "404-page"
 
 # Custom Variables
 [vars]
-HUGO_VERSION = "0.162.0"
+HUGO_VERSION = "0.164.0"
