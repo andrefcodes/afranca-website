@@ -39,7 +39,7 @@ summarylength = 70
   codeLicenseURL = "/licenses#code-license"
   contentLicense = "CC BY-NC-SA"
   contentLicenseURL = "/licenses#content-license"
-  sourceCode = "https://codeberg.org/abf/afranca-website"
+  sourceCode = "https://github.com/andrefcodes/afranca-website"
 
   # Umami analytics
   [params.umami]
